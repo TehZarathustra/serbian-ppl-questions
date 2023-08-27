@@ -1,0 +1,17 @@
+lockfileVersion: 5.4
+
+specifiers:
+  pdf2json: ^3.0.4
+
+dependencies:
+  pdf2json: 3.0.4
+
+packages:
+
+  /pdf2json/3.0.4:
+    resolution: {integrity: sha512-NKmSg78W5V/T3Qvp+TPkYeARdP/XzxBTlhRGdDMrOI1beyI72JxW5u4yy5825ge3opzu4HF0xDgg+HZbYvbr4g==}
+    engines: {node: '>=18.12.1', npm: '>=8.19.2'}
+    hasBin: true
+    dev: false
+    bundledDependencies:
+      - '@xmldom/xmldom'
