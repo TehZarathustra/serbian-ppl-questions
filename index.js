@@ -94,7 +94,7 @@ const PDFS = {
 	communications: '9.Communications.pdf',
 }
 
-async function loadPDF(parser, {path}) {
+function loadPDF(parser, {path}) {
 	parser.loadPDF(`./pdfs/${path}`)
 
 	return new Promise((resolve, reject) => {
