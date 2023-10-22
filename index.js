@@ -1,6 +1,25 @@
 import fsPromises from 'node:fs/promises';
 import PDFParser from 'pdf2json';
 
+const checkIfTrash = item => {
+	// PPL (A) –
+	const ppla_regex = /PPL \(A\) –/;
+	// Latest information about
+	const latest_info_regex = /Latest information about/;
+	// www.cad.gov
+	const cad_regex = /www.cad.gov/;
+	// 2 / 27
+	const page_regex = /[0-9] \/ [0-9]/;
+	const TRASH = [
+		ppla_regex,
+		latest_info_regex,
+		cad_regex,
+		page_regex
+	];
+
+	return TRASH.some(regex => regex.test(item));
+};
+
 const onReady = filename => pdfData => {
 	const questions = {};
 	const questionRegex = /^([0-9]|[1-9][0-9]|[1-9][0-9][0-9])(\)|\.)$/;
@@ -11,6 +30,8 @@ const onReady = filename => pdfData => {
 	let variant = '';
 
 	const parseItem = item => {
+		if (checkIfTrash(item)) return;
+
 		if (prev === 'finished') {
 			if (questionRegex.test(item)) {
 				currentQuestion = formatQuestion(item);
@@ -38,7 +59,7 @@ const onReady = filename => pdfData => {
 		if (prev === 'variants') {
 			const curr = questions[currentQuestion];
 
-			if (variantRegex.test(item)) {
+			if (variantRegex.test(item) && Object.keys(curr.variants).length < 4) {
 				variant = item[0];
 
 				curr.variants = {
@@ -67,6 +88,9 @@ const onReady = filename => pdfData => {
 
 	// debug each page
 	// pdfData.Pages[1].Texts.forEach(item => parseItem(decodeURIComponent(item.R[0].T)))
+	// console.log(questions)
+
+	// return;
 
 	return fsPromises.writeFile(`./parsed/${filename}.json`, JSON.stringify(questions))
 };
@@ -85,10 +109,10 @@ const onReady = filename => pdfData => {
 const PDFS = {
 	air_law: '1.Air law.pdf',
 	aircraft_general_knowledge: '2.Aircraft general knowledge.pdf',
-	flight_planning_and_monitoring: '3.Flight planning and monitoring.pdf',
+	flight_planning_and_monitoring: '3.Flight planning and monitoring.pdf', // broken
 	human_performance: '4.Human performance.pdf',
 	meteorology: '5.Meteorology.pdf',
-	navigation: '6.Navigation.pdf',
+	navigation: '6.Navigation.pdf', // broken
 	procedures: '7.Operational procedures.pdf',
 	principles_of_flight: '8.Principles of flight.pdf',
 	communications: '9.Communications.pdf',
