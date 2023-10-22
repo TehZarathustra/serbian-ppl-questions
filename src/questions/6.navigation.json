@@ -1,0 +1,816 @@
+{
+  "0": {
+    "title": "The attached map distance between points A and B is 9 cm. how many Nm is it? (see Figure PPL Nav-2) Which mark on the wind triangle represents a magnetic variation? (see Figure PPL Nav-13) ",
+    "variants": {
+      "1": "Which mark on the wind triangle represents a compass deviation? (see Figure PPL Nav-13) ",
+      "a": "Mark 10. ",
+      "b": "Mark 5. ",
+      "c": "Mark 8. ",
+      "d": "Mark 9.  (PPL Nav-13) PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      13 / 28 "
+    }
+  },
+  "3": {
+    "title": "A Rhumb Line is?",
+    "variants": {
+      "4": "Variation is the angle between:",
+      "a": "True north and Magnetic north.",
+      "b": "True north and the nearest line of Longitude.",
+      "c": "Magnetic north and the aircraft's Magnetic heading.",
+      "d": "Magnetic north and the aircraft's True heading."
+    }
+  },
+  "5": {
+    "title": "An Isogonal is a line joining points of:Which point has the geographical coordinates N 44° 33, 2’ and E 20° 59, 0’? (see Figure PPL Nav-4) What is the meaning of the term \"drift angle\" in navigation? ",
+    "variants": {
+      "a": "The difference between a direction of the true air speed of an aircraft and a desired track. ",
+      "b": "The angle between an aircraft's longitudinal axis and an actual path. ",
+      "c": "The difference between a magnetic course and a wind direction. ",
+      "d": "The difference between an angle under wind blows to the vector of an actual true air speed and a direction of an aircraft's longitudinal axis. "
+    }
+  },
+  "6": {
+    "title": "Which points on the Earth's surface determine the Earth's axis?a)North and south geographic pole.The geographic coordinates point DUBRA  are (see Figure PPL Nav-4) Which mark on the wind triangle represents a true heading? ",
+    "variants": { "b": "Mark 4. ", "c": "Mark 2. ", "d": "Mark 1. ", "a": "Mark 3. " }
+  },
+  "7": {
+    "title": "The circumference of the Earth along the Equator is approximately",
+    "variants": {
+      "a": "40,075 km.",
+      "b": "21,600 NM.",
+      "c": "30,000 NM.",
+      "d": "24,000 km.PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      3 / 28 "
+    }
+  },
+  "8": {
+    "title": "The Earth's diameter, when compared to the Earth' axis, is The distance of 1 NM is equivalent to The scale of the chart is 1:300 000. How many centimetres represents the distance 210km? Which mark on the wind triangle sketch denotes a compass heading? (see Figure PPL Nav-13) ",
+    "variants": {
+      "a": "Mark 1. ",
+      "b": "Mark 2. ",
+      "c": "Mark 3. ",
+      "d": "Mark 4.  (PPL Nav-13) 7"
+    }
+  },
+  "9": {
+    "title": "Which of the following statements, regarding rotation of the Earth around the Sun, is correct? The Earth : Which mark on the wind triangle represents a wind correction angle? (see Figure PPL Nav-13) ",
+    "variants": {
+      "a": "Mark 5. ",
+      "b": "Mark 2. ",
+      "c": "Mark 3. ",
+      "d": "Mark 4.  (PPL Nav-13) 8"
+    }
+  },
+  "10": {
+    "title": "The Earth's globe rotates : If receiving ADF indication B, what magnetic heading should the aircraft be turned to fly directly to the NDB station? (see Figure PPL Nav-10) ",
+    "variants": {
+      "a": "190°. ",
+      "b": "010°. ",
+      "c": "145°.  (PPL Nav-10) 1",
+      "d": "Around its axis in the direction from the east to the west. "
+    }
+  },
+  "11": {
+    "title": "The orbit of the Earth is: If receiving ADF indication B, what approximate magnetic heading should the aircraft be turned to intercept the 180° bearing TO the station? (see Figure PPL Nav-10) ",
+    "variants": {
+      "a": "220°. ",
+      "b": "040°. ",
+      "c": "160°.  (PPL Nav-10) 1",
+      "d": "A circle around which the Sun rotates. "
+    }
+  },
+  "12": {
+    "title": "What is the cause of the seasons? If an ADF indicator in the cockpit corresponds to the figure C, the magnetic bearing FROM the station is (see Figure PPL Nav-10) ",
+    "variants": {
+      "a": "115°. ",
+      "b": "025°. ",
+      "c": "295°. (PPL Nav-10) 1",
+      "d": "A shape of the Earth's orbit. "
+    }
+  },
+  "13": {
+    "title": "The shortest distance between two points on the Earth's globe is called: Which of the figures corresponds to an ADF indicator of an aircraft, flying TO the station with a right crosswind? (see Figure PPL Nav-10) ",
+    "variants": { "a": "D. ", "b": "A. ", "c": "B. (PPL Nav-10) ", "d": "Small circle. " }
+  },
+  "14": {
+    "title": "Great Circle(s) on the Earth's surface is(are): ",
+    "variants": {
+      "a": "The equator, meridians and orthodroms. ",
+      "b": "The equator only. ",
+      "c": "The equator and meridians. ",
+      "d": "The equator, meridians and parallels of latitude. "
+    }
+  },
+  "15": {
+    "title": "The equator is the Great Circle which plane: ",
+    "variants": {
+      "a": "Divides the Earth's globe into the north and south hemisphere. ",
+      "b": "Divides the Earth's globe into the east and west hemisphere. ",
+      "c": "Is parallel to the Earth's axis. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      4 / 28 "
+    }
+  },
+  "16": {
+    "title": "How many Great Circles (orthodroms) can be determined on the Earth's surface? On a magnetic heading of 035° and with an ADF indication as figure I, the magnetic bearing TO the station is (see Figure PPL Nav-11) ",
+    "variants": { "a": "035°. ", "b": "180°. ", "c": "215°.  (PPL Nav-11) 1", "d": "360. " }
+  },
+  "17": {
+    "title": "The Great Circle on the Earth's globe is the cross-section of the Earth's surface and the plane passing through On a magnetic heading of 120° and with an ADF indication as figure J, the magnetic bearing TO the station is (see Figure PPL Nav-11) ",
+    "variants": {
+      "a": "165°. ",
+      "b": "045°. ",
+      "c": "270°.  (PPL Nav-11) 1",
+      "d": "Any two points on the Earth's surface; the cross-section with the Earth's surface is the shortest distance between these points. "
+    }
+  },
+  "18": {
+    "title": "Which of the following circles on the Earth's globe does not have the center at the Earth's center? If the magnetic bearing of an aircraft TO the station is 240°, what is the magnetic heading if the ADF indicator corresponds to the figure J? (see Figure PPL Nav-11) ",
+    "variants": { "a": "195°. ", "b": "045°. ", "c": "105°.  (PPL Nav-11) 1", "d": "Equator. " }
+  },
+  "19": {
+    "title": "What is the characteristic of the Rhumb Line? If the magnetic bearing of an aircraft TO the station is 030°, what is the magnetic heading if the ADF indicator corresponds to the figure K? (see Figure PPL Nav-11) ",
+    "variants": {
+      "a": "120°. ",
+      "b": "060°. ",
+      "c": "270°.  (PPL Nav-11) 1",
+      "d": "It cuts meridians under various angles. "
+    }
+  },
+  "20": {
+    "title": "Which circles, forming the graticule, are at the same time Great Circles and Rhumb Lines? If the magnetic bearing of an aircraft TO the station is 135°, what is the magnetic heading if the ADF indicator corresponds to the figure L? (see Figure PPL Nav-11) ",
+    "variants": {
+      "a": "360°. ",
+      "b": "135°. ",
+      "c": "270°.  (PPL Nav-11) 1",
+      "d": "Equator only. "
+    }
+  },
+  "21": {
+    "title": "The Sun travels across the sky an arc of 5° in Choose the correct sequence of procedures in the cockpit for flying inbound to the VOR station. a) Rotate the OBS selector knob to center the CDI needle with TO indication. b) Check the identification signal. c) Check for proper frequency selected. d) Turn the aircraft into the heading, equal to the radial selected on the OBS. ",
+    "variants": {
+      "a": "c, b, a, d ",
+      "b": "b, c, a, d ",
+      "c": "d, a, b, c ",
+      "d": "a, b, c, d PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      18 / 28 "
+    }
+  },
+  "22": {
+    "title": "What time is needed for the Sun's azimuth to change by 27 arc degrees? ",
+    "variants": {
+      "a": "108 minutes. ",
+      "b": "30 minutes. ",
+      "c": "90 minutes. ",
+      "d": "135 minutes. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      5 / 28 "
+    }
+  },
+  "23": {
+    "title": "The Co-ordinated Universal Time (UTC) is ",
+    "variants": {
+      "a": "The time on the longitude 0 degrees. ",
+      "b": "The Local Time. ",
+      "c": "The Zone Time. ",
+      "d": "The MidEuropean Time. "
+    }
+  },
+  "24": {
+    "title": "13:00 accordingly to the MidEuropean Summer Time is ",
+    "variants": { "a": "1100 UTC. ", "b": "1200 UTC. ", "c": "1400 UTC. ", "d": "0100 UTC. " }
+  },
+  "25": {
+    "title": "An aircraft over Belgrade is headed exactly to the south. It is 1200 UTC. What is theRelative bearing of the Sun? ",
+    "variants": {
+      "a": "Right of the aircraft's nose. ",
+      "b": "Exactly straight-in. ",
+      "c": "Left of the aircraft's nose. ",
+      "d": "May be left or right of the aircraft's nose, with regard to the season. "
+    }
+  },
+  "26": {
+    "title": "The geographic latitude is the distance of a point on the Earth's surface from the ",
+    "variants": {
+      "a": "Equator, measured in arc degrees. ",
+      "b": "Equator, measured in statute miles. ",
+      "c": "Prime Meridian, measured in arc degrees. ",
+      "d": "Prime Meridian, measured in geographic miles. "
+    }
+  },
+  "27": {
+    "title": "What is the latitude of a point on the Equator? ",
+    "variants": { "a": "0°. ", "b": "90°N. ", "c": "180°S. ", "d": "90°S. " }
+  },
+  "28": {
+    "title": "Longitude change between point A (04° 14' 28\" E) an B (02° 30' 30\" E) on the Earth's globe is ",
+    "variants": {
+      "a": "01° 43' 58\". ",
+      "b": "06° 44' 58\". ",
+      "c": "02° 44' 58\". ",
+      "d": "02° 16' 02\". "
+    }
+  },
+  "29": {
+    "title": "What is the difference between the latitude of the point A and the point B, which are located on following parallels of latitude: A: 15° 54' 30\" N B: 10° 33' 30\" S ",
+    "variants": {
+      "a": "26° 28' 00\". ",
+      "b": "05° 21' 00\". ",
+      "c": "25° 27' 00\". ",
+      "d": "05° 28' 00\". PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      6 / 28 "
+    }
+  },
+  "30": {
+    "title": "Determine the latitude of the point B, located 240 NM north of the point A with the latitude 62° 33' 00\" N. ",
+    "variants": {
+      "a": "66° 33' 00\" N. ",
+      "b": "58° 33' 00\" N. ",
+      "c": "86° 33' 00\" N. ",
+      "d": "64° 33' 00\" N. "
+    }
+  },
+  "31": {
+    "title": "The distance between the parallel of latitude 10°N and the parallel of latitude 11°N, measured along the meridian, is ",
+    "variants": { "a": "111 km. ", "b": "60 SM. ", "c": "60 km. ", "d": "111 NM. " }
+  },
+  "32": {
+    "title": "The geographic coordinates of the point A are(see Figure PPL Nav-1) Which airplane(s) correspond(s) to the VOR indicator U? (see Figure PPL Nav-12) ",
+    "variants": {
+      "3": "The geographic coordinates of the point B are(see Figure PPL Nav-1) ",
+      "4": "The geographic coordinates of the point C are(see Figure PPL Nav-1) ",
+      "a": "Airplane 6 only. ",
+      "b": "Airplanes 1 and 2. ",
+      "c": "Airplane 2 only.  (PPL Nav-12) 1",
+      "d": "N 45° 00, 9’ and N 19° 45,0'.  (PPL Nav-1) 3"
+    }
+  },
+  "33": {
+    "title": "Which presentation of a VOR indicator corresponds to airplanes 8? (see Figure PPL Nav-12) ",
+    "variants": { "a": "W. ", "b": "T. ", "c": "V.  (PPL Nav-12) 1" }
+  },
+  "34": {
+    "title": "Which presentation of a VOR indicator corresponds to airplanes 5 and 7? (see Figure PPL Nav-12) ",
+    "variants": { "a": "W and Z. ", "b": "T and X. ", "c": "V and X.  (PPL Nav-12) " }
+  },
+  "37": {
+    "title": "11 km north of the geographic coordinates N 44 ° 41.3 'E and 21 ° 04.1' is the place? (see Figure PPL Nav-4) ",
+    "variants": { "a": "Gaj ", "b": "Skorenovac ", "c": "Radinac ", "d": "Kovin  (PPL Nav-1) 3" }
+  },
+  "39": {
+    "title": "The distance of 1 NM equals to ",
+    "variants": { "a": "1,852 m. ", "b": "1,111 m. ", "c": "1,432 m. ", "d": "1,609 m. " }
+  },
+  "40": {
+    "title": "The formula for a quick calculation from kilometres to nautical miles is: ",
+    "variants": {
+      "a": "(km : 2) + 10%. ",
+      "b": "(km x 2) - 22%. ",
+      "c": "(km : 2) - 10%. ",
+      "d": "(km x 2) - 10%. "
+    }
+  },
+  "41": {
+    "title": "Approximately how many kilometres are in 70 nautical miles? ",
+    "variants": { "a": "130 km. ", "b": "135 km. ", "c": "140 km. ", "d": "145 km. " }
+  },
+  "42": {
+    "title": "The distance of 1 statute mile is equal to ",
+    "variants": { "a": "1,609 m. ", "b": "1,852 m. ", "c": "1,432 m. ", "d": "1,111 m. " }
+  },
+  "43": {
+    "title": "How many kilometres are in 50 SM (statute miles)? ",
+    "variants": {
+      "a": "Approximately 80 km. ",
+      "b": "Approximately 92 km. ",
+      "c": "Exactly 100 km. ",
+      "d": "Little less than 75 km. "
+    }
+  },
+  "44": {
+    "title": "Where on the chart can the distance between the two points be determined, which has been callipered by a pair of compasses or marked on the edge of a piece of paper? ",
+    "variants": {
+      "a": "On each Meridian or on the scale ribbon on the edge of the chart. ",
+      "b": "On each Meridian. ",
+      "c": "Only on the Meridian at the midpoint between points. ",
+      "d": "Only on the scale ribbon on the edge of the chart. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      8 / 28 "
+    }
+  },
+  "45": {
+    "title": "On a chart, 6 cm represents the distance 15 km. What is the scale of the chart? ",
+    "variants": { "a": "1:250 000. ", "b": "1:300 000. ", "c": "1:400 000. ", "d": "1:500 000. " }
+  },
+  "46": {
+    "title": "The scale of the chart is 1:500 000. How many centimetres represents the distance 105km? ",
+    "variants": { "a": "21.0 cm. ", "b": "10.5 cm. ", "c": "42.0 cm. ", "d": "84.0 cm. " }
+  },
+  "47": {
+    "title": "The scale of the chart is? (see Figure PPL Nav-3) ",
+    "variants": {
+      "a": "1:250 000. ",
+      "b": "1:300 000. ",
+      "c": "1:200 000. ",
+      "d": "1:500 000. (PPL Nav-3). 4"
+    }
+  },
+  "49": {
+    "title": "The attached map distance between points A and B is 9 cm. how many kilometers is it? (see Figure PPL Nav-2) ",
+    "variants": { "a": "18.  ", "b": "9.  ", "c": "4.5.  ", "d": "1.8.  (PPL Nav-2) 5" }
+  },
+  "52": {
+    "title": "How far will an aircraft travel with 32 gal of usable fuel with fuel consumption 7,1 gal/h at the groundspeed 108 kts? (Allow 1-hour final reserve fuel) ",
+    "variants": {
+      "a": "379 NM. ",
+      "b": "384 NM. ",
+      "c": "420 NM. ",
+      "d": "487 NM. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      9 / 28 "
+    }
+  },
+  "53": {
+    "title": "How far will an aircraft travel with 27 gal of usable fuel with fuel consumption 6,8 gal/h at the groundspeed 93 kts? (Allow 6-gallons final reserve fuel) ",
+    "variants": { "a": "287 NM. ", "b": "292 NM. ", "c": "301 NM. ", "d": "308 NM. " }
+  },
+  "54": {
+    "title": "How many gallons of usable fuel should be on board of an aircraft for a distance flight of 300 NM at the groundspeed 120 kts and average fuel consumption 7,3 gal/h? (Allow 1-hour fuel reserve). ",
+    "variants": { "a": "25.6 gal. ", "b": "15.0 gal ", "c": "18.3 gal. ", "d": "21.4 gal. " }
+  },
+  "55": {
+    "title": "A distance in meters could be converted to feet using the formula: ",
+    "variants": {
+      "a": " (m x 3) + 10%. ",
+      "b": "m x 0.3. ",
+      "c": "(m : 10) x 3. ",
+      "d": "(m x 3) : 10. "
+    }
+  },
+  "56": {
+    "title": "An altitude 1,500 meters is approximately ",
+    "variants": { "a": "4,900 ft. ", "b": "3,600 ft. ", "c": "4,000 ft. ", "d": "4,500 ft. " }
+  },
+  "57": {
+    "title": "On a chart we read the obstacle altitude 275 meters. Regarding the rule of height clearance 1,000 feet over obstacles, what is the lowest altitude for overflying the obstacle? ",
+    "variants": { "a": "1,900 ft. ", "b": "2,230 ft. ", "c": "2,130 ft. ", "d": "1,230 ft. " }
+  },
+  "58": {
+    "title": "Altitude 6,000 ft is approximately ",
+    "variants": { "a": "1,800 m. ", "b": "1,200 m. ", "c": "3,000 m. ", "d": "12,000 m. " }
+  },
+  "59": {
+    "title": "Approximately what QNH pressure corresponds to the QFE pressure 1000 hPa on an airfield with the elevation 200 meters? ",
+    "variants": {
+      "a": "1025 hPa. ",
+      "b": "985 hPa. ",
+      "c": "990 hPa. ",
+      "d": "1035 hPa. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      10 / 28 "
+    }
+  },
+  "60": {
+    "title": "If a pilot changes the altimeter setting from 996 hPa to 1033 hPa, the altitude indication will ",
+    "variants": {
+      "a": "Increase. ",
+      "b": "Not change. ",
+      "c": "Decrease at low temperatures and increase at high temperatures. ",
+      "d": "Decrease for 1,000 ft. "
+    }
+  },
+  "61": {
+    "title": "When set to 1008 hPa, an aircraft's altimeter indicates 1,600 ft. What would be the indication if setting is changed to 1009 hPa? ",
+    "variants": { "a": "1,630 ft. ", "b": "1,610 ft. ", "c": "1,570 ft. ", "d": "1,590 ft. " }
+  },
+  "62": {
+    "title": "If a pilot changes the altimeter setting from 1010 hPa to 1000 hPa, what is the approximate change in indication? ",
+    "variants": {
+      "a": "Altimeter will indicate 300 ft lower. ",
+      "b": "Altimeter will indicate 300 ft higher. ",
+      "c": "No change in indication. ",
+      "d": "Variously, dependent on QNH. "
+    }
+  },
+  "63": {
+    "title": "What does a measuring unit knot used in aviation mean? ",
+    "variants": { "a": "NM/h. ", "b": "SM/h. ", "c": "Km/h. ", "d": "m/h. " }
+  },
+  "64": {
+    "title": "The wind velocity of 10 m/sec approximately equals to ",
+    "variants": { "a": "20 kts. ", "b": "40 kts. ", "c": "5 kts. ", "d": "2,5 kts. " }
+  },
+  "65": {
+    "title": "Wind velocity 5 kts is approximately ",
+    "variants": {
+      "a": "10 km/hour. ",
+      "b": "5 statute miles/hour. ",
+      "c": "20 m/sec. ",
+      "d": "All of the above is correct. "
+    }
+  },
+  "66": {
+    "title": "A velocity 120 km/h, expressed in knots, is ",
+    "variants": {
+      "a": "65 kts. ",
+      "b": "50 kts. ",
+      "c": "58 kts. ",
+      "d": "60 kts. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      11 / 28 "
+    }
+  },
+  "67": {
+    "title": "If a vertical speed indicator of a towing airplane shows 500 ft/min, the approximately aerotow's rate-of-climb in meters-per-second is ",
+    "variants": { "a": "2,5 m/sec. ", "b": "1,5 m/sec. ", "c": "3,5 m/sec. ", "d": "5 m/sec. " }
+  },
+  "68": {
+    "title": "What is the ground speed (GS) of an aircraft, covering in 40 minutes the distance, that represents 10.8 cm on an 1:500 000 chart? ",
+    "variants": { "a": "81 km/h. ", "b": "81 kts. ", "c": "100 mph. ", "d": "100 km/h. " }
+  },
+  "69": {
+    "title": "An aircraft would cover a 120 km-distance in no wind condition in 2 hours and 40 minutes, however in actual meteo conditions the flight lasted 3 hours and 5 minutes. What was the longitudinal wind component on route? ",
+    "variants": {
+      "a": "6 km/h headwind. ",
+      "b": "16 kts tailwind. ",
+      "c": "16 km/h headwind. ",
+      "d": "6 kts tailwind. "
+    }
+  },
+  "70": {
+    "title": "The distance of the route from the point X to the point Y via the control point Z is 84 km. If an aircraft covers the first segment X-Z (35 km) in 50 minutes, what will be the total time of flight between the points X and Y? ",
+    "variants": {
+      "a": "2 hours. ",
+      "b": "45 minutes. ",
+      "c": "50 minutes. ",
+      "d": "1 hour and 10 minutes. "
+    }
+  },
+  "71": {
+    "title": "How far will an aircraft travel in 2-1/2 minutes with a groundspeed of 98 knots? ",
+    "variants": { "a": "4.08 NM. ", "b": "2.45 NM. ", "c": "3.35 NM. " }
+  },
+  "72": {
+    "title": "100 kg is how many pounds? ",
+    "variants": { "a": "220 lbs. ", "b": "180 lbs. ", "c": "200 lbs. ", "d": "250 lbs. " }
+  },
+  "73": {
+    "title": "90 pounds is how many kilograms? ",
+    "variants": {
+      "a": "41 kg. ",
+      "b": "37 kg. ",
+      "c": "45 kg. ",
+      "d": "52 kg. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      12 / 28 "
+    }
+  },
+  "74": {
+    "title": "25 US gallons is how many liters? ",
+    "variants": { "a": "95 l. ", "b": "98 l. ", "c": "100 l. ", "d": "105 l. " }
+  },
+  "75": {
+    "title": "Which mark on the wind triangle represents a true course? (see Figure PPL Nav-13) ",
+    "variants": { "a": "Mark 4. ", "b": "Mark 3. ", "c": "Mark 2. ", "d": "Mark 1. (PPL Nav-13) 7" }
+  },
+  "77": {
+    "title": "Which mark on the wind triangle represents a magnetic heading? (see Figure PPL Nav-13) ",
+    "variants": {
+      "a": "Mark 2. ",
+      "b": "Mark 1. ",
+      "c": "Mark 3. ",
+      "d": "Mark 4.  (PPL Nav-13) 7"
+    }
+  },
+  "82": {
+    "title": "Which mark on the wind triangle represents an aircraft's true airspeed (TAS)? (see Figure PPL Nav-13) ",
+    "variants": {
+      "3": "Which mark on the wind triangle represents an aircraft's ground speed (GS)? (see Figure PPL Nav-13) ",
+      "4": "Which mark on the wind triangle represents a wind vector? (see Figure PPL Nav-13) ",
+      "a": "Mark 7. ",
+      "b": "Mark 5. ",
+      "c": "Mark 6. ",
+      "d": "Mark 8.  (PPL Nav-13) 8"
+    }
+  },
+  "86": {
+    "title": "A Wind Correction Angle is the angle difference between ",
+    "variants": {
+      "a": "True heading and desired true course. ",
+      "b": "Desired true and desired magnetic course. ",
+      "c": "True and magnetic heading. ",
+      "d": "Magnetic and compass heading in no wind condition. "
+    }
+  },
+  "87": {
+    "title": "Which azimuth corresponds to the general direction WNW? ",
+    "variants": { "a": "292.5°. ", "b": "247.5°. ", "c": "337.5°. ", "d": "202.5°. " }
+  },
+  "88": {
+    "title": "Which parameter is included in the reckoning of a magnetic course? ",
+    "variants": {
+      "a": "Magnetic variation. ",
+      "b": "Compass deviation. ",
+      "c": "Magnetic inclination. ",
+      "d": "Wind correction angle. "
+    }
+  },
+  "89": {
+    "title": "The angle between a direction toward geographic north and a direction toward magnetic north is called ",
+    "variants": {
+      "a": "Variation. ",
+      "b": "Compass deviation. ",
+      "c": "Inclination. ",
+      "d": "Convergency of meridians. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      14 / 28 "
+    }
+  },
+  "90": {
+    "title": "The magnetic variation value of a given point on the Earth's surface can be obtained by ",
+    "variants": {
+      "a": "Referring to the isogonic lines on aeronautical charts. ",
+      "b": "Referring to the table of magnetic variation in the cockpit. ",
+      "c": "Calculating the angular difference between the meridian of a given point and the Greenwich meridian. ",
+      "d": "Calculating the difference between magnetic and compass heading. "
+    }
+  },
+  "91": {
+    "title": "Lines on geographical charts joining points of equal magnetic variation, are called ",
+    "variants": {
+      "a": "Izogonic lines. ",
+      "b": "Agonic lines. ",
+      "c": "Izoclinic lines. ",
+      "d": "Izobars. "
+    }
+  },
+  "92": {
+    "title": "Lines on geographical charts joining points of a zero magnetic variation, are called ",
+    "variants": {
+      "a": "Agonic lines. ",
+      "b": "Izogonic lines. ",
+      "c": "Izoclinic lines. ",
+      "d": "Aclinic lines. "
+    }
+  },
+  "93": {
+    "title": "What is the magnetic variation of the area? (see Figure PPL Nav-3) ",
+    "variants": {
+      "4": "When calculating magnetic direction from a given true direction, westerly variation should be ",
+      "a": "Added. ",
+      "b": "Subtracted. ",
+      "c": "Multiplicated. ",
+      "d": "Divided. "
+    }
+  },
+  "95": {
+    "title": "Magnetic course is calculated using the equation ",
+    "variants": {
+      "a": "True course plus/minus magnetic variation. ",
+      "b": "True heading plus/minus magnetic variation. ",
+      "c": "True course plus/minus compass deviation. ",
+      "d": "Magnetic heading plus/minus compass deviation. "
+    }
+  },
+  "96": {
+    "title": "Magnetic heading is ",
+    "variants": {
+      "a": "True heading plus/minus variation. ",
+      "b": "True course plus/minus variation. ",
+      "c": "True course plus/minus deviation. ",
+      "d": "Magnetic course plus/minus deviation. "
+    }
+  },
+  "97": {
+    "title": "Is it possible for a desired true track, true heading and actual true track to have the same value? ",
+    "variants": {
+      "a": "Yes. ",
+      "b": "No, in no case. ",
+      "c": "Yes, because these values are always equal. ",
+      "d": "This is possible only when flying in north or south direction. "
+    }
+  },
+  "98": {
+    "title": "Which element of the wind triangle has a null value if a magnetic heading equals compass heading? ",
+    "variants": {
+      "a": "Compass deviation. ",
+      "b": "Inclination. ",
+      "c": "Drift. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      15 / 28 ",
+      "d": "Magnetic variation. "
+    }
+  },
+  "99": {
+    "title": "The true heading for a flight between two points of a route is 270° and the wind correction angle is -10°. What will be the true heading for a return flight between the same points? ",
+    "variants": { "a": "100°. ", "b": "090°. ", "c": "180°. ", "d": "110°. " }
+  },
+  "100": {
+    "title": "Which statement is true about homing when using ADF? ",
+    "variants": {
+      "a": "Homing allows flying along curved path only, which leads to the NDB station. ",
+      "b": "Homing is a practical navigational method, usable for flying to and away from the NDB station. ",
+      "c": "Homing requires an ADF with the automatic or at least manually adjusting compass rose. "
+    }
+  },
+  "101": {
+    "title": "To use an VHF/DF facilities for assistance in location an aircraft's position, the aircraft must have a ",
+    "variants": {
+      "a": "VHF transmitter and receiver. ",
+      "b": "4096-code transponder. ",
+      "c": "VOR receiver and DME. "
+    }
+  },
+  "102": {
+    "title": "An NDB normally transmits on which frequency band? ",
+    "variants": { "a": "190 to 535 KHz. ", "b": "400 to 1020 Hz. ", "c": "962 to 1213 MHz. " }
+  },
+  "103": {
+    "title": "As shown by ADF A, the relative bearing TO the station is (see Figure PPL Nav-10) ",
+    "variants": {
+      "a": "315°. ",
+      "b": "045°. ",
+      "c": "180°.  (PPL Nav-11) PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      16 / 28 "
+    }
+  },
+  "107": {
+    "title": "As shown by ADF F, the relative bearing TO the station is (see Figure PPL Nav-11) ",
+    "variants": { "a": "210°. ", "b": "030°. ", "c": "180°.  (PPL Nav-10) 1" }
+  },
+  "114": {
+    "title": "What is the magnetic bearing FROM the station of an aircraft with an ADF indication, depicted in figure A? (see Figure PPL Nav-10) ",
+    "variants": {
+      "a": "030°. ",
+      "b": "150°. ",
+      "c": "180°.  (PPL Nav-10) PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      17 / 28 "
+    }
+  },
+  "115": {
+    "title": "On a magnetic heading of 320° and with an ADF indication as figure H, the magnetic bearing TO the station is (see Figure PPL Nav-11) ",
+    "variants": { "a": "185°. ", "b": "005°. ", "c": "225°.  (PPL Nav-11) 1" }
+  },
+  "122": {
+    "title": "VOR radials are ",
+    "variants": {
+      "a": "Magnetic directions. ",
+      "b": "Compass directions. ",
+      "c": "True directions. ",
+      "d": "Relative bearings. "
+    }
+  },
+  "123": {
+    "title": "An aircraft has a DME reading 120 miles from a VOR station and a CDI indication is one-fifth of a full deflection to one side. Approximately how many miles off the course centerline is the aircraft? ",
+    "variants": { "a": "6,7 NM. ", "b": "1,5 NM. ", "c": "3,0 NM. " }
+  },
+  "124": {
+    "title": "When using a VOR for navigation, station passage is indicated ",
+    "variants": {
+      "a": "By the first complete reversal of the TO-FROM indicator. ",
+      "b": "When the OFF flag appears. ",
+      "c": "When the TO-FROM flag begins to flicker. ",
+      "d": "When the first full-scale deflection of the CDI. "
+    }
+  },
+  "125": {
+    "title": "Which situation would result in reverse sensing of a VOR receiver? ",
+    "variants": {
+      "a": "Flying a heading that is reciprocal to the bearing selected on the OBS. ",
+      "b": "Setting the OBS to a bearing that is 90° from the bearing on which the aircraft is located. ",
+      "c": "Failing to change the OBS from the selected inbound course to the outbound course after passing the station. "
+    }
+  },
+  "126": {
+    "title": "To track outbound on the 180 radial of a VOR station, the recommended procedure is to set the OBS to ",
+    "variants": {
+      "a": "180° and make heading corrections toward the CDI needle. ",
+      "b": "360° and make heading corrections toward the CDI needle. ",
+      "c": "180° and make heading corrections away from the CDI needle. "
+    }
+  },
+  "127": {
+    "title": "To track inbound on the 215 radial of a VOR station, the recommended procedure is to set the OBS to ",
+    "variants": {
+      "a": "035° and make heading corrections toward the CDI needle. ",
+      "b": "215° and make heading corrections toward the CDI needle. ",
+      "c": "215° and make heading corrections away from the CDI needle. "
+    }
+  },
+  "128": {
+    "title": "With a VOR/ILS receiver set to a VOR frequency, how many degrees does full deflection of a CDI to one side represent? ",
+    "variants": { "a": "10°. ", "b": "5°. ", "c": "20°. " }
+  },
+  "129": {
+    "title": "An aircraft 60 miles from a VOR station has a CDI indication one-fifth deflection, this represents a course centerline deviation of approximately ",
+    "variants": { "a": "2 miles. ", "b": "6 miles. ", "c": "1 mile. " }
+  },
+  "130": {
+    "title": "Which airplane(s) correspond(s) to the VOR indicator V? (see Figure PPL Nav-12) ",
+    "variants": {
+      "a": "Airplane 2 only. ",
+      "b": "Airplane 6 only. ",
+      "c": "Airplanes 5 and 8.  (PPL Nav-12) PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      19 / 28 "
+    }
+  },
+  "131": {
+    "title": "Which airplane(s) correspond(s) to the VOR indicator X? (see Figure PPL Nav-12) ",
+    "variants": {
+      "a": "Airplanes 1 and 3. ",
+      "b": "Airplanes 3 and 7. ",
+      "c": "Airplane 7 only.  (PPL Nav-12) 1"
+    }
+  },
+  "135": {
+    "title": "Which of the following statements, regarding a DME operation, is correct? ",
+    "variants": {
+      "a": "The frequency of a DME receiver in the aircraft is being adjusted automatically when we set a VOR or ILS frequency. ",
+      "b": "When flying directly above the DME facility, the pilot reads on the DME indicator in the cockpit a zero distance. ",
+      "c": "If we move the DME switch in the cockpit to HOLD, all readings are reset to zero. "
+    }
+  },
+  "136": {
+    "title": "Which distance is displayed by a DME indicator? ",
+    "variants": {
+      "a": "Slant-range distance in nautical miles. ",
+      "b": "Slant-range distance in statute miles. ",
+      "c": "The distance from the aircraft to a point at the same altitude directly above the DME ground facility. "
+    }
+  },
+  "137": {
+    "title": "What is the DME reading if an aircraft is directly over a VOR/DME station at the altitude of 6,000 ft AGL? ",
+    "variants": { "a": "1. ", "b": "0. ", "c": "1,3. " }
+  },
+  "138": {
+    "title": "The slant-range error of a DME is greatest at ",
+    "variants": {
+      "a": "Low altitudes directly over the facility. ",
+      "b": "High altitudes directly over the facility. ",
+      "c": "High altitudes and high range from the facility. "
+    }
+  },
+  "139": {
+    "title": "Directions of airways on the Jeppesen radio navigational chart in Appendix are (see Figure PPL Nav-",
+    "variants": {
+      "3": "",
+      "a": "Magnetic directions. ",
+      "b": "True directions. ",
+      "c": "Loksodromic directions. ",
+      "d": "Compass directions.  (PPL Nav-3) PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      20 / 28 "
+    }
+  },
+  "140": {
+    "title": "Waypoints data in a GPS database (with the exception of users waypoints) could be updated by ",
+    "variants": {
+      "a": "A respective software house only. ",
+      "b": "A pilot, however when in-flight only. ",
+      "c": "A pilot on ground only, when the device is stationary. "
+    }
+  },
+  "141": {
+    "title": "A CDI deviation needle on the GPS electronic screen in the cockpit shows a deviation from the desired track in ",
+    "variants": {
+      "a": "Distance units. ",
+      "b": "Arc degrees. ",
+      "c": "Arc degrees or distance units, depends on pilot's discretion. "
+    }
+  },
+  "142": {
+    "title": "Similarly to a VOR, the accuracy of a GPS in great extend depends on the distance to the point selected. ",
+    "variants": { "a": "False. ", "b": "True. " }
+  },
+  "143": {
+    "title": "A GPS leads an aircraft on route along ",
+    "variants": {
+      "a": "Great circle. ",
+      "b": "Passive curve. ",
+      "c": "Heading line. ",
+      "d": "Rhumb line. "
+    }
+  },
+  "144": {
+    "title": "Which directions are normally selected when setting a GPS? ",
+    "variants": {
+      "a": "Magnetic directions. ",
+      "b": "True directions. ",
+      "c": "Compass directions. "
+    }
+  },
+  "145": {
+    "title": "A GPS signal receptions in great extend depends on the aircraft's altitude. This statement is ",
+    "variants": { "a": "True. ", "b": "False. " }
+  },
+  "146": {
+    "title": "When working with a GPS one must know that ",
+    "variants": {
+      "a": "The device automatically determines the aircraft's present position in geographic coordinates. ",
+      "b": "It is necessary to type in manually geographic coordinates of the aircraft's parking position. ",
+      "c": "The device is able to determine navigational parameters relative only to those fixes, which are in a theoretical sight of view. "
+    }
+  },
+  "147": {
+    "title": "Which map datum should be selected at GPS initialization? ",
+    "variants": { "a": "WGS84. ", "b": "EUROPE. ", "c": "NAD83. " }
+  },
+  "148": {
+    "title": "Which velocity is measured in principle by every GPS instrument? ",
+    "variants": {
+      "a": "Ground Speed. ",
+      "b": "True Air Speed. ",
+      "c": "Vertical Speed. ",
+      "d": "Wind Speed. "
+    }
+  },
+  "149": {
+    "title": "A GPS signal may be interrupted when transmitting on VHF frequencies ",
+    "variants": {
+      "a": "121.15 MHz, 121.17 MHz in 121.20 MHz. ",
+      "b": "131.25 MHz in 131.30 MHz. ",
+      "c": "Both answers are correct. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      21 / 28 "
+    }
+  },
+  "150": {
+    "title": "In a RNAV mode, the lateral deflection of the CDI indicates ",
+    "variants": {
+      "a": "Nautical miles left or right of course. ",
+      "b": "Degrees left or right of course. ",
+      "c": "Statute miles left or right of course. PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      22 / 28 APPENDIX: PPL Nav-1 PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      23 / 28 PPL Nav-2 PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      24 / 28 PPL Nav-3 PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      25 / 28 PPL Nav-4 PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      26 / 28 PPL Nav-10 PPL Nav-11 PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      27 / 28 PPL Nav-12 PPL (A) – Navigation Latest information about the exam can be found atwww.cad.gov.rs/osoblje.php      28 / 28 PPL Nav-13 "
+    }
+  }
+}

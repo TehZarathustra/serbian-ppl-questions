@@ -1,0 +1,1234 @@
+{
+  "0": {
+    "title": "What is the maximum range speed for a piston engine aircraft? ",
+    "variants": {
+      "a": "V",
+      "M": "and at the lowest safe altitude. ",
+      "b": "V",
+      "c": "At a higher speed than V",
+      "N": "and at the lowest safe altitude. ",
+      "d": "At a speed less than V"
+    }
+  },
+  "1": {
+    "title": "Maximum Landing Mass (MLM) is best defined as. ",
+    "variants": {
+      "2": "What V speed is it important not to exceed if sudden full-pitch, nose-up, control movements are planned, and why? ",
+      "3": "What is the colour of the caution speed range on an Air Speed Indicator, and what must the pilot be mindful of when operating in this range? ",
+      "4": "What name is given to the load at which the aircraft structure will fail?  ",
+      "a": "Ultimate Load. ",
+      "b": "Safety Factor Load. ",
+      "c": "Limit Load. ",
+      "d": "Maximum Load. "
+    }
+  },
+  "5": {
+    "title": "An aircraft which has been grossly overloaded will: 1.require increased take-off and landing distances. 2. Have a higher stalling speed. 3. Have a reduced maximum level flight speed. 4. Have increased range and endurance. 5. Have a reduced rate of climb and operating ceiling. Which of the above are correct? ",
+    "variants": {
+      "a": "1, 2, 3, & 5. ",
+      "b": "1, 2, 4 & 5. ",
+      "c": "2, 4 & 5. ",
+      "d": "1, 2, 3 & 4 PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      3 / 32 "
+    }
+  },
+  "6": {
+    "title": "Maximum Zero Fuel Mass (MZFM) is best defined as. ",
+    "variants": {
+      "a": "Maximum permissible mass of the aircraft with no useable fuel. ",
+      "b": "Maximum permissible mass of the aircraft with no passengers or fuel. ",
+      "c": "Maximum permissible mass of the aircraft with no crew or fuel. ",
+      "d": "Maximum permissible mass of the aircraft without occupants and baggage. "
+    }
+  },
+  "7": {
+    "title": "Maximum Take Of Mass (MTOM) is defined best as: ",
+    "variants": {
+      "a": "Maximum permissible total mass at the start of the take off run. ",
+      "b": "Maximum permissible total mass prior to taxiing. ",
+      "c": "Maximum permissible total mass prior to take off. ",
+      "d": "Maximum permissible total mass at the point of rotation. "
+    }
+  },
+  "8": {
+    "title": "Which of the following situations may, under certain conditions, result in structural damage occurring? ",
+    "variants": {
+      "a": "An aircraft being flown above its maximum all up mass. ",
+      "b": "An aircraft in the utility category being flown at its maximum permissible mass. ",
+      "c": "An aircraft being flown above its maximum landing mass. ",
+      "d": "An aircraft in the normal category being flown at its maximum permissible mass. "
+    }
+  },
+  "9": {
+    "title": "Never exceed speed (V",
+    "variants": {
+      "N": ") is the red radial line on the ASI and marks the speed at which: ",
+      "a": "Flight is permitted in smooth conditions only. ",
+      "b": "Prolonged flight is unsafe. ",
+      "c": "Flight is prohibited. ",
+      "d": "Structural damage will occur. "
+    }
+  },
+  "10": {
+    "title": "When flying in very rough air what is the maximum speed to be adopted in order to avoid overstressing the airframe? ",
+    "variants": {
+      "a": "V",
+      "R": "or VA",
+      "b": "VD or V",
+      "N": " or V",
+      "c": "V",
+      "F": "",
+      "d": "VD or VA"
+    }
+  },
+  "11": {
+    "title": "Your aircraft has an oil reservoir with a capacity of 3 imp/gal which is positioned 20 inches aft of the datum. Given that the oil weighs 9.1 lbs/gal, the reservoir will possess a moment of:- ",
+    "variants": { "a": "546 lb in. ", "b": "60 lb in. ", "c": "27.3 lb in. ", "d": "182 lb in. " }
+  },
+  "12": {
+    "title": "Assuming the aircraft is at rest on the ground, what term best describes image 'D'? (See fig. PPL FPP-2) ",
+    "variants": {
+      "a": "Maximum All Up Mass. ",
+      "b": "Zero Fuel Mass. ",
+      "c": "Traffic Load. ",
+      "d": "Empty Mass. PPL FPP-2.jpg PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      4 / 32 "
+    }
+  },
+  "13": {
+    "title": "An aircraft is loaded such that its C of G is on the aft limit:- I The stalling speed decreases, which is a negative factor. II Range and endurance decrease, which are negative factors. III The stall risk increases, which is a negative factor. IV Stick forces increase, which is a negative factor. ",
+    "variants": {
+      "a": "Only II and III are correct. ",
+      "b": "All of the above are correct. ",
+      "c": "Only I and IV are correct. ",
+      "d": "Only II and IV are correct. "
+    }
+  },
+  "14": {
+    "title": "Certification requirements stipulate that when loading a light aircraft: ",
+    "variants": {
+      "a": "The C of G should remain within the defined limits and the Maximum Take-off Mass must not be exceeded. ",
+      "b": "All seats, baggage compartments and fuel tanks are contained within the C of G limits so that it is impossible to load the aircraft beyond its limits. ",
+      "c": "With maximum traffic load and full fuel the aircraft will not exceed the authorised Maximum Take-off Mass. ",
+      "d": "That the Maximum Take-off Mass is not exceeded, and the CofG remains at least 5% inside the C of G limits. "
+    }
+  },
+  "15": {
+    "title": "The Maximum Take-off Mass of an aircraft may be limited by:- ",
+    "variants": {
+      "a": "Structural design load limits and or runway length, altitude and temperature. ",
+      "b": "The authorised performance category of the aircraft, i.e. Utility / normal / aerobatic. ",
+      "c": "The airworthiness condition of the aircraft. ",
+      "d": "All of the above. "
+    }
+  },
+  "16": {
+    "title": "DOM (Dry Operating Mass) is defined as: ",
+    "variants": {
+      "a": "The total mass of the aircraft ready for a specific type of operation including crew, crew baggage and special equipment but excluding useable fuel and traffic load. ",
+      "b": "The total mass of the aircraft ready for a specific type of operation including: crew and crew baggage, catering and removable passenger service equipment and fuel. ",
+      "c": "The total mass of the aircraft ready for a specific type of operation including: crew and crew baggage, catering and removable passenger service equipment and traffic load. ",
+      "d": "The total mass of the aircraft ready for a specific type of operation including: crew and crew baggage, catering and removable passenger service equipment, traffic load and fuel. "
+    }
+  },
+  "17": {
+    "title": "An aircraft loaded in a dangerous manner, so that its C of G is beyond its forward limit will: ",
+    "variants": {
+      "a": "Have both an increased longitudinal stability and stalling speed. ",
+      "b": "Require less effort to flare when landing. ",
+      "c": "Require less effort to rotate on take off. ",
+      "d": "Have both an increased range and endurance. "
+    }
+  },
+  "18": {
+    "title": "The flight characteristics of an aircraft which has its C of G at the forward limit will be:- ",
+    "variants": {
+      "a": "Insensitivity to Pitch Control and great Longitudinal Stability. ",
+      "b": "Insensitivity to Pitch Control and little Longitudinal Stability. ",
+      "c": "Sensitivity to Pitch Control and little Longitudinal Stability. ",
+      "d": "Sensitivity to Pitch Control and great Longitudinal Stability. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      5 / 32 "
+    }
+  },
+  "19": {
+    "title": "An aircraft weighing 2000 lbs with a total CofG moment of + 169400 lb in uplifts 440 lbs of fuel. If the effective arm of the fuel is 88.5 inches aft of the datum, what will be the aircraft's new mass and C of G moment? ",
+    "variants": {
+      "a": "2440 lbs   +208340 lb in. ",
+      "b": "1560 lbs   +208340 lb in. ",
+      "c": "2440 lbs   +169488.5 lb in. ",
+      "d": "1560 lbs   +169488.5 lb in. "
+    }
+  },
+  "20": {
+    "title": "You plan to carry your aircraft's maximum permissible 'Traffic Load'. Your principal consideration during your flight planning will be that:- ",
+    "variants": {
+      "a": "Your fuel load may have to be limited to prevent you exceeding the Maximum All Up Weight / Mass. ",
+      "b": "It is mandatory to carry a full fuel load when carrying passengers. ",
+      "c": "The fuel load is accounted for in 'Traffic Load' calculations. ",
+      "d": "The 'Traffic Load' may have to be reduced to allow for the full fuel load. "
+    }
+  },
+  "21": {
+    "title": "Traffic Load':- ",
+    "variants": {
+      "a": "Is the total mass of passengers, baggage and freight. ",
+      "b": "Includes drinkable water and lavatory chemicals. ",
+      "c": "Is the total mass of passengers, baggage and freight and fuel. ",
+      "d": "Includes the Basic Empty Mass. "
+    }
+  },
+  "22": {
+    "title": "The consequences of operating an aeroplane with the C of G beyond the aft limit will be:-  I On the ground the aircraft would be tail heavy and passenger or crew movement or fuel usage could make it tip up. II The flying controls would be too sensitive increasing the risk of a tail strike at rotation. III The tendency to stall would increase and it may be impossible to achieve \"hands off\" balanced flight. IV Recovery from a spin would be much more difficult. ",
+    "variants": {
+      "a": "All statements are correct. ",
+      "b": "Only statement I is correct. ",
+      "c": "Only statements I and IV are correct. ",
+      "d": "Only statements II and III are correct. "
+    }
+  },
+  "23": {
+    "title": "Assuming the aircraft is at rest on the ground, what term best describes image A'? (See fig. PPL FPP-2) ",
+    "variants": {
+      "a": "Zero Fuel Mass. ",
+      "b": "Take Off Mass. ",
+      "c": "Maximum All Up Mass. ",
+      "d": "Empty Mass. PPL FPP-2.jpg "
+    }
+  },
+  "24": {
+    "title": "In which Category. Utility or Normal, would you expect to operate the aircraft represented in the attached CofG /Moment Envelope if its mass is 2100 lbs and its CofG Moment 90,000 lb inches? (See fig. PPL FPP-7) ",
+    "variants": {
+      "a": "Normal. ",
+      "b": "Utility. ",
+      "c": "Both. ",
+      "d": "Neither. PPL FPP-7.jpg PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      6 / 32 "
+    }
+  },
+  "25": {
+    "title": "What is used as the aircraft reference for the C of G limit, and upon which axis is that limit found?       Axis  Reference ",
+    "variants": {
+      "a": "Longitudinal  Datum ",
+      "b": "Normal  Spinner ",
+      "c": "Lateral  Tail ",
+      "d": "Vertical  Wheels "
+    }
+  },
+  "26": {
+    "title": "C of G limits are set by the manufacturer and: ",
+    "variants": {
+      "a": "Are mandatory. ",
+      "b": "Have only a forward limit. ",
+      "c": "Are a guide only. ",
+      "d": "Have only an aft limit "
+    }
+  },
+  "27": {
+    "title": "Your aircraft has:- A Take-off Mass of = 2353 tbs A calculated C of G for departure = 89.75 inches aft of the datum An estimated fuel burn = 200 lbs with a C of G 85.00 inches aft of datum. The position of the C of G on landing will be? ",
+    "variants": {
+      "a": "90.19 inches aft of the datum. ",
+      "b": "82.52 inches aft of the datum. ",
+      "c": "105.98 inches aft of the datum. ",
+      "d": "96.97 inches aft of the datum. 2 "
+    }
+  },
+  "28": {
+    "title": "The Centre of Gravity range of most aircraft reduces as the aircraft mass increases, as a result of:- ",
+    "variants": {
+      "a": "The forward C of G limit moving rearwards to reduce stability. ",
+      "b": "The aft C of G limit moving forward to increase stability. ",
+      "c": "The aft C of G limit moving rearwards to extend the static margin. ",
+      "d": "The static margin moving forward to reduce manoeuvrability. "
+    }
+  },
+  "29": {
+    "title": "When calculating the MZFM (maximum zero fuel mass), the following are included:- ",
+    "variants": {
+      "a": "Crew, Passengers, Baggage & Catering. ",
+      "b": "Crew, Passengers & Baggage. ",
+      "c": "Crew, Passengers, Baggage, Catering & Fuel. ",
+      "d": "Drinkable water and lavatory chemicals. "
+    }
+  },
+  "30": {
+    "title": "What effect will a higher aircraft mass have on rotate speed and take-off safety speed? ",
+    "variants": {
+      "a": "It will increase both speeds. ",
+      "b": "It will decrease both speeds. ",
+      "c": "It will increase rotate speed and decrease take off safety speed. ",
+      "d": "It will decrease rotate speed and increase take off safety speed. "
+    }
+  },
+  "31": {
+    "title": "What is the effect of runway slope on the take-off? ",
+    "variants": {
+      "a": "An uphill slope will increase the take-off distance. ",
+      "b": "An uphill slope will increase the take-off performance. ",
+      "c": "A downhill slope will increase the take-off distance ",
+      "d": "A downhill slope will decrease the take-off performance. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      7 / 32 "
+    }
+  },
+  "32": {
+    "title": "That part of a runway surface which is used for normal operations during take-off, excluding any clearway or stopway, is referred to as:- ",
+    "variants": {
+      "a": "The take-off run available (TORA). ",
+      "b": "The landing distance available (LDA). ",
+      "c": "The take-off distance available (TODA). ",
+      "d": "The emergency distance available (EMDA). "
+    }
+  },
+  "33": {
+    "title": "If the density of the atmosphere is reduced, the take-off distance will be:- ",
+    "variants": {
+      "a": "Increased. ",
+      "b": "Decreased. ",
+      "c": "Unaffected. ",
+      "d": "Controlled by wind. "
+    }
+  },
+  "34": {
+    "title": "If the density of the air is increased above ISA conditions, the effect will be:- ",
+    "variants": {
+      "a": "To increase the take-off performance. ",
+      "b": "To increase the take-off distance. ",
+      "c": "To decrease the take-off performance. ",
+      "d": "To decrease just the take-off run. "
+    }
+  },
+  "35": {
+    "title": "When the density of the atmosphere is relatively low, the resulting reduction in:- ",
+    "variants": {
+      "a": "Both lift and engine power will require a longer take-off distance. ",
+      "b": "Thrust and drag has no apparent effect on the take-off distance required. ",
+      "c": "Drag will permit the use of greater flap angles. ",
+      "d": "Drag offsets the loss of engine power giving improved acceleration. "
+    }
+  },
+  "36": {
+    "title": "The main reason for taking off into wind is to:- ",
+    "variants": {
+      "a": "Decrease the ground speed of the aircraft at lift-off. ",
+      "b": "Decrease the take off distance available (TODA). ",
+      "c": "Increase the ground speed of the aircraft. ",
+      "d": "Increase the take-off distance. "
+    }
+  },
+  "37": {
+    "title": "Increasing the aeroplane's gross weight will have what effect on the take-off? ",
+    "variants": {
+      "a": "Increase the stall speed and the take-off run required. ",
+      "b": "Decrease the stall speed and increase the take-off run required. ",
+      "c": "Increase the stall speed and decrease the take-off run required. ",
+      "d": "Decrease the stall speed and the take-off run required. "
+    }
+  },
+  "38": {
+    "title": "What is the reason for increasing the speed in a prolonged climb:- ",
+    "variants": {
+      "a": "To increase the flow of air through the engine and keep it cool. ",
+      "b": "To maintain the best rate of climb speed. ",
+      "c": "To reduce the noise of the aircraft in sensitive areas. ",
+      "d": "To maintain the best angle of climb speed. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      8 / 32 "
+    }
+  },
+  "39": {
+    "title": "Climbing at Vy will achieve:- ",
+    "variants": {
+      "a": "The greatest increase in altitude in a given period of time. ",
+      "b": "The maximum angle of climb. ",
+      "c": "The maximum increase in height in the shortest horizontal distance. ",
+      "d": "The best obstacle clearance performance. "
+    }
+  },
+  "40": {
+    "title": "To gain the greatest amount of height in the shortest time period the aircraft should be flown at:- ",
+    "variants": {
+      "a": "The best rate of climb speed (Vy).  ",
+      "b": "60 KT ",
+      "c": "The best angle of climb speed (Vx). ",
+      "d": "At the speed for maximum endurance. "
+    }
+  },
+  "41": {
+    "title": "Calculate the rate of climb for an aircraft operating at 5000ft with an outside air temperature of 0°C. (See fig. PPL FPP-8e) ",
+    "variants": {
+      "2": "Increasing the mass (and, therefore, weight) of the aircraft will:- ",
+      "a": "Decrease the rate and angle of climb. ",
+      "b": "Increase the rate and angle of climb. ",
+      "c": "Increase the rate of climb and decrease the angle of climb. ",
+      "d": "Decrease the rate of climb and increase the angle of climb. "
+    }
+  },
+  "43": {
+    "title": "The best rate of climb is achieved:- ",
+    "variants": {
+      "a": "When flying at the speed for maximum excess power available. ",
+      "b": "When flying at the speed for maximum excess thrust available. ",
+      "c": "When climbing into wind. ",
+      "d": "When flying at vx. "
+    }
+  },
+  "44": {
+    "title": "The indicated air speed for the best rate of climb when climbing to cruise altitude will tend to:- ",
+    "variants": {
+      "a": "Decrease. ",
+      "b": "Decrease then increase. ",
+      "c": "Remain the same. ",
+      "d": "Increase. "
+    }
+  },
+  "45": {
+    "title": "The lift produced by the wing of an aeroplane that is climbing and maintaining a constant airspeed will be:- ",
+    "variants": {
+      "a": "Greater than weight. ",
+      "b": "Less than weight. ",
+      "c": "Equal to weight. ",
+      "d": "Independent of weight. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      9 / 32 "
+    }
+  },
+  "46": {
+    "title": "An aircraft cruising at 2000ft is cleared to climb to 8000ft. Calculate the time taken in minutes, the fuel used in gallons and the distance flown during the climb. The temperature is standard and the wind is calm. (See fig. PPL FPP-9e) Time (mins)       Fuel (gal)      Distance (nm) ",
+    "variants": {
+      "a": "12  2.3  17 ",
+      "b": "15  3.0  21 ",
+      "c": "3  0.7  4 ",
+      "d": "18  3.7  25 PPL FPP-9e.jpg 2"
+    }
+  },
+  "47": {
+    "title": " C limbing at Vx will achieve:- ",
+    "variants": {
+      "a": "The maximum angle of climb. ",
+      "b": "The best time to height. ",
+      "c": "The greatest increase in altitude in a given period of time. ",
+      "d": "The maximum horizontal distance for a given vertical distance. "
+    }
+  },
+  "48": {
+    "title": "If the centre of gravity is moved aftwards. The effect is? ",
+    "variants": {
+      "a": "An increased range and endurance. ",
+      "b": "A stronger lift-weight couple which requires more tail plane down force. ",
+      "c": "A reduced range and endurance. ",
+      "d": "A greater tail load. "
+    }
+  },
+  "49": {
+    "title": "What speed should be flown for maximum range: (See fig. PPL FPP-10e) ",
+    "variants": { "a": "B. ", "b": "A. ", "c": "C. ", "d": "D. PPL FPP-10e.jpg 5" }
+  },
+  "51": {
+    "title": "In order to maximise the glide range, the aircraft should be flown: ",
+    "variants": {
+      "a": "At low angles of attack at V",
+      "M": ". ",
+      "b": "At high angles of attack at V",
+      "c": "At low angles of attack at V",
+      "d": "At a negative angle of attack at V"
+    }
+  },
+  "52": {
+    "title": "A pilot wishes to fly at a speed which will give him maximum range. He knows that he is flying with a tailwind. How will the speed selected by the pilot compare with the maximum range speed for still air? ",
+    "variants": {
+      "a": "It will be decreased by a margin slightly less than the amount of tailwind. ",
+      "b": "It will be increased by a margin slightly less than the amount of tailwind. ",
+      "c": "It will be the same as for still air. ",
+      "d": "It will be decreased by a margin slightly more than the amount of tailwind. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      10 / 32 "
+    }
+  },
+  "53": {
+    "title": "Which of the following cases will result in a reduced performance and possibly exceed the structural limitations of the aircraft? ",
+    "variants": {
+      "a": "An aircraft that is operated above its maximum all up weight. ",
+      "b": "An aircraft that is stalled at its maximum all up weight. ",
+      "c": "An aeroplane that is operated above its maximum all up landing weight ",
+      "d": "An aircraft with a higher take-off mass than a landing mass. "
+    }
+  },
+  "54": {
+    "title": "What is the effect of a headwind on the glide angle and glide distance? ",
+    "variants": {
+      "a": "Glide angle will increase and glide distance decrease. ",
+      "b": "Glide angle will remain the same and glide distance will remain the same. ",
+      "c": "Glide angle will increase and glide distance increase. ",
+      "d": "Glide angle will decrease and glide distance decrease. "
+    }
+  },
+  "55": {
+    "title": "What speed must be flown to attain the maximum cruise endurance? ",
+    "variants": { "a": "V", "M": "", "b": "VY. ", "c": "Maximum speed. ", "d": "V" }
+  },
+  "56": {
+    "title": "The maximum glide range will be achieved by:- ",
+    "variants": {
+      "a": "a relatively low angle of attack being maintained. ",
+      "b": "A relatively high angle of attack being maintained. ",
+      "c": "A negative angle of attack being maintained. ",
+      "d": "A high descent angle. "
+    }
+  },
+  "57": {
+    "title": "If weight is increased, the range of the aircraft will be: ",
+    "variants": {
+      "a": "Reduced. ",
+      "b": "Unchanged. ",
+      "c": "Increased. ",
+      "d": "Reduced if no increase in lift is achieved. "
+    }
+  },
+  "58": {
+    "title": "A wing contaminated by a small amount of ice will produce:- ",
+    "variants": {
+      "a": "More drag, more weight and less lift. ",
+      "b": "More weight and more lift. ",
+      "c": "An increase in both lift and drag co-efficient. ",
+      "d": "An increase in weight and decrease in drag. "
+    }
+  },
+  "59": {
+    "title": "When gliding for maximum range, an aircraft with a greater weight will:- ",
+    "variants": {
+      "a": "Have a faster descent speed but the same descent angle. ",
+      "b": "Have a reduced glide range. ",
+      "c": "Have a shallower descent angle. ",
+      "d": "Have a faster descent speed and a reduced descent distance. "
+    }
+  },
+  "60": {
+    "title": "What speed must be flown to attain the maximum cruise range? ",
+    "variants": {
+      "a": "V",
+      "M": "PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      11 / 32 ",
+      "b": "VX",
+      "c": "Maximum speed. ",
+      "d": "V"
+    }
+  },
+  "61": {
+    "title": "What would be the effect of an increase in temperature upon the air density and aircraft performance? ",
+    "variants": {
+      "a": "Reduced density and reduced aircraft performance. ",
+      "b": "Increased density and reduced aircraft performance. ",
+      "c": "Increased density and increased aircraft performance. ",
+      "d": "Reduced density and an increase in aircraft performance. "
+    }
+  },
+  "62": {
+    "title": "Compared to gliding in still air, the effect of a tailwind will:- ",
+    "variants": {
+      "a": "Increase the glide range but have no effect on the glide endurance. ",
+      "b": "Decrease the glide angle and decrease the rate of descent ",
+      "c": "Have no effect on the glide range or the rate of descent. ",
+      "d": "Increase the glide angle and increase the glide range. "
+    }
+  },
+  "63": {
+    "title": "Which of the speeds indicated by A, B, C or D should be flown for maximum endurance? (See fig. PPL FPP-10e) ",
+    "variants": {
+      "4": "During straight and level flight, any increase in lift causing an imbalance in the equilibrium of forces is compensated for by: ",
+      "a": "A downward force on the tailplane. ",
+      "b": "An upward force on tailplane. ",
+      "c": "An increase in power. ",
+      "d": "A decrease in drag. "
+    }
+  },
+  "65": {
+    "title": "What is the effect of an increase in mass on the staii speed and landing distance required? ",
+    "variants": {
+      "a": "Increased stall speed and increased landing distance. ",
+      "b": "Increased stall speed and decreased landing distance. ",
+      "c": "Decreased stall speed and decreased landing distance. ",
+      "d": "Decreased stall speed and increased landing distance. "
+    }
+  },
+  "66": {
+    "title": "When landing, if an aircraft's true air speed is significantly less than the true ground speed then the aircraft is experiencing: ",
+    "variants": {
+      "a": "A tailwind. ",
+      "b": "A headwind. ",
+      "c": "A reduced atmospheric density. ",
+      "d": "A cross wind. "
+    }
+  },
+  "67": {
+    "title": "If the approach and landing speed is higher recommended speed in the aircraft manual the effect will be that: ",
+    "variants": {
+      "a": "The landing distance will be increased. ",
+      "b": "The landing distance will be decreased,  ",
+      "c": "The landing performance will improve,  ",
+      "d": "The landing distance will be unaffected. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      12 / 32 "
+    }
+  },
+  "68": {
+    "title": "What effect would a 2% downslope have on the landing distance required? ",
+    "variants": {
+      "a": "Increase it by 10%. ",
+      "b": "Increase it by 5%. ",
+      "c": "Decrease it by 5%. ",
+      "d": "Decrease it by 10%. "
+    }
+  },
+  "69": {
+    "title": "Compared to landing on a level runway, what would be the effect of landing on a downward sloping runway? ",
+    "variants": {
+      "a": "The landing distance will be increased. ",
+      "b": "The landing performance will improve. ",
+      "c": "The landing distance will be decreased. ",
+      "d": "The landing distance will be unaffected. "
+    }
+  },
+  "70": {
+    "title": "If the stalling speed in the landing configuration is 55 knots. VREFwould be approximately: ",
+    "variants": { "a": "71kt. ", "b": "65kt. ", "c": "75kt. ", "d": "69 kt. " }
+  },
+  "71": {
+    "title": "The VREFto be attained by the landing screen height of 50ft must be: ",
+    "variants": {
+      "a": "1.3 times the stalling speed in the landing configuration. ",
+      "b": "1.15 times the stalling speed in the take off configuration. ",
+      "c": "1.43 times the stalling speed in the landing configuration. ",
+      "d": "33% of stall speed. "
+    }
+  },
+  "72": {
+    "title": "If the aircraft mass is increased by 15%, the landing distance required will increase approximately: ",
+    "variants": {
+      "a": "15% or by a factor of 1.15 ",
+      "b": "33% or by a factor of 1.33 ",
+      "c": "10% or by a factor of 1.1 ",
+      "d": "20% or by a factor of 1.2 "
+    }
+  },
+  "73": {
+    "title": "Landings are carried out into wind because: ",
+    "variants": {
+      "a": "It will reduce the ground speed and reduce the landing distance required. ",
+      "b": "It increases the ground speed and reduces the landing distance required. ",
+      "c": "It decreases the ground speed and reduces the landing distance available ",
+      "d": "It gives the pilot greater control over the aircraft at lower speeds. "
+    }
+  },
+  "74": {
+    "title": "Determine if the aircraft mass is inside the limits (normal category)! (See fig. PPL FPP-17e) item  mass (lb)  moment/1000 (lbxin) Empty mass  1,350  51.5 Pilot and front passenger  360  Rear passengers  280  Fuel  30 US gal.  Oil,   8 qt   -0.2 ",
+    "variants": {
+      "a": "Inside limits. ",
+      "b": "Forward of the forward limit. ",
+      "c": "Inside limits, close to the forward limit. ",
+      "d": "Aft of the aft limit. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      13 / 32 "
+    }
+  },
+  "75": {
+    "title": "What is the maximum amount of fuel that may be aboard the airplane on takeoff if loaded as follows? (See fig. PPL FPP-17e)                                   item mass (lb)        moment/1000 (lbxin) Empty mass  1,350  51.5 Pilot and front passenger  340  Rear passengers  310 Baggage  45  Oil,   8 qt   -0.2 ",
+    "variants": {
+      "a": "40 USA gal. ",
+      "b": "24 USA gal. ",
+      "c": "34 USA gal. ",
+      "d": "46 USA gal. PPL FPP-17e.jpg 2"
+    }
+  },
+  "76": {
+    "title": " G IVEN:  item mass (lb)   arm(in)        moment (lbxin) Empty mass  1,495.0   101.4  151,593.0 Pilot and passenger   380.0  64.0 Fuel  30 US gal  96.0 The CG is located how far aft of datum? ",
+    "variants": { "a": "94.01 in. ", "b": "92.44 in. ", "c": "119.80 in. ", "d": "135.00 in. 2 " }
+  },
+  "77": {
+    "title": "Determine the moment with the following data: (See fig. PPL FPP-17e) item mass (lb)      moment/1000 (lbxin) Empty mass  1,350  51.5 Pilot and front passenger  340  Fuel (full std. tanks)  Oil,   8 qt   -0.2 ",
+    "variants": {
+      "a": "74.9 lbxin. ",
+      "b": "38.7 lbxin. ",
+      "c": "69.9 lbxin. ",
+      "d": "77.0 lbxin. PPL FPP-17e.jpg 2"
+    }
+  },
+  "78": {
+    "title": "What is the maximum amount of baggage that may be loaded aboard the normal category airplane for CG to remain inside proper limits? (See fig. PPL FPP-17e) item mass (lb)      moment/1000 (lbxin  Empty mass  1,350  51.5 Pilot and front passenger  250  Rear passengers  400 Fuel  30 US gal.  Baggage  Oil,   8 qt   -0.2 ",
+    "variants": {
+      "a": "105 lbs. ",
+      "b": "120 lbs. ",
+      "c": "90 lbs. ",
+      "d": "75 lbs. PPL FPP-17e.jpg 2PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      14 / 32 "
+    }
+  },
+  "79": {
+    "title": "The easiest way to determine the pressure altitude is setting an altimeter to ",
+    "variants": {
+      "a": "1013.2 hPa and reading the altitude. ",
+      "b": "The airport elevation and reading the altitude. ",
+      "c": "The airport elevation and reading the value in the barometric window. ",
+      "d": "Zero and reading the value in the barometric window. "
+    }
+  },
+  "80": {
+    "title": "Basic reason for calculating the density altitude is determining ",
+    "variants": {
+      "a": "The aircraft performance. ",
+      "b": "The pressure altitude. ",
+      "c": "The flight levels above the transition altitude. ",
+      "d": "The safe altitude over mountainous terrain. "
+    }
+  },
+  "81": {
+    "title": "What is pressure altitude? ",
+    "variants": {
+      "a": "The altitude indicated when the barometric pressure scale is set to 1013.2 hPa. ",
+      "b": "The indicated altitude corrected for position and installation error. ",
+      "c": "The indicated altitude corrected for nonstandard temperature and pressure. "
+    }
+  },
+  "82": {
+    "title": "Under which condition will pressure altitude be equal to true altitude? ",
+    "variants": {
+      "a": "When standard atmospheric conditions exist. ",
+      "b": "When the atmospheric pressure is 1013.2 hPa. ",
+      "c": "When indicated altitude is equal to the pressure altitude. "
+    }
+  },
+  "83": {
+    "title": "Which of the factors below increases the density altitude of an airport? ",
+    "variants": {
+      "a": "Increase of temperature. ",
+      "b": "Increase of atmospheric pressure. ",
+      "c": "Decrease of relative humidity of the air. ",
+      "d": "Decrease of temperature. "
+    }
+  },
+  "84": {
+    "title": "Under what condition is indicated altitude the same as true altitude? ",
+    "variants": {
+      "a": "When at sea level under standard conditions. ",
+      "b": "If the altimeter has no mechanical error. ",
+      "c": "With the altimeter set at 1013.2 hPa. "
+    }
+  },
+  "85": {
+    "title": "If the outside air temperature (OAT) at a given altitude is lower than standard, the density altitude is ",
+    "variants": {
+      "a": "Higher than pressure altitude. ",
+      "b": "Lower than pressure altitude and approximately equal to true altitude. ",
+      "c": "Higher than true altitude and lower than pressure altitude. ",
+      "d": "Lower than true altitude. "
+    }
+  },
+  "86": {
+    "title": "What is density altitude? ",
+    "variants": {
+      "a": "The pressure altitude corrected for nonstandard temperature. ",
+      "b": "The height above the standard datum plane. ",
+      "c": "The altitude read directly from the altimeter. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      15 / 32 "
+    }
+  },
+  "87": {
+    "title": "Determine approximately density altitude of an airport, where the temperature is standard and an altimeter set to 1011hPa, reads 1,300 ft. ",
+    "variants": { "a": "1,360 ft. ", "b": "1,240 ft. ", "c": "1,300 ft. ", "d": "1,400 ft. " }
+  },
+  "88": {
+    "title": "What is increase in density altitude if a temperature increases from 0 to 10°C and if the pressure altitude of an airport remains 3,000 ft? ",
+    "variants": { "a": "1,200 ft. ", "b": "3,000 ft. ", "c": "2,200 ft. ", "d": "2,000 ft. " }
+  },
+  "89": {
+    "title": "Determine the pressure altitude with an indicated altitude 1,380 ft with an altimeter setting of 1013.2 hPa at standard temperature. ",
+    "variants": { "a": "1,380 ft. ", "b": "1,280 ft. ", "c": "1,480 ft. ", "d": "1,580 ft. " }
+  },
+  "90": {
+    "title": "What is the effect of a temperature increase of 12°C on the density altitude? ",
+    "variants": {
+      "a": "1,440-foot increase. ",
+      "b": "1,650-foot decrease. ",
+      "c": "1,340-foot decrease. ",
+      "d": "1,650-foot increase. "
+    }
+  },
+  "91": {
+    "title": "Determine the density altitude of an airport for these conditions: QNH   1025 hPa temperature   -4°C elevation   3,850 ft ",
+    "variants": { "a": "2,050 ft. ", "b": "2,900 ft. ", "c": "3,500 ft. ", "d": "3,800 ft. 3 " }
+  },
+  "92": {
+    "title": "What is the approximate pressure altitude if an altimeter is set to 1010 hPa and indicates 1,380 ft? ",
+    "variants": {
+      "a": "1,470 ft. ",
+      "b": "1,200 ft. ",
+      "c": "1,300 ft. ",
+      "d": "1,400 ft. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      16 / 32 "
+    }
+  },
+  "93": {
+    "title": "Determine the density altitude of an airport for these conditions: QNH   1010 hPa temperature   27°C elevation   5,250 ft ",
+    "variants": { "a": "7,890 ft. ", "b": "4,600 ft. ", "c": "5,875 ft. ", "d": "8,800 ft. 3 " }
+  },
+  "94": {
+    "title": "The density altitude could be approximately calculated from the pressure altitude without using a navigation calculator by ",
+    "variants": {
+      "a": "Increasing/decreasing the pressure altitude by 120 ft for each °C deviation above/below the standard temperature. ",
+      "b": "Increasing/decreasing the altitude above the sea level for the difference between the standard and actual atmospheric pressure, converted into an altitude. ",
+      "c": "Increasing the pressure altitude by 4% for each 10°C deviation from the standard temperature. "
+    }
+  },
+  "95": {
+    "title": "Which of the statements below, concerning take-off performance of a powered aircraft regarding the density altitude is correct? At higher density altitudes ",
+    "variants": {
+      "a": "Aircraft accelerate poorer, because of reduced engine and propeller efficiency. ",
+      "b": "Aircraft accelerate better, because of reduced drag due to thinner air. ",
+      "c": "Aircraft must fly at higher-than-normal indicated airspeed in order to produce enough lift. "
+    }
+  },
+  "96": {
+    "title": "How does higher air humidity affect aircraft take-off performance? Take-off distances are ",
+    "variants": {
+      "a": "Longer due to thinner air. ",
+      "b": "Longer due to denser air. ",
+      "c": "Shorter due to denser air. "
+    }
+  },
+  "97": {
+    "title": "Which combination of atmospheric conditions will reduce aircraft takeoff and climb performance? ",
+    "variants": {
+      "a": "High temperature, high relative humidity and high density altitude. ",
+      "b": "Low temperature, low relative humidity and low density altitude. ",
+      "c": "High temperature, low relative humidity and low density altitude. ",
+      "d": "Low temperature, high relative humidity and high density altitude. "
+    }
+  },
+  "98": {
+    "title": "What influence does the increased mass have on powered aircraft takeoff performance? ",
+    "variants": {
+      "a": "At given engine power the aircraft accelerates poorer; the airspeed required for the production of the lift necessary for leaving the ground is greater. ",
+      "b": "At given engine power the aircraft accelerates better, however the airspeed required for production of the lift necessary for lift-off remains unchanged. ",
+      "c": "Each aircraft at given engine power accelerate equally regardless of the mass, however the airspeed required for overcoming the ground effect is greater. "
+    }
+  },
+  "99": {
+    "title": "What effect does an uphill runway slope have on takeoff performance? ",
+    "variants": {
+      "a": "Increases takeoff distance. ",
+      "b": "Increases takeoff speed. ",
+      "c": "Decreases takeoff distance. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      17 / 32 "
+    }
+  },
+  "100": {
+    "title": "What effect does high density altitude have on aircraft performance? ",
+    "variants": {
+      "a": "It reduces climb performance. ",
+      "b": "It increases engine performance. ",
+      "c": "It increases takeoff performance. "
+    }
+  },
+  "101": {
+    "title": "The airplane's or powered hang glider's best angle-of-climb speed (Vx) is used ",
+    "variants": {
+      "a": "When clearing an obstacle. ",
+      "b": "When clearing a moving obstacle. ",
+      "c": "When trying to climb without sacrificing cruising speed. ",
+      "d": "When trying to get cruising altitude quickly. "
+    }
+  },
+  "102": {
+    "title": "Which speed would provide the greatest gain in altitude in the shortest distance during climb after takeoff? ",
+    "variants": {
+      "a": "Best angle-of-climb speed (Vx).. ",
+      "b": "Best climb speed (VY). ",
+      "c": "Maneuvering speed (VA). "
+    }
+  },
+  "103": {
+    "title": "The aircraft's rate-of-climb during a steady climb depends on ",
+    "variants": { "a": "Excess of power. ", "b": "Excess of thrust. ", "c": "Thrust available. " }
+  },
+  "104": {
+    "title": "After takeoff, which airspeed would the pilot use to gain the most altitude in a given  period of time? ",
+    "variants": {
+      "a": "Best climb speed (VY). ",
+      "b": "Best angle-of-climb speed (Vx). ",
+      "c": "Maneuvering speed (VA). "
+    }
+  },
+  "105": {
+    "title": "What is the proper use for the best-rate-of-climb speed (Vy)? ",
+    "variants": {
+      "a": "When trying to get cruising altitude quickly. ",
+      "b": "When clearing an obstacle. ",
+      "c": "When approaching high mountains. ",
+      "d": "When trying to avoid an excessive pitch attitude during a climb. "
+    }
+  },
+  "106": {
+    "title": "What is the influence of the wind on an aeroplane's rate of climb? ",
+    "variants": {
+      "a": "No effect. ",
+      "b": "A headwind will increase the rate of climb. ",
+      "c": "A tailwind will decrease the rate of climb. ",
+      "d": "A tailwind will increase the rate of climb. "
+    }
+  },
+  "107": {
+    "title": "What influence does the wind have on an airplane's angle-of-climb? ",
+    "variants": {
+      "a": "A headwind will steepen the angle-of-climb. ",
+      "b": "No effect. ",
+      "c": "A headwind will lessen the angle-of-climb. ",
+      "d": "A tailwind will steepen the angle-of-climb. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      18 / 32 "
+    }
+  },
+  "108": {
+    "title": "The aircraft's climb angle during a steady climb depends on ",
+    "variants": { "a": "Excess of thrust. ", "b": "Power available. ", "c": "Thrust required. " }
+  },
+  "109": {
+    "title": "At takeoff from a short airfield with an airplane or a powered hang glider, which airspeed should you fly until cleared of obstacles? ",
+    "variants": {
+      "a": "Best angle-of-climb speed (Vx). ",
+      "b": "Best climb speed (VY). ",
+      "c": "Minimum speed (VS). ",
+      "d": "Maneuvering speed (VA). "
+    }
+  },
+  "110": {
+    "title": "During landing on an airport with high elevation the true air speed (TAS) of an aircraft is higher than normal. What indicated speed (IAS) should be kept in such cases? ",
+    "variants": {
+      "a": "Normal speed. ",
+      "b": "Lower than normal. ",
+      "c": "Higher than normal. ",
+      "d": "Increased for 5 kts for each 1,000 ft of airport elevation. "
+    }
+  },
+  "111": {
+    "title": "Should you use the normal approach speed when approaching to land in gusty wind conditions? ",
+    "variants": {
+      "a": "No. Add one half the \"gust factor\" to the calculated approach speed. ",
+      "b": "No. Use 1.2 times stall speed. ",
+      "c": "Yes (go by Operator's Manual). "
+    }
+  },
+  "112": {
+    "title": "Maximum structural cruising speed is the maximum speed at which an airplane can be operated ",
+    "variants": {
+      "a": "In smooth air. ",
+      "b": "During abrupt maneuvers. ",
+      "c": "At normal operations. "
+    }
+  },
+  "113": {
+    "title": "Why should speeds in flight above V",
+    "variants": {
+      "N": " be avoided? ",
+      "a": "The design limit factor may be exceeded, if gusts are encountered. ",
+      "b": "Excessive induced drag will result in a structural failure. ",
+      "c": "Control effectiveness is so impaired that the aircraft becomes uncontrollable. "
+    }
+  },
+  "114": {
+    "title": "Which maximum range factors decreases as weight decreases? ",
+    "variants": { "a": "Airspeed. ", "b": "Altitude. ", "c": "Angle of attack. " }
+  },
+  "115": {
+    "title": "Which V-speed represents maneuvering speed? ",
+    "variants": {
+      "a": "VA. ",
+      "b": "V",
+      "L": ". ",
+      "c": "V",
+      "N": ". PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      19 / 32 "
+    }
+  },
+  "116": {
+    "title": "Maneuvering speed (VA) is the highest speed at which even full abrupt deflection of the elevator will not exceed ",
+    "variants": {
+      "a": "Positive limit load factor. ",
+      "b": "Load factor 1 g. ",
+      "c": "Negative limit load factor. ",
+      "d": "Never exceed speed (vne). "
+    }
+  },
+  "117": {
+    "title": "How will higher altitude affect the cruising indicated airspeed of an aircraft if a throttle remains unchanged? ",
+    "variants": {
+      "a": "It will be lower. ",
+      "b": "It will be higher. ",
+      "c": "It will stay unchanged. "
+    }
+  },
+  "118": {
+    "title": "What does \"Best Endurance Speed\" for a propeller aircraft mean? ",
+    "variants": {
+      "a": "Maximum time aloft per unit of fuel (flying with least power). ",
+      "b": "Maximum distance per unit of fuel (flying with least drag). ",
+      "c": "Maximum distance between two stops. "
+    }
+  },
+  "119": {
+    "title": "Determine the takeoff distance over a 50-foot obstacle under the following conditions: (See fig. PPL FPP-15e) pressure altitude  0 ft temperature  standard mass  1900 lb wind  calm surface  grass, dry ",
+    "variants": {
+      "a": "1,030 ft. ",
+      "b": "920 ft. ",
+      "c": "950 ft. ",
+      "d": "1,180 ft.  PPL FPP-15e.jpg 4"
+    }
+  },
+  "120": {
+    "title": "Determine the ground roll distance required for takeoff! (See fig. PPL FPP-15e) pressure altitude  2,000 ft temperature  40°C mass  2100 lb wind  tail 4 kt surface  tarmac ",
+    "variants": {
+      "a": "1,120 ft. ",
+      "b": "565 ft. ",
+      "c": "850 ft. ",
+      "d": "935 ft.  PPL FPP-15e.jpg 4PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      20 / 32 "
+    }
+  },
+  "121": {
+    "title": "Determine the takeoff distance over a 50-foot obstacle under the following conditions: (See fig. PPL FPP-15e) pressure altitude  4,000 ft temperature  15°C mass  2300 lb wind  calm surface  asphalt ",
+    "variants": {
+      "a": "2,100 ft. ",
+      "b": "1,125 ft. ",
+      "c": "1,210 ft. ",
+      "d": "1,970 ft.  PPL FPP-15e.jpg 4"
+    }
+  },
+  "122": {
+    "title": "Determine the takeoff distance over a 50-foot obstacle under the following conditions: (See fig. PPL FPP-15e) pressure altitude  2,000 ft temperature  30°C mass  2100 lb wind  head 18 kt surface  grass, dry ",
+    "variants": {
+      "a": "1,350 ft. ",
+      "b": "1,555 ft. ",
+      "c": "1,565 ft. ",
+      "d": "2,945 ft. PPL FPP-15e.jpg 4"
+    }
+  },
+  "123": {
+    "title": "Determine the total distance required to land. (See fig. PPL FPP-16e) pressure altitude  1,000 ft temperature  30°C mass  2300 lb wind  head 9 kt surface  tarmac ",
+    "variants": {
+      "a": "1197 ft. ",
+      "b": "1330 ft. ",
+      "c": "565 ft. ",
+      "d": "509 ft. PPL FPP-16e.jpg 4"
+    }
+  },
+  "124": {
+    "title": "Determine the ground roll distance after landing. (See fig. PPL FPP-16e) pressure altitude  0 ft temperature  10°C mass  2300 lb wind  head 10 kt surface  grass, dry ",
+    "variants": {
+      "a": "1790 ft. PPL FPP-16e.jpg 4PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      21 / 32 ",
+      "b": "510 ft. ",
+      "c": "1235 ft. "
+    }
+  },
+  "125": {
+    "title": "Determine the ground roll distance after landing. (See fig. PPL FPP-16e) pressure altitude  0 ft temperature  15°C mass  2300 lb wind  calm surface  tarmac ",
+    "variants": {
+      "a": "520 ft. ",
+      "b": "510 ft. ",
+      "c": "530 ft. ",
+      "d": "545 ft. PPL FPP-16e.jpg 4"
+    }
+  },
+  "126": {
+    "title": "Determine the ground roll distance after landing. (See fig. PPL FPP-16e) pressure altitude  3,000 ft temperature  20°C mass  2200 lb wind  calm surface  grass, dry ",
+    "variants": {
+      "a": "855 ft. ",
+      "b": "590 ft. ",
+      "c": "660 ft. ",
+      "d": "685 ft.  PPL FPP-16e.jpg 4"
+    }
+  },
+  "127": {
+    "title": "Determine the total distance over a 50-foot obstacle required to land. (See fig. PPL FPP-16e) pressure altitude  1,000 ft temperature  10°C mass  2300 lb wind . tail 10 kt surface  tarmac ",
+    "variants": {
+      "a": "1,900 ft. ",
+      "b": "1,265 ft. ",
+      "c": "1,360 ft. ",
+      "d": "1,850 ft. PPL FPP-16e.jpg 4"
+    }
+  },
+  "128": {
+    "title": "Determine the total distance over a 50-foot obstacle required to land. (See fig. PPL FPP-16e) pressure altitude  1,500 ft temperature  30°C mass  2300 lb wind  calm surface  tarmac ",
+    "variants": {
+      "a": "1,350 ft. ",
+      "b": "1,385 ft. ",
+      "c": "1,320 ft. ",
+      "d": "1,280 ft.  PPL FPP-16e.jpg 4PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      22 / 32 "
+    }
+  },
+  "129": {
+    "title": "Determine the total distance over a 50-foot obstacle required to land. (See fig. PPL FPP-16e) pressure altitude  0 ft temperature  0°C mass  2300 lb wind  head 18 kt surface  grass, dry ",
+    "variants": {
+      "a": "1,140 ft. ",
+      "b": "965 ft. ",
+      "c": "1,205 ft. ",
+      "d": "1,445 ft. PPL FPP-16e.jpg 4"
+    }
+  },
+  "130": {
+    "title": "What will be the airspeed of an airplane in level flight under the following conditions? (See fig. PPL FPP-14e) pressure altitude  8,000 ft temperature  20°C below standard power setting  55% ",
+    "variants": {
+      "a": "104 kts. ",
+      "b": "110 kts. ",
+      "c": "115 kts. ",
+      "d": "120 kts. PPL FPP-14e.jpg 4"
+    }
+  },
+  "131": {
+    "title": "What is the expected fuel consumption for a 250-nautical flight under the following conditions? (See fig. PPL FPP-14e) pressure altitude  6,000 ft temperature  20°C above standard power setting  60% wind  calm ",
+    "variants": {
+      "a": "15.1 USA gal. ",
+      "b": "19.7 USA gal. ",
+      "c": "16.0 USA gal. ",
+      "d": "12.0 USA gal. PPL FPP-14e.jpg 5"
+    }
+  },
+  "132": {
+    "title": "What is the expected fuel consumption for a 350-nautical flight under the following conditions? (See fig. PPL FPP-14e) pressure altitude  4,000 ft temperature  20°C below standard power setting  60% wind  calm ",
+    "variants": {
+      "a": "22.7 USA gal. ",
+      "b": "14.9 USA gal. ",
+      "c": "15.3 USA gal. ",
+      "d": "18.6 USA gal.  PPL FPP-14e.jpg 5"
+    }
+  },
+  "133": {
+    "title": "Approximately what engine RPM should be set during cruising at the pressure altitude 2,000 ft and with standard temperature in order to develop 60% of power? (See fig. PPL FPP-14e) ",
+    "variants": {
+      "a": "2300 RPM. ",
+      "b": "2500 RPM. ",
+      "c": "2400 RPM. ",
+      "d": "2200 RPM. PPL FPP-14e.jpg PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      23 / 32 "
+    }
+  },
+  "134": {
+    "title": "What is the expected fuel consumption under the following conditions? (See fig. PPL FPP-14e) pressure altitude  8,000 ft temperature  20°C below standard power setting  55% ",
+    "variants": {
+      "d": "6.2 USA gal/h. e)5.7 USA gal/h. f)5.8 USA gal/h. g)6.8 USA gal/h. PPL FPP-14e.jpg 5"
+    }
+  },
+  "135": {
+    "title": "Which forward speed is normally maintained, following an engine failure in flight in a light airplane? ",
+    "variants": {
+      "a": "Best glide speed. ",
+      "b": "Best endurance speed. ",
+      "c": "Minimum rate of descend speed. ",
+      "d": "Minimum speed. "
+    }
+  },
+  "136": {
+    "title": "The forward speed for minimum rate of descent of an aircraft, compared with its best glide speed, is ",
+    "variants": {
+      "a": "always lower. ",
+      "b": "always higher. ",
+      "c": "often higher. ",
+      "d": "often lower. "
+    }
+  },
+  "137": {
+    "title": "What should be done first, following an aircraft's engine failure in flight? ",
+    "variants": {
+      "a": "Select the gliding attitude with best glide speed. ",
+      "b": "Carburetor heat must be applied. ",
+      "c": "Move the mixture lever to position FULL RICH. ",
+      "d": "Select a suitable field for forced landing. "
+    }
+  },
+  "138": {
+    "title": "An aircraft without an engine will fly the longest distance from a given altitude at the angle of attack at which ",
+    "variants": {
+      "a": "are induced drag and parasite drag equal. ",
+      "b": "is parasite drag the least. ",
+      "c": "is parasite drag equal to lift coefficient. "
+    }
+  },
+  "139": {
+    "title": "Frost on the wings of an airplane may ",
+    "variants": {
+      "a": "make it difficult or impossible to become airborne. ",
+      "b": "cause the airplane to become airborne with a lower angle of attack and at a lower indicated airspeed. ",
+      "c": "present no problem since frost will blow off when the aircraft starts moving during takeoff. ",
+      "d": "change the camber (curvature of the wing) thereby increasing lift during takeoff. "
+    }
+  },
+  "140": {
+    "title": "What is the main danger arising out of even a slight amount of frost or snow on the wings and controls of an aircraft? ",
+    "variants": {
+      "a": "Decrease lift due to irregular airflow over the wings. ",
+      "b": "Increased weight due to ice will increase stall speed. ",
+      "c": "Ice and snow will jam control surfaces. PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      24 / 32 "
+    }
+  },
+  "141": {
+    "title": "What is the headwind component for a landing on Runway 18 if the tower reports the wind as 220°/30 kts? (See fig. PPL FPP-13e) ",
+    "variants": {
+      "a": "23 kts. ",
+      "b": "19 kts. ",
+      "c": "30 kts. ",
+      "d": "34 kts.  PPL FPP-13e.jpg 6"
+    }
+  },
+  "142": {
+    "title": "What is the crosswind component for a landing on Runway 18 if the tower reports the wind as 220°/30 kts? (See fig. PPL FPP-13e) ",
+    "variants": {
+      "a": "19 kts. ",
+      "b": "23 kts. ",
+      "c": "30 kts. ",
+      "d": "34 kts. PPL FPP-13e.jpg 6"
+    }
+  },
+  "143": {
+    "title": "Which runway (06, 14, 24, 32) will you choose for landing, if tower reports south wind 20 kts and if maximum allowed crosswind component for your aircraft is 13 kts? (See fig. PPL FPP-13e) ",
+    "variants": {
+      "a": "RWY 14. ",
+      "b": "RWY 06. ",
+      "c": "RWY 24. ",
+      "d": "RWY 32.  PPL FPP-13e.jpg 6"
+    }
+  },
+  "144": {
+    "title": "With the reported wind of 360°/20 kts you are approaching an airport. Which runway (06,14 or 24) would you choose for landing, if your airplane had a 13-knots maximum allowed crosswind component on landing? (See fig. PPL FPP-13e) ",
+    "variants": {
+      "a": "RWY 32. ",
+      "b": "RWY 06. ",
+      "c": "RWY 14. ",
+      "d": "RWY 24. PPL FPP-13e.jpg 6"
+    }
+  },
+  "145": {
+    "title": "What are the headwind and crosswind components with the reported wind of 280°/15 kts for a runway with the magnetic direction 220°? (See fig. PPL FPP-13e) ",
+    "variants": {
+      "a": "7.5 kts headwind and 13 kts crosswind. ",
+      "b": "15.5 kts headwind and 8 kts crosswind. ",
+      "c": "15.5 kts headwind and 15 kts crosswind. ",
+      "d": "13.5 kts headwind and 24 kts crosswind.  PPL FPP-13e.jpg 6"
+    }
+  },
+  "146": {
+    "title": "Determine the maximum wind velocity for a 45° crosswind if the maximum crosswind component for the airplane is 25 kts? (See fig. PPL FPP-13e) ",
+    "variants": {
+      "a": "35 kts. ",
+      "b": "18 kts. ",
+      "c": "25 kts. ",
+      "d": "29 kts.  PPL FPP-13e.jpg 6PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      25 / 32 "
+    }
+  },
+  "147": {
+    "title": "Determine the maximum wind velocity for a 40° crosswind if the maximum crosswind component for the airplane is 10 kts? (See fig. PPL FPP-13e) ",
+    "variants": {
+      "a": "15 kts. ",
+      "b": "20 kts. ",
+      "c": "18 kts. ",
+      "d": "12 kts. PPL FPP-13e.jpg 6"
+    }
+  },
+  "148": {
+    "title": "Determine the maximum wind velocity for a 30° crosswind if the maximum crosswind component for the airplane is 10 kts? (See fig. PPL FPP-13e) ",
+    "variants": {
+      "a": "20 kts. ",
+      "b": "13 kts. ",
+      "c": "16 kts. ",
+      "d": "18 kts.  PPL FPP-13e.jpg 6"
+    }
+  },
+  "149": {
+    "title": "What are the headwind and crosswind components with the reported wind of 030°/10 kts for a runway with the magnetic direction 330°? (See fig. PPL FPP-13e) ",
+    "variants": {
+      "a": "5 kts headwind and 8 kts crosswind. ",
+      "b": "10 kts headwind and 8 kts crosswind. ",
+      "c": "8 kts headwind and 4 kts crosswind. ",
+      "d": "8 kts headwind and 8 kts crosswind. PPL FPP-13e.jpg 6"
+    }
+  },
+  "150": {
+    "title": "What are the headwind and crosswind components with the reported wind of 130°/20 kts for a runway with the magnetic direction 040°? (See fig. PPL FPP-13e) ",
+    "variants": {
+      "a": "Zero headwind component; crosswind component 20 kts. ",
+      "b": "15 kts headwind and 10 kts crosswind. ",
+      "c": "10 kts headwind and 15 kts crosswind. ",
+      "d": "20 kts headwind; zero crosswind component. PPL FPP-13e.jpg 6PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      26 / 32 APPENDEX: Fig. PPL FPP-2 Fig. PPL FPP-7 PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      27 / 32 Fig. PPL FPP-8 Fig. PPL FPP-9 PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      28 / 32 Fig. PPL FPP-10 Fig. PPL FPP-13 PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      29 / 32 Fig. PPL FPP-14 PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      30 / 32 Fig. PPL FPP-15 PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      31 / 32 Fig. PPL FPP-16 PPL (A) – Flight performance and planningLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      32 / 32 Fig. PPL FPP-17 "
+    }
+  }
+}
