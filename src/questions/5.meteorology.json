@@ -37,16 +37,21 @@
   },
   "5": {
     "title": "The temperature at 2000ft above mean sea level is forecast to be 5°C; compared to the ICAO Standard Atmosphere (ISA) this is: ",
-    "variants": {
-      "a": "ISA -6 ",
-      "b": "IAS +6 ",
-      "c": "ISA +5 ",
-      "d": "IAS -6 PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      3 / 28 "
+    "variants": { 
+      "a": "ISA -6 ", 
+      "b": "IAS +6 ", 
+      "c": "ISA +5 ", 
+      "d": "IAS -6 " 
     }
   },
   "6": {
     "title": "What is the name of the instrument which gives a continuous printed reading and record of the atmospheric pressure? ",
-    "variants": { "a": "Barograph. ", "b": "Barometer. ", "c": "Hygrometer. ", "d": "Anemograph " }
+    "variants": { 
+      "a": "Barograph. ", 
+      "b": "Barometer. ", 
+      "c": "Hygrometer. ", 
+      "d": "Anemograph " 
+    }
   },
   "7": {
     "title": "The pressure of the atmosphere: ",
@@ -86,7 +91,12 @@
   },
   "11": {
     "title": "What is the density at sea level in the International Standard Atmosphere? ",
-    "variants": { "a": "1225gm3. ", "b": "12.25gm3. ", "c": "1.225gm3. ", "d": "122.5gm3. " }
+    "variants": { 
+      "a": "1225gm3. ", 
+      "b": "12.25gm3. ", 
+      "c": "1.225gm3. ", 
+      "d": "122.5gm3. " 
+    }
   },
   "12": {
     "title": "Density at the surface will be low when: ",
@@ -94,7 +104,7 @@
       "a": "Pressure is low and temperature is high. ",
       "b": "Pressure is high and temperature is high. ",
       "c": "Pressure is high and temperature is low. ",
-      "d": "Pressure is low and temperature is low. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      4 / 28 "
+      "d": "Pressure is low and temperature is low. "
     }
   },
   "13": {
@@ -157,7 +167,7 @@
       "a": "Convergence causing increased cloud and precipitation. ",
       "b": "Divergence causing increased cloud and precipitation. ",
       "c": "Subsidence causing increased cloud and precipitation. ",
-      "d": "Subsidence causing decreased cloud and precipitation. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      5 / 28 "
+      "d": "Subsidence causing decreased cloud and precipitation. "
     }
   },
   "20": {
@@ -188,11 +198,11 @@
     }
   },
   "23": {
-    "title": "An area of indeterminate pressure between two lows and two highs is called: Every physical process of weather is accompanied by, or is the result of, a ",
+    "title": "An area of indeterminate pressure between two lows and two highs is called: ",
     "variants": {
-      "a": "Heat exchange. ",
-      "b": "Pressure differential. ",
-      "c": "Movement of air. ",
+      "a": "A col. ",
+      "b": "A trough. ",
+      "c": "A ridge. ",
       "d": "A saddle. "
     }
   },
@@ -211,7 +221,7 @@
       "a": "Large / small / small / large ",
       "b": "Large / large / small / small. ",
       "c": "Small / small / large / large. ",
-      "d": "Large / large / small / large. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      6 / 28 "
+      "d": "Large / large / small / large. "
     }
   },
   "26": {
@@ -274,16 +284,26 @@
       "a": "Indicated altitude to be less than actual altitude. ",
       "b": "Indicated altitude to be the same as actual altitude. ",
       "c": "Indicated altitude to be more than actual altitude. ",
-      "d": "Indicated altitude may be greater or less depending on the airfield elevation. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      7 / 28 "
+      "d": "Indicated altitude may be greater or less depending on the airfield elevation. "
     }
   },
   "33": {
     "title": "The name given to the lowest forecast mean sea level pressure in an area is: ",
-    "variants": { "a": "Regional QNH. ", "b": "QFE. ", "c": "QFF. ", "d": "QNE. " }
+    "variants": { 
+      "a": "Regional QNH. ", 
+      "b": "QFE. ", 
+      "c": "QFF. ", 
+      "d": "QNE. " 
+    }
   },
   "34": {
     "title": "An aircraft flies from aerodrome \"A\", where QNH is given as 1020mb, to aerodrome \"B\", where the QNH is given as 999mb. Aerodrome \"A\" is 800ft above mean sea level and aerodrome \"B\" is 500ft above mean sea level. If the altimeter sub scale is not changed from 1020, what is the altimeter indication on landing?   (ASSUME 1mb = 30ft) ",
-    "variants": { "a": "1,130ft. ", "b": "1,430ft. ", "c": "130ft. ", "d": "-130ft. " }
+    "variants": { 
+      "a": "1,130ft. ", 
+      "b": "1,430ft. ", 
+      "c": "130ft. ", 
+      "d": "-130ft. " 
+    }
   },
   "35": {
     "title": "You experience a constant drift to the right when flying over Europe at a constant indicated altitude. If the altimeter subscale is not updated, this will result in? ",
@@ -318,7 +338,7 @@
       "a": "Greater / released. ",
       "b": "Lesser / released. ",
       "c": "Greater / absorbed. ",
-      "d": "Lesser / absorbed. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      8 / 28 "
+      "d": "Lesser / absorbed. "
     }
   },
   "39": {
@@ -359,7 +379,12 @@
   },
   "43": {
     "title": "Which of the processes listed below can cause air to become saturated? ",
-    "variants": { "a": "Evaporation. ", "b": "Melting. ", "c": "Condensation. ", "d": "Heating. " }
+    "variants": { 
+      "a": "Evaporation. ", 
+      "b": "Melting. ", 
+      "c": "Condensation. ", 
+      "d": "Heating. " 
+    }
   },
   "44": {
     "title": "When receiving circuit joining information prior to an approach at a destination airfield, the pilot of a light aircraft is warned of the presence of low level windshear. The pilot should? ",
@@ -376,7 +401,7 @@
       "a": "Stable and will tend to regain its former position. ",
       "b": "Unstable and will carry on rising. ",
       "c": "Stable and will carry on rising. ",
-      "d": "Unstable and will tend to regain its former position. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      9 / 28 "
+      "d": "Unstable and will tend to regain its former position. "
     }
   },
   "46": {
@@ -430,7 +455,7 @@
       "a": "In or just below the roll cloud. ",
       "b": "At about mid-height between the lenticular and roll cloud. ",
       "c": "In the cap cloud. ",
-      "d": "In the lenticular cloud. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      10 / 28 "
+      "d": "In the lenticular cloud. "
     }
   },
   "52": {
@@ -443,7 +468,7 @@
     }
   },
   "53": {
-    "title": "A light aircraft flying at low level near a mountain range across which a strong wind is blowing may expect: 1. Severe turbulence below or within any rotor zone. 2. Down-draughts which may exceed the climb rate of the aircraft. 3. A greater than normal risk of icing in the cloud over the crest mountain. 4. Lenticular cloud ",
+    "title": "A light aircraft flying at low level near a mountain range across which a strong wind is blowing may expect: \n1. Severe turbulence below or within any rotor zone. \n2. Down-draughts which may exceed the climb rate of the aircraft. \n3. A greater than normal risk of icing in the cloud over the crest mountain. \n4. Lenticular cloud ",
     "variants": {
       "a": "1,2, 3 and 4 are correct ",
       "b": "Only 1 and 3 are correct ",
@@ -453,15 +478,30 @@
   },
   "54": {
     "title": "One or more coloured rings around the sun or moon may indicate the presence of which type of cloud? ",
-    "variants": { "a": "Altostratus. ", "b": "High. ", "c": "Stratus. ", "d": "Cirrocumulus. " }
+    "variants": { 
+      "a": "Altostratus. ", 
+      "b": "High. ", 
+      "c": "Stratus. ", 
+      "d": "Cirrocumulus. " 
+    }
   },
   "55": {
     "title": "Given a surface temperature of+21°C and a dew point of +7°C, at approximately what height will the cloud base of a cumulus cloud be? ",
-    "variants": { "a": "5600ft. ", "b": "560ft. ", "c": "56,000ft. ", "d": "4000ft. " }
+    "variants": { 
+      "a": "5600ft. ", 
+      "b": "560ft. ", 
+      "c": "56,000ft. ", 
+      "d": "4000ft. " 
+    }
   },
   "56": {
     "title": "Hail is most likely to fall from which type of cloud? ",
-    "variants": { "a": "CB. ", "b": "NS. ", "c": "AC. ", "d": "AS. " }
+    "variants": { 
+      "a": "CB. ", 
+      "b": "NS. ", 
+      "c": "AC. ", 
+      "d": "AS. " 
+    }
   },
   "57": {
     "title": "From the list below, select the Low, Medium and High clouds in ascending order. ",
@@ -469,7 +509,7 @@
       "a": "Stratus, Altocumulus, Cirrus. ",
       "b": "Nimbostratus, Cumulonimbus, Cirrus. ",
       "c": "Altostratus, Altocumulus, Cirrus. ",
-      "d": "Cirrus, Cumulonimbus, Stratus. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      11 / 28 "
+      "d": "Cirrus, Cumulonimbus, Stratus. "
     }
   },
   "58": {
@@ -523,7 +563,7 @@
       "a": "All of the hazards can be avoided by not flying in or in the vicinity of the cloud. ",
       "b": "The most hazardous condition is lightning. ",
       "c": "Heavy precipitation may be experienced outside the cloud, but turbulence and icing are confined to inside the cloud. ",
-      "d": "All of the hazards may be encountered within or in the viciniity of the cloud. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      12 / 28 "
+      "d": "All of the hazards may be encountered within or in the vicinity of the cloud. "
     }
   },
   "64": {
@@ -586,12 +626,17 @@
       "a": "Icing, microburst and windshear. ",
       "b": "Microburst, windshear and anvil. ",
       "c": "Icing, drizzle and microburst. ",
-      "d": "Windshear, hail and fog.. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      13 / 28 "
+      "d": "Windshear, hail and fog.. "
     }
   },
   "71": {
     "title": "The wind at 2000ft over an aerodrome was reported at 330/15kt. Using the rule of thumb, what might you expect the surface wind to be? ",
-    "variants": { "a": "305/07kt. ", "b": "305/30kt ", "c": "355/30kt. ", "d": "315/30kt. " }
+    "variants": { 
+      "a": "305/07kt. ", 
+      "b": "305/30kt ", 
+      "c": "355/30kt. ", 
+      "d": "315/30kt. " 
+    }
   },
   "72": {
     "title": "Corilolis force in the Northern Hemisphere will cause moving air to be apparently deflected to: ",
@@ -630,12 +675,12 @@
     }
   },
   "76": {
-    "title": "A low level mist layer significantly reduces forward visibility when flying at about 2000ft. To improve your forward visiility you should? ",
+    "title": "A low level mist layer significantly reduces forward visibility when flying at about 2000ft. To improve your forward visibility you should? ",
     "variants": {
       "a": "Fly higher. ",
       "b": "Fly lower. ",
       "c": "Fly just on top of the mist layer. ",
-      "d": "Turn on your landing lights and strobe lights. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      14 / 28 "
+      "d": "Turn on your landing lights and strobe lights. "
     }
   },
   "77": {
@@ -676,11 +721,21 @@
   },
   "81": {
     "title": "If a cloudy, granular type of ice is seen to collect and protrude forward from the leading edge of the aerofoil, what type of ice would it most likely be? ",
-    "variants": { "a": "Rime ice. ", "b": "Clear ice. ", "c": "Rain ice. ", "d": "Hoar frost. " }
+    "variants": { 
+      "a": "Rime ice. ", 
+      "b": "Clear ice. ", 
+      "c": "Rain ice. ", 
+      "d": "Hoar frost. " 
+    }
   },
   "82": {
     "title": "What will normally happen to the surface wind direction following the passage of a warm front? ",
-    "variants": { "a": "Veer. ", "b": "Stay constant. ", "c": "Back. ", "d": "Veer then back. " }
+    "variants": { 
+      "a": "Veer. ", 
+      "b": "Stay constant. ", 
+      "c": "Back. ", 
+      "d": "Veer then back. " 
+    }
   },
   "83": {
     "title": "The extent of rainfall ahead of a typical warm front may be up to a distance of: ",
@@ -688,7 +743,7 @@
       "a": "200 miles ahead of the surface position of the warm front ",
       "b": "50 miles ahead of the surface position of the warm front. ",
       "c": "500 miles ahead of the surface position of the warm front ",
-      "d": "2 miles ahead of the surface position of the warm front. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      15 / 28 "
+      "d": "2 miles ahead of the surface position of the warm front. "
     }
   },
   "84": {
@@ -742,11 +797,11 @@
       "a": "Rain or clear ice. ",
       "b": "Carburettor ice. ",
       "c": "Rime ice. ",
-      "d": "Hoar frost. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      16 / 28 "
+      "d": "Hoar frost. "
     }
   },
   "90": {
-    "title": "Which of the following correctly decodes the METAR shown below? METAR EGKL 130350Z 32005KT 0400N DZ BCFG VV002 ",
+    "title": "Which of the following correctly decodes the METAR shown below? \nMETAR EGKL 130350Z 32005KT 0400N DZ BCFG VV002 ",
     "variants": {
       "a": "Observed on the 13th day of the month at 0350Z, surface wind 320°True, 05kt, minimum visibility 400 metres to the north, moderate drizzle, with fog patches and a vertical visibility of 200ft. ",
       "b": "Reported on the 13th day of the month at 0350Z, surface wind 320°Magnetic, 05kt, minimum visibility 400 metres to the north, moderate drizzle, with fog patches and a vertical visibility of 200ft. ",
@@ -786,13 +841,18 @@
     "variants": {
       "a": "The temperature is 28°C and the dew point is 24°C. ",
       "b": "The temperature is 28°C at the time of the reporting, but is expected to become 24°C by the end of the TREND report. ",
-      "c": "The dry bulb temperautre is 28°C and the wet bulb temperature is 24°C. ",
-      "d": "The dew point is 28°C and the temperature is 24°C. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      17 / 28 "
+      "c": "The dry bulb temperature is 28°C and the wet bulb temperature is 24°C. ",
+      "d": "The dew point is 28°C and the temperature is 24°C. "
     }
   },
   "95": {
-    "title": "In the METAR shown below, the cloud base has been omitted. At what height might you expect the cloud base to be if cumulus cloud was present? 28005KT9999 SCT??? 12/05 Q1020 NOSIG ",
-    "variants": { "a": "SCT028. ", "b": "SCT042. ", "c": "SCT020. ", "d": "SCT280. " }
+    "title": "In the METAR shown below, the cloud base has been omitted. At what height might you expect the cloud base to be if cumulus cloud was present? \n28005KT9999 SCT??? 12/05 Q1020 NOSIG ",
+    "variants": { 
+      "a": "SCT028. ", 
+      "b": "SCT042. ", 
+      "c": "SCT020. ", 
+      "d": "SCT280. " 
+    }
   },
   "96": {
     "title": "Providing the minimum sector altitude is not a determining factor, CAVOK in a TAF or METAR: ",
@@ -804,7 +864,7 @@
     }
   },
   "97": {
-    "title": "Which of the following correctly decodes a TAF that reads: LYBE 161100Z 1612/1712 VRB08KT9999 SCT025? ",
+    "title": "Which of the following correctly decodes a TAF that reads: \nLYBE 161100Z 1612/1712 VRB08KT9999 SCT025? ",
     "variants": {
       "a": "Valid from 1200 Hr on the 16 of the month to 1200 Hr on the 17 of the month; surface wind will be variable in direction at 8kt with a visibility of 10km or more; 3to4 oktas of cloud with a base of 2500ft above the aerodrome. ",
       "b": "Valid from 1612 to 1712 UTC; surface wind variable at 8kt; visibility 10nm or more; with a cloud base of 2500ft above mean sea level. ",
@@ -822,22 +882,74 @@
     }
   },
   "99": {
-    "title": "Referring to the diagram, determine the 2000ft wind velocity and temperature at position 50°N 0° E/W. (See Fig. PPL Meteo-1) ",
+    "title": "Referring to the diagram, determine the 2000ft wind velocity and temperature at position 50°N 0° E/W. ",
+    "image":"meteo-1.jpg",
     "variants": {
       "a": "215/13kt+11°C. ",
       "b": "200/12kt+11°C. ",
       "c": "220/13kt+12°C. ",
-      "d": "180/20kt+10°C. PPL Meteo 1.jpg PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      18 / 28 "
+      "d": "180/20kt+10°C. "
     }
   },
   "100": {
-    "title": "Referring to the diagram, what is the forecast wind velocity at 5000ft at position 50°N 0°EM: (See Fig. PPL Meteo-2) ",
+    "title": "Referring to the diagram, what is the forecast wind velocity at 5000ft at position 50°N 0°EM: ",
+    "image":"meteo-2.jpg",
+    "variants": {
+      "a": "250/15kt. ",
+      "b": "180/20kt. ",
+      "c": "070/15kt. ",
+      "d": "230/10kt. "
+    }
+  },
+  "101": {
+    "title": "What does this symbol represent on a forecast chart? ",
+    "image":"meteo-4.jpg",
+    "variants": {
+      "a": "Thunderstorms. ",
+      "b": "Severe turbulence. ",
+      "c": "Severe icing. ",
+      "d": "Severe mountain waves. "
+    }  
+  },
+  "102": {
+    "title": "Referring to the diagram, which zone would the following TAF best fit?  \n1322 35020KT9999 SCT030 SCT090 TEMPO 1322 8000 SHRA BKN015 PROB30TEMPO 1522 5000 +RASH SCT008 BKN009CB= ",
+    "image":"meteo-5.jpg",
+    "variants": {
+      "a": "Zone 3. ",
+      "b": "Zone 1. ",
+      "c": "Zones 1 and 2. ",
+      "d": "Zones 2 and 4. "
+    }  
+  },
+  "103": {
+    "title": "What does this symbol represent on a forecast chart? ",
+    "image":"meteo-6.jpg",
+    "variants": {
+      "a": "Severe icing. ",
+      "b": "Severe turbulence. ",
+      "c": "Severe mountain waves. ",
+      "d": "Thunderstorms. "
+    }  
+  },
+  "104": {
+    "title": "Referring to the diagram, what is the feature identified by the letter J at position 60°N 12°W? ",
+    "image":"meteo-10.jpg",
+    "variants": {
+      "a": "An occluded front. ",
+      "b": "A warm front. ",
+      "c": "A quasi stationary front. ",
+      "d": "A tropical front. "
+    }  
+  },
+  "105": {
+    "title": "Referring to the low-level significant weather chart in the diagram, we see a pressure system at 50 degrees North, 1 degree East, indicated by an \"L\", accompanied by an arrow and the figures \"20\" and \"988\". What does this denote? ",
+    "image":"meteo-14.jpg",
     "variants": {
       "a": "A low pressure centre of 988mb, moving East at 20kts. ",
       "b": "A low pressure centre of 988mb moving West at 20 knots. ",
       "c": "A QFE in that region of 988mb. ",
-      "d": "A regional QNH of 988mb. PPL Meteo 14.jpg PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      19 / 28 "
-    }
+      "d": "A regional QNH of 988mb. "
+    }  
   },
   "106": {
     "title": "What is the validity time for a WAFC significant weather chart? ",
@@ -858,7 +970,7 @@
     }
   },
   "108": {
-    "title": "EGTT SIGMET SST 01 VALID 310730/311130 EGRR LONDON FIR ISOL CB FCST TOPS FL370 SST ROUTES W OF W00400 STNR NC = In the SIGMET message shown above what does the code \"SST\" stand for? ",
+    "title": "EGTT SIGMET SST 01 VALID 310730/311130 EGRR LONDON FIR ISOL CB FCST TOPS FL370 SST ROUTES W OF W00400 STNR NC = \nIn the SIGMET message shown above what does the code \"SST\" stand for? ",
     "variants": {
       "a": "Transonic and supersonic flight levels. ",
       "b": "Supersonic flight levels only. ",
@@ -868,10 +980,15 @@
   },
   "109": {
     "title": "A regional  is a forecast of the weather up to? ",
-    "variants": { "a": "FL100. ", "b": "FL180. ", "c": "FL010. ", "d": "FL240. " }
+    "variants": { 
+      "a": "FL100. ", 
+      "b": "FL180. ", 
+      "c": "FL010. ", 
+      "d": "FL240. " 
+    }
   },
   "110": {
-    "title": "LFFF SIGMET SST 1 VALID 310600/311100 LFPW- UIR FRANCE MOD TURB FCST BLW FL420 W of 04W   MOV E 30KT NC =  In the SIGMET message shown above, what hazard is being forecast? ",
+    "title": "LFFF SIGMET SST 1 VALID 310600/311100 LFPW- UIR FRANCE MOD TURB FCST BLW FL420 W of 04W   MOV E 30KT NC =  \nIn the SIGMET message shown above, what hazard is being forecast? ",
     "variants": {
       "a": "Moderate turbulence below 42,000 ft west of 4 degrees west and moving eastwards. ",
       "b": "Moderate turbulence at 42,000 ft west of 4 degrees west and moving eastwards. ",
@@ -894,7 +1011,7 @@
       "a": "4 times a day / 8 hours / 6 hours. ",
       "b": "6 times a day / 8 hours / 4 hours. ",
       "c": "4 times a day / 6 hours / 4 hours. ",
-      "d": "6 times a day / 4 hours / 4 hours. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      20 / 28 "
+      "d": "6 times a day / 4 hours / 4 hours. "
     }
   },
   "113": {
@@ -935,7 +1052,12 @@
   },
   "117": {
     "title": "To minimise VHF frequency use, theatis can be broadcast on the voice frequency of what navigational aid? ",
-    "variants": { "a": "VOR. ", "b": "ILS. ", "c": "NDB. ", "d": "GPS. " }
+    "variants": { 
+      "a": "VOR. ", 
+      "b": "ILS. ", 
+      "c": "NDB. ", 
+      "d": "GPS. " 
+    }
   },
   "118": {
     "title": "What is theatis? ",
@@ -952,24 +1074,43 @@
       "a": "An alphabetical code. ",
       "b": "A number. ",
       "c": "A validity time. ",
-      "d": "An issue time. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      21 / 28 "
+      "d": "An issue time. "
     }
   },
   "120": {
     "title": "On what frequency range is the ATIS usually broadcast? ",
-    "variants": { "a": "VHF. ", "b": "LF. ", "c": "HF. ", "d": "ADR " }
+    "variants": { 
+      "a": "VHF. ", 
+      "b": "LF. ", 
+      "c": "HF. ", 
+      "d": "ADR " 
+    }
   },
   "121": {
     "title": "What air temperature may we expect at 7,000 ft if the air temperature at 1,500 ft is 15°C? ",
-    "variants": { "a": "+3°C. ", "b": "+4°C. ", "c": "0°C. ", "d": "-2°C. " }
+    "variants": { 
+      "a": "+3°C. ", 
+      "b": "+4°C. ", 
+      "c": "0°C. ", 
+      "d": "-2°C. " 
+    }
   },
   "122": {
-    "title": "What wind represents depicted symbol from meteorological charts? (See Fig. PPL Meteo-15) ",
+    "title": "What wind represents depicted symbol from meteorological charts? ",
+    "image":"meteo-15.jpg",
     "variants": {
       "a": "West wind at 60 knots. ",
       "b": "North wind at 60 knots. ",
       "c": "South wind at 15 knots. ",
-      "d": "East wind at 15 knots. PPL Meteo-15.jpg 1"
+      "d": "East wind at 15 knots. "
+    }
+  },
+  "123": {
+    "title": "Every physical process of weather is accompanied by, or is the result of, a ",
+    "variants": {
+      "a": "Heat exchange. ",
+      "b": "Pressure differential. ",
+      "c": "Movement of air. "
     }
   },
   "124": {
@@ -991,15 +1132,20 @@
   },
   "126": {
     "title": "The amount of water vapor which air can hold depends on the ",
-    "variants": {
-      "a": "Air temperature. ",
-      "b": "Stability of the air. ",
-      "c": "Dewpoint. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      22 / 28 "
+    "variants": { 
+      "a": "Air temperature. ", 
+      "b": "Stability of the air. ", 
+      "c": "Dewpoint. " 
     }
   },
   "127": {
     "title": "What is the approximate airfield dewpoint if the surface air temperature is 20 °C and the reported base of the cumulus clouds is 1,100m above the airfield level?  ",
-    "variants": { "a": "11°C. ", "b": "5°C. ", "c": "7°C. ", "d": "-3°C. " }
+    "variants": { 
+      "a": "11°C. ", 
+      "b": "5°C. ", 
+      "c": "7°C. ", 
+      "d": "-3°C. " 
+    }
   },
   "128": {
     "title": "What are the characteristics of an unstable air mass? ",
@@ -1037,24 +1183,38 @@
   },
   "132": {
     "title": "What is the approximate base of cumulus clouds if the surface air temperature is 27°C and the dewpoint is 15°C? ",
-    "variants": { "a": "1.500 m. ", "b": "1.000m. ", "c": "2.000 m. ", "d": "2.700 m. " }
+    "variants": { 
+      "a": "1.500 m. ", 
+      "b": "1.000m. ", 
+      "c": "2.000 m. ", 
+      "d": "2.700 m. " 
+    }
   },
   "133": {
     "title": "What approximate base of cumulus clouds should be expected if the surface air dewpoint is 5°C and the forcasted daily maximum temperature is 25°C? ",
-    "variants": {
-      "a": "2,500 m. ",
-      "b": "2,800 m. ",
-      "c": "2,000 m. ",
-      "d": "1,500 m. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      23 / 28 "
+    "variants": { 
+      "a": "2,500 m. ", 
+      "b": "2,800 m. ", 
+      "c": "2,000 m. ", 
+      "d": "1,500 m. " 
     }
   },
   "134": {
     "title": "With what type of clouds are shower precipitations associated? ",
-    "variants": { "a": "CB. ", "b": "ST. ", "c": "CI. ", "d": "CU. " }
+    "variants": { 
+      "a": "CB. ", 
+      "b": "ST. ", 
+      "c": "CI. ", 
+      "d": "CU. " 
+    }
   },
   "135": {
     "title": "Thunderstorms reach their greatest intensity during the ",
-    "variants": { "a": "Mature stage. ", "b": "Downdraft stage. ", "c": "Cumulus stage. " }
+    "variants": { 
+      "a": "Mature stage. ", 
+      "b": "Downdraft stage. ", 
+      "c": "Cumulus stage. " 
+    }
   },
   "136": {
     "title": "When may hazardous windshear be expected? ",
@@ -1066,7 +1226,11 @@
   },
   "137": {
     "title": "A pilot can expect a windshear zone in a temperature inversion whenever the windspeed at 2,000 to 4,000 feet above the surface is at least ",
-    "variants": { "a": "25 knots ", "b": "15 knots. ", "c": "10 knots " }
+    "variants": { 
+      "a": "25 knots ", 
+      "b": "15 knots. ", 
+      "c": "10 knots " 
+    }
   },
   "138": {
     "title": "There is thunderstorm activity in the vicinity of an airport at which you plan to land, which hazardous atmospheric phenomenon might be expected on the landing approach? ",
@@ -1089,7 +1253,7 @@
     "variants": {
       "a": "Frost spoils the smooth flow of air over the wings, thereby decreasing lifting capability. ",
       "b": "Frost slows the airflow over the airfoils, thereby increasing control effectiveness.    ",
-      "c": "Frost changes the basic aerodynamic shape of the airfoils, thereby increasing lift. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      24 / 28 "
+      "c": "Frost changes the basic aerodynamic shape of the airfoils, thereby increasing lift. "
     }
   },
   "141": {
@@ -1101,7 +1265,7 @@
     }
   },
   "142": {
-    "title": "What percent coverage of the lowest cloud layer was observed accordingly to the following METAR report? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
+    "title": "What percent coverage of the lowest cloud layer was observed accordingly to the following METAR report? \nMETAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
     "variants": {
       "a": "1 /8 to 2/8. ",
       "b": "5/8 to 7/8. ",
@@ -1110,7 +1274,7 @@
     }
   },
   "143": {
-    "title": "What was the observed temperature accordingly to the following METAR report?  METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010  OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
+    "title": "What was the observed temperature accordingly to the following METAR report?  \nMETAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010  OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
     "variants": {
       "a": "17°C. ",
       "b": "Between 10°C and 18°C.   ",
@@ -1119,7 +1283,7 @@
     }
   },
   "144": {
-    "title": "What was the observed air pressure accordingly to the following METAR report? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
+    "title": "What was the observed air pressure accordingly to the following METAR report? \nMETAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
     "variants": {
       "a": "1018 hpa (QNH). ",
       "b": "1000 hpa (QNH). ",
@@ -1128,7 +1292,7 @@
     }
   },
   "145": {
-    "title": "At what time was following METAR report issued? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
+    "title": "At what time was following METAR report issued? \nMETAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
     "variants": {
       "a": "By 16:30 UTC, 13th day of the running month. ",
       "b": "By 16:00 UTC, 30th day of the running month. ",
@@ -1137,24 +1301,34 @@
     }
   },
   "146": {
-    "title": "What type of precipitations was observed accordingly to the following METAR report? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
+    "title": "What type of precipitations was observed accordingly to the following METAR report? \nMETAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
     "variants": {
       "a": "Light drizzle. ",
       "b": "Steady and light rain. ",
       "c": "Hail. ",
-      "d": "Rain showers.  PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      25 / 28 "
+      "d": "Rain showers.  "
     }
   },
   "147": {
-    "title": "What was the ceiling of the lowest cloud layer accordingly to the following METAR report? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
-    "variants": { "a": "300 m. ", "b": "10 ft. ", "c": "100 ft. ", "d": "1,000 m. " }
+    "title": "What was the ceiling of the lowest cloud layer accordingly to the following METAR report? \nMETAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
+    "variants": { 
+      "a": "300 m. ", 
+      "b": "10 ft. ", 
+      "c": "100 ft. ", 
+      "d": "1,000 m. " 
+    }
   },
   "148": {
-    "title": "Accordingly to the code which of the following METAR reports cold be partially  abbreviated by CAVOK (minimum sector altitude 4.000 ft)? A) 34004KT 7000 MIFG SCT260 09/08 Q1019 NOSIG= B)27019G37KT 9999 BKN050 18/14 Q1016 NOSIG= C)00000KT 0100 FG VV001 11/11 Q1025 BECMG 0500= D)26012KT 8000 -SHRA BKN025TCU 16/12 Q1018 NOSIG= ",
-    "variants": { "a": "B. ", "b": "A. ", "c": "C. ", "d": "D. " }
+    "title": "Accordingly to the code which of the following METAR reports cold be partially  abbreviated by CAVOK (minimum sector altitude 4.000 ft)? \nA) 34004KT 7000 MIFG SCT260 09/08 Q1019 NOSIG= \nB)27019G37KT 9999 BKN050 18/14 Q1016 NOSIG= \nC)00000KT 0100 FG VV001 11/11 Q1025 BECMG 0500= \nD)26012KT 8000 -SHRA BKN025TCU 16/12 Q1018 NOSIG= ",
+    "variants": { 
+      "a": "B. ", 
+      "b": "A. ", 
+      "c": "C. ", 
+      "d": "D. " 
+    }
   },
   "149": {
-    "title": "Accordingly to the following METAR report, when may we expect vanishing of the fog an weather improvement for VFR flight? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
+    "title": "Accordingly to the following METAR report, when may we expect vanishing of the fog an weather improvement for VFR flight? \nMETAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW= ",
     "variants": {
       "a": "After 18:00 UTC. ",
       "b": "Till 17:00 UTC. ",
@@ -1163,12 +1337,12 @@
     }
   },
   "150": {
-    "title": "What kind of weather is forecast for the period after 12:00 UTC? TAF LYBE 160500Z 1606/1706 13010KT 9000 BKN020 BECMG 1606/1608 SCT015CB BKN020 TEMPO 1608/1612 17012G22KT 1000 TSRA SCT010CB BKN020 FM12 15006KT 9999 BKN020 BKN100= ",
+    "title": "What kind of weather is forecast for the period after 12:00 UTC? \nTAF LYBE 160500Z 1606/1706 13010KT 9000 BKN020 BECMG 1606/1608 SCT015CB BKN020 TEMPO 1608/1612 17012G22KT 1000 TSRA SCT010CB BKN020 FM12 15006KT 9999 BKN020 BKN100= ",
     "variants": {
       "a": "Moderate southeasterly wind with visibility improvement to more than 10 km,  precipitations will stop, cloudiness will become greater with ceiling at 600 m. ",
       "b": "Rainy weather with showers and gusty wind and visibility below 10 km.    ",
       "c": "Visibility will improve to 5 km to 10 km and cloud covering will decrease to 1/8 at 600 m and 1/8 at 3000 m. ",
-      "d": "Southeasterly wind 6 kts, visibility will be convenient for visual flying and the sky will be completely covered with clouds with base at 600 m. PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      26 / 28 APPENDIX: Fig. PPL Meteo-1 Fig. PPL Meteo-2 PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      27 / 28 Fig. PPL Meteo-4  Fig. PPL Meteo-6   Fig. PPL Meteo-15 Fig. PPL Meteo-10 PPL (A) – MeteorologyLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      28 / 28 Fig. PPL Meteo-5 "
+      "d": "Southeasterly wind 6 kts, visibility will be convenient for visual flying and the sky will be completely covered with clouds with base at 600 m. "
     }
   }
 }

@@ -5,7 +5,7 @@
       "a": "All traffic on the manoeuvring area of an aerodrome and all aircraft operating in the vicinity of an aerodrome  ",
       "b": "All vehicles on an aerodrome  ",
       "c": "All aircraft on an aerodrome  ",
-      "d": "All traffic on the movement area of an aerodrome  1 "
+      "d": "All traffic on the movement area of an aerodrome "
     }
   },
   "2": {
@@ -18,7 +18,12 @@
   },
   "3": {
     "title": "The maximum VHF communications range that can be expected by an aircraft at FL 100 is:   ",
-    "variants": { "a": "120nm ", "b": "1200nm ", "c": "150nm  ", "d": "100nm " }
+    "variants": { 
+      "a": "120nm ", 
+      "b": "1200nm ", 
+      "c": "150nm  ", 
+      "d": "100nm " 
+    }
   },
   "4": {
     "title": "An aircraft will be in the best range for VHF communications if it is:   ",
@@ -50,9 +55,9 @@
     "title": "The term \" CVFR flight\" stands for ",
     "variants": {
       "a": "Controlled VFR flight ",
-      "b": "VFR flight of civil aircraf ",
+      "b": "VFR flight of civil aircraft ",
       "c": "Schooling VFR flight ",
-      "d": "VFR flight visibility to the ground PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      3 / 23 "
+      "d": "VFR flight visibility to the ground "
     }
   },
   "8": {
@@ -124,7 +129,7 @@
       "a": "Carry out a missed approach. ",
       "b": "Overtake the aircraft ahead. ",
       "c": "Make a 360 degree turn. ",
-      "d": "Taxy past the aircraft at the holding point. PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      4 / 23 "
+      "d": "Taxi past the aircraft at the holding point. "
     }
   },
   "16": {
@@ -187,7 +192,7 @@
       "a": "Altitude above mean sea level. ",
       "b": "Height above an airfield. ",
       "c": "Flight level. ",
-      "d": "Standard altitude. PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      5 / 23 "
+      "d": "Standard altitude. "
     }
   },
   "23": {
@@ -249,7 +254,7 @@
       "a": "WUN  WUN  THOUSAND FEET. ",
       "b": "ELEVEN THOUSAND FEET. ",
       "c": "WUN  WUN  ZERO ZERO ZERO FEET. ",
-      "d": "ELEVEN THOUSAND ZERO FEET. PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      6 / 23 "
+      "d": "ELEVEN THOUSAND ZERO FEET. "
     }
   },
   "30": {
@@ -320,7 +325,7 @@
       "a": "WUN  WUN  EIGHT DECIMAL WUN . ",
       "b": "WUN  WUN  EIGHT POINT WUN . ",
       "c": "WUN  HUNDRED ELEVEN POINT WUN . ",
-      "d": "WUN  WUN  EIGHT WUN . PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      7 / 23 "
+      "d": "WUN  WUN  EIGHT WUN . "
     }
   },
   "38": {
@@ -372,17 +377,17 @@
     "title": "Phonetic transcription for the label 70-VEL pronounced as: ",
     "variants": {
       "a": "SEVEN, ZERO, VICTOR, ECHO, LIMA ",
-      "b": "SEVEN, ZERO, WHISKEY, ECHO, LMA ",
+      "b": "SEVEN, ZERO, WHISKEY, ECHO, LIMA ",
       "c": "SEVENTY, VICTOR, ECHO, LIMA "
     }
   },
   "44": {
     "title": "Phonetic transcription for the label EXTRA pronounced as: ",
     "variants": {
-      "a": "ECHO, XRAY,TANGO,ROMEO,ALFA ",
+      "a": "ECHO, XRAY, TANGO, ROMEO, ALFA ",
       "b": "EXTRA ",
-      "c": "ECHO,XRAY,TORONTO,ROMEO,ALFA ",
-      "d": "ECHO,IKS,TORONTO,ROMEO,ALFA "
+      "c": "ECHO, XRAY, TORONTO, ROMEO, ALFA ",
+      "d": "ECHO, IKS, TORONTO, ROMEO, ALFA "
     }
   },
   "45": {
@@ -390,7 +395,7 @@
     "variants": {
       "a": "CHARLIE, MIKE, NOVEMBER, XRAY, YANKEE ",
       "b": "COCA, MIKE, NECTAR, XRAY, YANKEE ",
-      "c": "CHARLIE, METRO, NOVEMBER, EXTRA, YANKEE PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      8 / 23 "
+      "c": "CHARLIE, METRO, NOVEMBER, EXTRA, YANKEE "
     }
   },
   "46": {
@@ -421,40 +426,75 @@
   },
   "49": {
     "title": "The abbreviation for a control zone is:   ",
-    "variants": { "a": "CTR  ", "b": "MATZ  ", "c": "CTA ", "d": "CTZ  " }
+    "variants": { 
+      "a": "CTR  ", 
+      "b": "MATZ  ", 
+      "c": "CTA ", 
+      "d": "CTZ  " 
+    }
   },
   "50": {
     "title": "Which of the following abbreviations must be broadcast to individual letters? ",
-    "variants": { "a": "Y-BC ", "b": "ILS ", "c": "RVR ", "d": "CAVOK " }
+    "variants": { 
+      "a": "Y-BC ", 
+      "b": "ILS ", 
+      "c": "RVR ", 
+      "d": "CAVOK " 
+    }
   },
   "51": {
     "title": "What is the Q code for the measurement of relative heights above an airfields? ",
-    "variants": { "a": "QFE. ", "b": "ELT. ", "c": "QNH. ", "d": "QBA. 3 " }
+    "variants": { 
+      "a": "QFE. ", 
+      "b": "ELT. ", 
+      "c": "QNH. ", 
+      "d": "QBA. " 
+    }
   },
   "52": {
     "title": "What is the Q code for the measurement of altitude ?   ",
-    "variants": { "a": "QNH ", "b": "QFF  ", "c": "QNE ", "d": "QFE  " }
+    "variants": { 
+      "a": "QNH ", 
+      "b": "QFF  ", 
+      "c": "QNE ", 
+      "d": "QFE  " 
+    }
   },
   "53": {
     "title": "What is the Q code for the measurement of flight level ?   ",
-    "variants": {
-      "a": "QNE ",
-      "b": "QFF  ",
-      "c": "QNH ",
-      "d": "QFE  PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      9 / 23 "
+    "variants": { 
+      "a": "QNE ", 
+      "b": "QFF  ", 
+      "c": "QNH ", 
+      "d": "QFE  " 
     }
   },
   "54": {
     "title": "What is the Q code for a magnetic bearing to a station? ",
-    "variants": { "a": "QDM ", "b": "QDR ", "c": "QGH ", "d": "QNH " }
+    "variants": { 
+      "a": "QDM ", 
+      "b": "QDR ", 
+      "c": "QGH ", 
+      "d": "QNH " 
+    }
   },
   "55": {
     "title": "What is the Q code for a magnetic bearing from a station? ",
-    "variants": { "a": "QDR ", "b": "QGH ", "c": "QDM ", "d": "QNH " }
+    "variants": { 
+      "a": "QDR ", 
+      "b": "QGH ", 
+      "c": "QDM ", 
+      "d": "QNH " 
+    }
   },
   "56": {
     "title": "What is the Q code for a true bearing from a station? ",
-    "variants": { "a": "QTE ", "b": "QDR ", "c": "QNH ", "d": "QFE " }
+    "variants": { 
+      "a": "QTE ", 
+      "b": "QDR ", 
+      "c": "QNH ", 
+      "d": "QFE " 
+    }
   },
   "57": {
     "title": "What does the phrase \"QDM\" mean? ",
@@ -480,7 +520,7 @@
       "a": "You must do so in your initial call. ",
       "b": "You must do so after you have established two way communications with the station. ",
       "c": "You must monitor the ground station frequency until you hear the ground station giving the service you require to another aircraft. ",
-      "d": "As a private pilot you are not entitled to request a service. 4 "
+      "d": "As a private pilot you are not entitled to request a service. "
     }
   },
   "60": {
@@ -489,7 +529,7 @@
       "a": "Clearance to enter, land on, take-off on, backtrack, cross or hold short of an active runway; SSR instructions  ",
       "b": "Level instructions, altimeter settings, surface wind, runway information  ",
       "c": "ATC route clearances, runway clearances, actual weather reports  ",
-      "d": "VOR information, frequency changes, type of radar service  PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      10 / 23 "
+      "d": "VOR information, frequency changes, type of radar service  "
     }
   },
   "61": {
@@ -511,7 +551,12 @@
   },
   "63": {
     "title": "Callsign of ATC for control of aircraft and vehicles on manoeuvring area?  ",
-    "variants": { "a": "GROUND ", "b": "TOWER ", "c": "DISPATCH ", "d": "APRON " }
+    "variants": { 
+      "a": "GROUND ", 
+      "b": "TOWER ", 
+      "c": "DISPATCH ", 
+      "d": "APRON " 
+    }
   },
   "64": {
     "title": "The prescribed phrase for obtaining a permission to taxi to the runway for departure is ",
@@ -532,11 +577,11 @@
     }
   },
   "66": {
-    "title": "The controller wants to obtain the information about the level at which an aircraft is flying,using the phrase ",
+    "title": "The controller wants to obtain the information about the level at which an aircraft is flying, using the phrase ",
     "variants": {
       "a": "REPORT LEVEL. ",
       "b": "WHAT IS YOUR LEVEL. ",
-      "c": " REQUEST LEVEL. ",
+      "c": "REQUEST LEVEL. ",
       "d": "TRANSMIT YOUR LEVEL. "
     }
   },
@@ -546,7 +591,7 @@
       "a": "OMIT POSITION REPORT OVER ... (fix). ",
       "b": "CANCEL POSITION REPORT OVER ... (fix). ",
       "c": "NO POSITION REPORT OVER ... (fix). ",
-      "d": "DO NOT REPORT OVER ... (fix). PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      11 / 23 "
+      "d": "DO NOT REPORT OVER ... (fix). "
     }
   },
   "68": {
@@ -578,7 +623,12 @@
   },
   "71": {
     "title": "If a controller passes an instruction and you understand it and will comply, the standard reply is: ",
-    "variants": { "a": "WILCO ", "b": "VERIFY ", "c": "ROGER ", "d": "CONFIRM " }
+    "variants": { 
+      "a": "WILCO ", 
+      "b": "VERIFY ", 
+      "c": "ROGER ", 
+      "d": "CONFIRM " 
+    }
   },
   "72": {
     "title": "If the pilot is unable to make contact with a station on a designated frequency, then he should:   ",
@@ -603,7 +653,7 @@
       "a": "(CALLSIGN) READY FOR DEPARTURE. ",
       "b": "(CALLSIGN) READY FOR TAKE OFF. ",
       "c": "(CALLSIGN) READY FOR LINE UP. ",
-      "d": "(CALLSIGN) READY TO PROCEED PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      12 / 23 "
+      "d": "(CALLSIGN) READY TO PROCEED "
     }
   },
   "75": {
@@ -626,11 +676,20 @@
   },
   "77": {
     "title": "On a long straight-in approach to land, the call 'Long Final' would be made at a range of about: ",
-    "variants": { "a": "8nm  ", "b": "2 nm ", "c": "4 nm ", "d": "25 nm " }
+    "variants": { 
+      "a": "8 nm  ", 
+      "b": "2 nm ", 
+      "c": "4 nm ", 
+      "d": "25 nm " 
+    }
   },
   "78": {
     "title": "On the final approach, the FINAL call should be made at a range of about: ",
-    "variants": { "a": "4 nm  ", "b": "2 nm ", "c": "8nm  ", "d": "25 nm " }
+    "variants": { 
+      "a": "4 nm  ", 
+      "b": "2 nm ", 
+      "c": "8 nm  ", 
+      "d": "25 nm " }
   },
   "79": {
     "title": "You are flying on a NE heading at 2500 ft. You would report your heading and level as: ",
@@ -642,7 +701,7 @@
     }
   },
   "80": {
-    "title": "How would you correctly reply to the ATC instruction \"Y-CD, Change to Belgrade Tower, 118.1”? ",
+    "title": "How would you correctly reply to the ATC instruction \"Y-CD, Change to Belgrade Tower, 118.1\"? ",
     "variants": {
       "a": "WUN  WUN  EIGHT DAYSEEMAL WUN  , YANKEE CHARLIE DELTA. ",
       "b": "Y-CD, 118.1. ",
@@ -656,7 +715,7 @@
       "a": "Call Sign, Position, Time, Level or Altitude, Next Position with ETA. ",
       "b": "Call Sign, Route, Position, Level, ETA next Position, Heading , Request. ",
       "c": "Position, Level or Altitude, Time, ETA at Next Position, Call Sign. ",
-      "d": "Route, Position, Time, Level or Altitude, ETA at Next Position, Call Sign. PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      13 / 23 "
+      "d": "Route, Position, Time, Level or Altitude, ETA at Next Position, Call Sign. "
     }
   },
   "82": {
@@ -688,7 +747,12 @@
   },
   "85": {
     "title": "When asked by ATC \"Are you able to maintain FL 40\" the correct reply contains the phrase:   ",
-    "variants": { "a": "AFFIRM or NEGATIVE  ", "b": "ROGER  ", "c": "WILCO ", "d": "NO SIR  " }
+    "variants": { 
+      "a": "AFFIRM or NEGATIVE  ", 
+      "b": "ROGER  ", 
+      "c": "WILCO ", 
+      "d": "NO SIR  " 
+    }
   },
   "86": {
     "title": "When requesting a special VFR clearance in flight, ATC must be given details of:   ",
@@ -713,7 +777,7 @@
       "a": "RUNWAY VACATED. ",
       "b": "I HAVE LEFT THE RUNWAY. ",
       "c": "I AM CLEAR OF RUNWAY. ",
-      "d": "I AM BEYOND THE RUNWAY. PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      14 / 23 "
+      "d": "I AM BEYOND THE RUNWAY. "
     }
   },
   "89": {
@@ -742,47 +806,63 @@
     }
   },
   "92": {
-    "title": "That portion of the runway identified by the letter C is called? (See Fig. PPL Kom-1) ",
+    "title": "That portion of the runway identified by the letter C is called? ",
+    "image":"kom-1.jpg",
     "variants": {
       "a": "LINE-UP POSITION. ",
       "b": "START-UP POSITION. ",
       "c": "APRON. ",
-      "d": "BASE LEG. PPL Kom-1.jpg 5 "
+      "d": "BASE LEG. "
     }
   },
   "93": {
-    "title": "That portion of the airport traffic circuit identified by the letter E is called? (See Fig. PPL Kom-1)",
+    "title": "That portion of the airport traffic circuit identified by the letter E is called? ",
+    "image":"kom-1.jpg",
     "variants": {
       "a": "DOWNWIND POSITION. ",
       "b": "LINE-UP. ",
       "c": "CROSSWIND LEG. ",
-      "d": "BASE LEG. PPL Kom-1.jpg "
+      "d": "BASE LEG. "
     }
   },
   "94": {
-    "title": "Which designator denotes part of the aerodrome traffic circuit named \"Base Leg\"? (See Fig. PPL Kom-1) ",
-    "variants": { "a": "F. ", "b": "G. ", "c": "E. ", "d": "D. PPL Kom-1.jpg " }
+    "title": "Which designator denotes part of the aerodrome traffic circuit named \"Base Leg\"? ",
+    "image":"kom-1.jpg",
+    "variants": { 
+      "a": "F. ", 
+      "b": "G. ", 
+      "c": "E. ", 
+      "d": "D. " 
+    }
   },
   "95": {
-    "title": "Which letter identifies that portion of the airport traffic circuit, called \"FINAL LEG\"? (See Fig. PPLKom-1) ",
-    "variants": { "a": "G. ", "b": "E. ", "c": "F. ", "d": "C. PPL Kom-1.jpg " }
+    "title": "Which letter identifies that portion of the airport traffic circuit, called \"FINAL LEG\"? ",
+    "image":"kom-1.jpg",
+    "variants": { 
+      "a": "G. ", 
+      "b": "E. ", 
+      "c": "F. ", 
+      "d": "C. " 
+    }
   },
   "96": {
-    "title": "That portion of the airport identified by the letter A is called? (See Fig. PPL Kom-1) ",
+    "title": "That portion of the airport identified by the letter A is called? ",
+    "image":"kom-1.jpg",
     "variants": {
       "a": "APRON. ",
       "b": "RUNWAY. ",
       "c": "TAXIWAY. ",
-      "d": "BASE LEG. PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      15 / 23 PPL Kom-1.jpg "
+      "d": "BASE LEG. "
     }
   },
   "97": {
-    "title": "That portion of the airport taxyway identified by the letter B is called? (See Fig. PPL Kom-1) ",
+    "title": "That portion of the airport taxiway identified by the letter B is called? ",
+    "image":"kom-1.jpg",
     "variants": {
       "a": "HOLDING POINT. ",
       "b": "APRON. ",
       "c": "LINE-UP POSITION. ",
-      "d": "CROSSWIND LEG. PPL Kom-1.jpg "
+      "d": "CROSSWIND LEG. "
     }
   },
   "98": {
@@ -795,7 +875,7 @@
     }
   },
   "99": {
-    "title": "Taxy instructions issued by the controller will include a clearance limit which will normally be: ",
+    "title": "Taxi instructions issued by the controller will include a clearance limit which will normally be: ",
     "variants": {
       "a": "The holding point of the runway in use. ",
       "b": "The threshold of the runway in use. ",
@@ -813,7 +893,12 @@
   },
   "101": {
     "title": "Which phrase is used to annul the previously transmitted clearance? ",
-    "variants": { "a": "DISREGARD. ", "b": "RECLEARED. ", "c": "NEGATIVE. ", "d": "CANCEL. " }
+    "variants": { 
+      "a": "DISREGARD. ", 
+      "b": "RECLEARED. ", 
+      "c": "NEGATIVE. ", 
+      "d": "CANCEL. " 
+    }
   },
   "102": {
     "title": "The permission to taxi to the takeoff position will be phrased ",
@@ -830,7 +915,7 @@
       "a": "A Route Clearance. ",
       "b": "A Take-off Clearance. ",
       "c": "A Conditional Clearance. ",
-      "d": "A Departure Clearance. PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      16 / 23 "
+      "d": "A Departure Clearance. "
     }
   },
   "104": {
@@ -839,7 +924,7 @@
       "a": "Move the switch to \"ON\" or \"ALT\", if not yet selected. ",
       "b": "Push the button \"IDENT\". ",
       "c": "Move the switch to \"STANDBY\". ",
-      "d": "Move the switch to \"STANDBY\" and depress on button \"IDENT\". 7 "
+      "d": "Move the switch to \"STANDBY\" and depress on button \"IDENT\". "
     }
   },
   "105": {
@@ -893,12 +978,17 @@
       "a": "Degrees magnetic. ",
       "b": "Degrees true. ",
       "c": "Degrees Celsius. ",
-      "d": "Degrees Absolute. PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      17 / 23 "
+      "d": "Degrees Absolute. "
     }
   },
   "111": {
     "title": "In the event of a radio failure the SSR transponder should be set to: ",
-    "variants": { "a": "7600  ", "b": "7700 ", "c": "7500  ", "d": "7000 " }
+    "variants": { 
+      "a": "7600  ", 
+      "b": "7700 ", 
+      "c": "7500  ", 
+      "d": "7000 " 
+    }
   },
   "112": {
     "title": "A pilot squawking A 7700 indicates to the ground station that ",
@@ -911,7 +1001,12 @@
   },
   "113": {
     "title": "Which transponder mode gives an altitude readout: ",
-    "variants": { "a": "Mod C ", "b": "Mod A ", "c": "Mod B ", "d": "Mod D " }
+    "variants": { 
+      "a": "Mod C ", 
+      "b": "Mod A ", 
+      "c": "Mod B ", 
+      "d": "Mod D " 
+    }
   },
   "114": {
     "title": "If you are flying an aircraft without a transponder, what would you say if you were asked to SQUAWK? ",
@@ -924,7 +1019,12 @@
   },
   "115": {
     "title": "By which international phrase will the intercepting aircraft allows the intercepted aircraft to continue the flight? ",
-    "variants": { "a": "PROCEED ", "b": "CALL SIGN ", "c": "DESCEND ", "d": "FOLLOW 8 " }
+    "variants": { 
+      "a": "PROCEED ", 
+      "b": "CALL SIGN ", 
+      "c": "DESCEND ", 
+      "d": "FOLLOW " 
+    }
   },
   "116": {
     "title": "The phrase \"CALL SIGN\", passed by a radio from a pilot of an intercepting aircraft to the pilot of an intercepted aircraft, means: ",
@@ -941,16 +1041,26 @@
       "a": "Land at this aerodrome. ",
       "b": "Report the name of your aerodrome of origin. ",
       "c": "Follow me. ",
-      "d": "You may proceed. PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      18 / 23 "
+      "d": "You may proceed. "
     }
   },
   "118": {
     "title": "Which is the correct phrase used by the pilot of an intercepted aircraft to convey to an intercepting aircraft his inability to comply with the received instructions? ",
-    "variants": { "a": "CAN NOT ", "b": "AM LOST ", "c": "MAYDAY ", "d": "WILCO " }
+    "variants": { 
+      "a": "CAN NOT ", 
+      "b": "AM LOST ", 
+      "c": "MAYDAY ", 
+      "d": "WILCO " 
+    }
   },
   "119": {
     "title": "The pilot of an intercepted aircraft report to the pilot of an intercepting aircraft that he is lost and his position is uncertain to him by transmitting the following international radio phrase ",
-    "variants": { "a": "AM LOST ", "b": "WILCO ", "c": "CAN NOT ", "d": "MAYDAY " }
+    "variants": { 
+      "a": "AM LOST ", 
+      "b": "WILCO ", 
+      "c": "CAN NOT ", 
+      "d": "MAYDAY " 
+    }
   },
   "120": {
     "title": "Which frequency is intended for a conversation between the intercepting aircraft and the intercepted aircraft? ",
@@ -962,8 +1072,13 @@
     }
   },
   "121": {
-    "title": "By which international phrase will the intercepting aircraft direct the intercepted aircraft tofollow him? ",
-    "variants": { "a": "FOLLOW ", "b": "PROCEED ", "c": "YOU LAND ", "d": "CALL SIGN " }
+    "title": "By which international phrase will the intercepting aircraft direct the intercepted aircraft to follow him? ",
+    "variants": { 
+      "a": "FOLLOW ", 
+      "b": "PROCEED ", 
+      "c": "YOU LAND ", 
+      "d": "CALL SIGN " 
+    }
   },
   "122": {
     "title": "What are the two classified states of Emergency Message?  ",
@@ -971,7 +1086,7 @@
       "a": "Distress and Urgency  ",
       "b": "MAYDAY and PAN PAN  ",
       "c": "Emergency and Security  ",
-      "d": "Emergency and PAN PAN  9 "
+      "d": "Emergency and PAN PAN  "
     }
   },
   "123": {
@@ -980,7 +1095,7 @@
       "a": "That threaten to become serious or immediate danger and require immediate assistance ",
       "b": "That threaten to become serious or immediate danger and do not require urgent assistance ",
       "c": "Concerning the safety of an aircraft or other vehicle or of some person on board or within sight, but which does not require immediate assistance  ",
-      "d": "Concerning the safety of an aircraft or other vehicle or of some person on board or within sight and requiring immediate assistance PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      19 / 23 "
+      "d": "Concerning the safety of an aircraft or other vehicle or of some person on board or within sight and requiring immediate assistance "
     }
   },
   "124": {
@@ -1034,7 +1149,7 @@
       "a": "Spoken word \"MAYDAY\". ",
       "b": "Word \"MAYDAY\", transmitted by Morse code. ",
       "c": "Spoken word \"SECURITY\". ",
-      "d": "Spoken word \"PANPAN\". PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      20 / 23 "
+      "d": "Spoken word \"PANPAN\". "
     }
   },
   "130": {
@@ -1097,7 +1212,7 @@
       "a": "BEOGRAD TOWER YU-ABC Radio check 118.1 ",
       "b": " BEOGRAD TOWER YU-ABC 118.1 Do you read? ",
       "c": "BEOGRAD TOWER YU-ABC Hoe do you read? ",
-      "d": "BEOGRAD TOWER YU-ABC Readability check 118.1 10 PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      21 / 23 "
+      "d": "BEOGRAD TOWER YU-ABC Readability check 118.1 10 "
     }
   },
   "137": {
@@ -1156,11 +1271,11 @@
   },
   "143": {
     "title": "Which aeronautical communication service provides automated airfield and meteorological information for departing and arriving traffic? ",
-    "variants": {
-      "a": "ATIS ",
-      "b": "LARS  ",
-      "c": "AFIS ",
-      "d": "FIS  11 PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      22 / 23 "
+    "variants": { 
+      "a": "ATIS ", 
+      "b": "LARS  ", 
+      "c": "AFIS ", 
+      "d": "FIS  " 
     }
   },
   "144": {
@@ -1222,7 +1337,7 @@
       "a": "INFORMATION  ",
       "b": "HOMER ",
       "c": "CONTROL ",
-      "d": "RADIO PPL (A) – ComunicationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      23 / 23 APPENDIX: Fig.PPl Kom-1 "
+      "d": "RADIO "
     }
   }
 }

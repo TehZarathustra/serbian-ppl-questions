@@ -59,7 +59,7 @@
       "1": "The same as at mean sea level (MSL). ",
       "2": "Higher than at MSL ",
       "3": "Lower than at MSL. ",
-      "4": "Dependent on the actual altitude. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      3 / 21 "
+      "4": "Dependent on the actual altitude. "
     }
   },
   "8": {
@@ -82,11 +82,20 @@
   },
   "10": {
     "title": "After donating blood, what is the minimum time a pilot should wait before flying? ",
-    "variants": { "1": "24 hours. ", "2": "2 hours. ", "3": "12 hours. ", "4": "48 hours. " }
+    "variants": {
+      "1": "24 hours. ",
+      "2": "2 hours. ",
+      "3": "12 hours. ",
+      "4": "48 hours. "
+    }
   },
   "11": {
     "title": "Blood pressure may be too high due to: ",
-    "variants": { "1": "All of the above. ", "2": "Age. ", "3": "Stress. ", "4": "Smoking. " }
+    "variants": {
+      "1": "All of the above. ",
+      "2": "Age. ",
+      "3": "Stress. ",
+      "4": "Smoking. " }
   },
   "12": {
     "title": "Which body system is responsible for distributing oxygen around the body? ",
@@ -112,7 +121,7 @@
       "1": "The Autonomic Nervous System.  ",
       "2": "The Central Nervous System. ",
       "3": "The Peripheral Nervous System. ",
-      "4": "AII of the above. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      4 / 21 "
+      "4": "All of the above. "
     }
   },
   "15": {
@@ -126,7 +135,12 @@
   },
   "16": {
     "title": "Brain cells that have been deprived of oxygen will start to die in: ",
-    "variants": { "1": "2 minutes. ", "2": "2 seconds. ", "3": "1/2 hour. ", "4": "2 hours. " }
+    "variants": {
+      "1": "2 minutes. ",
+      "2": "2 seconds. ",
+      "3": "1/2 hour. ",
+      "4": "2 hours. "
+    }
   },
   "17": {
     "title": "Which of the following gases regulate the rate and depth of breathing, depending on the levels at which the gas is present in the blood? ",
@@ -148,7 +162,12 @@
   },
   "19": {
     "title": "Approximately how long does it take a person to dissipate one unit of alcohol from the blood? ",
-    "variants": { "1": "1 hour. ", "2": "1/2 hour. ", "3": "2 hours. ", "4": "12 hours. " }
+    "variants": {
+      "1": "1 hour. ",
+      "2": "1/2 hour. ",
+      "3": "2 hours. ",
+      "4": "12 hours. "
+    }
   },
   "20": {
     "title": "Enter into the following statement the most correct pair of gases from the options below. Hemoglobin in red blood cells is more readily attracted to_________than__________. ",
@@ -165,7 +184,7 @@
       "1": "The brain. ",
       "2": "The heart. ",
       "3": "The lungs. ",
-      "4": "The spinal cord. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      5 / 21 "
+      "4": "The spinal cord. "
     }
   },
   "22": {
@@ -188,7 +207,12 @@
   },
   "24": {
     "title": "Above what altitude do pilots need to breath supplementary oxygen? ",
-    "variants": { "1": "10,000 ft. ", "2": "2,000 ft. ", "3": "8,000 ft. ", "4": "20,000 ft. " }
+    "variants": {
+      "1": "10,000 ft. ",
+      "2": "2,000 ft. ",
+      "3": "8,000 ft. ",
+      "4": "20,000 ft. "
+    }
   },
   "25": {
     "title": "Compared to a non-smoker, someone who smokes is likely to experience the effects of hypoxia at: ",
@@ -223,7 +247,7 @@
       "1": "All of the above. ",
       "2": "Unconsciousness. ",
       "3": "Impaired judgment. ",
-      "4": "Tingling fingers and toes. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      6 / 21 "
+      "4": "Tingling fingers and toes. "
     }
   },
   "29": {
@@ -264,11 +288,21 @@
   },
   "33": {
     "title": "Which of the following organs of the body supplies the single most dependable source of sensory information? ",
-    "variants": { "1": "The Eye. ", "2": "The Ear. ", "3": "The Nose. ", "4": "The Neo-cortex. " }
+    "variants": {
+      "1": "The Eye. ",
+      "2": "The Ear. ",
+      "3": "The Nose. ",
+      "4": "The Neo-cortex. "
+    }
   },
   "34": {
     "title": "What is the component of the eye responsible for peripheral vision and sensitive to low light levels? ",
-    "variants": { "1": "The Rods. ", "2": "The Cones. ", "3": "The Fovea. ", "4": "The Retina. " }
+    "variants": {
+      "1": "The Rods. ",
+      "2": "The Cones. ",
+      "3": "The Fovea. ",
+      "4": "The Retina. "
+    }
   },
   "35": {
     "title": "Empty Field Myopia is a condition where the eyes naturally focus at a distance of approximately: ",
@@ -276,7 +310,7 @@
       "1": "1 - 2 meters. ",
       "2": "Infinity. ",
       "3": "20 - 500 meters. ",
-      "4": "At the horizon. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      7 / 21 "
+      "4": "At the horizon. "
     }
   },
   "36": {
@@ -307,7 +341,7 @@
     }
   },
   "39": {
-    "title": "Accommodation is the power of the lens to focus rays of light from near objects onto the Fovea.  Accommodation is controlled by: ",
+    "title": "Accommodation is the power of the lens to focus rays of light from near objects onto the Fovea. Accommodation is controlled by: ",
     "variants": {
       "1": "The Ciliary muscles. ",
       "2": "The Iris. ",
@@ -339,7 +373,7 @@
       "1": "Believe the indications of his instruments. ",
       "2": "Blink rapidly several times. ",
       "3": "Swallow hard, pinch the nostrils and blow down the nose to clear the Eustachian tube. ",
-      "4": "Believe his somatosensory senses. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      8 / 21 "
+      "4": "Believe his somatosensory senses. "
     }
   },
   "43": {
@@ -392,7 +426,7 @@
     "variants": {
       "1": "20 - 20,000 cycles per second. ",
       "2": "70 - 15.000 cycles per second. ",
-      "3": "80- 20.000 cycles per second. ",
+      "3": "80 - 20.000 cycles per second. ",
       "4": "500 - 15.000 cycles per second. "
     }
   },
@@ -411,7 +445,7 @@
       "1": "The mismatch between visual and vestibular sensory inputs. ",
       "2": "Rolling quickly into turns. ",
       "3": "Performing high g maneuvers. ",
-      "4": "Stalling. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      9 / 21 "
+      "4": "Stalling. "
     }
   },
   "51": {
@@ -425,7 +459,12 @@
   },
   "52": {
     "title": "Loudness is measured in: ",
-    "variants": { "1": "Decibels. ", "2": "Hertz. ", "3": "Pascal’s. ", "4": "Cycles per second. " }
+    "variants": {
+      "1": "Decibels. ",
+      "2": "Hertz. ",
+      "3": "Pascal's. ",
+      "4": "Cycles per second. "
+    }
   },
   "53": {
     "title": "Which of the following should a pilot primarily rely on if he becomes disorientated in Instrument Meteorological Conditions? ",
@@ -464,12 +503,12 @@
     }
   },
   "57": {
-    "title": "While flying, the changes in outside air pressure can cause air trapped in the body cavities to expandand contract. This is known as Otic Barotrauma and it most likely to effect: ",
+    "title": "While flying, the changes in outside air pressure can cause air trapped in the body cavities to expand and contract. This is known as Otic Barotrauma and it most likely to effect: ",
     "variants": {
       "1": "All of the above. ",
       "2": "The middle ear. ",
       "3": "The sinuses. ",
-      "4": "The teeth. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      10 / 21 "
+      "4": "The teeth. "
     }
   },
   "58": {
@@ -501,7 +540,12 @@
   },
   "61": {
     "title": "A pilot should not fly for at least how long after a local anesthetic? ",
-    "variants": { "1": "12 hours. ", "2": "2 hours. ", "3": "24 hours. ", "4": "48 hours. " }
+    "variants": {
+      "1": "12 hours. ",
+      "2": "2 hours. ",
+      "3": "24 hours. ",
+      "4": "48 hours. "
+    }
   },
   "62": {
     "title": "You are suffering from a cold with slightly blocked nose and sinuses and you have an aircraft booked to fly. Should you: ",
@@ -514,7 +558,12 @@
   },
   "63": {
     "title": "A pilot should not fly for at least how long after a general anesthetic? ",
-    "variants": { "1": "48 hours. ", "2": "2 hours. ", "3": "12 hours. ", "4": "24 hours. " }
+    "variants": {
+      "1": "48 hours. ",
+      "2": "2 hours. ",
+      "3": "12 hours. ",
+      "4": "24 hours. "
+    }
   },
   "64": {
     "title": "Which of the following may cause fainting? ",
@@ -531,7 +580,7 @@
       "1": "More likely to attract attention and more likely to be responded to in error. ",
       "2": "Less likely to attract attention and less likely to be responded to in error. ",
       "3": "Less likely to attract attention and more likely to be responded to in error. ",
-      "4": "More likely to attract attention and less likely to be responded to in error. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      11 / 21 "
+      "4": "More likely to attract attention and less likely to be responded to in error. "
     }
   },
   "66": {
@@ -594,7 +643,7 @@
       "1": "A down-sloping runway. ",
       "2": "An up-sloping runway. ",
       "3": "A brightly lit aerodrome in an otherwise dark area.",
-      "4": "A narrower than normal runway. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      12 / 21 "
+      "4": "A narrower than normal runway. "
     }
   },
   "73": {
@@ -611,7 +660,7 @@
     "variants": {
       "1": "Reschedule the flight for another time, discounting the immediate disappointment to your friends. ",
       "2": "Get airborne as planned, as it is always wise to stick to your flight plan if you possibly can. ",
-      "3": "Proceed with the flight and treat it as an opportunity to practise flying in adverse conditions. ",
+      "3": "Proceed with the flight and treat it as an opportunity to practice flying in adverse conditions. ",
       "4": "Ask your friends if they are prepared to fly in the prevailing conditions, before assessing the situation yourself. "
     }
   },
@@ -657,7 +706,7 @@
       "1": "During a pre-flight safety briefing. ",
       "2": "At the moment any emergency occurs; it is not necessary to worry them before that. ",
       "3": "While waiting at the hold for take-off. ",
-      "4": "Just after take-off. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      13 / 21 "
+      "4": "Just after take-off. "
     }
   },
   "80": {
@@ -706,7 +755,7 @@
     }
   },
   "85": {
-    "title": "Which of the following occur when a pilot is sitting too high in a cockpit? a. Good downward outside view. b. Poor view of instruments. c. Upwards outside view obstructed. ",
+    "title": "Which of the following occur when a pilot is sitting too high in a cockpit? \na. Good downward outside view. \nb. Poor view of instruments. \nc. Upwards outside view obstructed. ",
     "variants": {
       "1": "a), b) and c). ",
       "2": "only a). ",
@@ -720,7 +769,7 @@
       "1": "Take time to find the checklist at the risk of missing part of your airborne time. ",
       "2": "Perform the checks from memory. ",
       "3": "Use a checklist for a different aircraft type. ",
-      "4": "Rely on the instructor to point out anything that you might have missed. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      14 / 21 "
+      "4": "Rely on the instructor to point out anything that you might have missed. "
     }
   },
   "87": {
@@ -752,7 +801,7 @@
     "title": "Motion sickness is caused by ",
     "variants": {
       "1": "Continued stimulation of the tiny portion of the inner ear which controls sense of balance. ",
-      "2": "Instability in the brain cells which affect balance and will generally be overcome with            experience. ",
+      "2": "Instability in the brain cells which affect balance and will generally be overcome with experience. ",
       "3": "The movement of an aircraft causing the stomach to create an acid substance which ",
       "4": "Causes the stomach lining to contract. "
     }
@@ -776,7 +825,11 @@
   },
   "93": {
     "title": "During a climb to 18,000 ft, the percentage of oxygen in the atmosphere ",
-    "variants": { "1": "Remains the same. ", "2": "Increases. ", "3": "Decreases. " }
+    "variants": {
+      "1": "Remains the same. ",
+      "2": "Increases. ",
+      "3": "Decreases. "
+    }
   },
   "94": {
     "title": "Although not required, supplemental oxygen is recommended for use when flying at ",
@@ -784,7 +837,7 @@
       "1": "night above ",
       "2": "1,500 m (5,000 ft). ",
       "3": "3,050 m (10,000 ft). ",
-      "4": "3,800 m (12,500 ft). PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      15 / 21 "
+      "4": "3,800 m (12,500 ft). "
     }
   },
   "95": {
@@ -858,8 +911,7 @@
     "variants": {
       "1": "Hyperventilation. ",
       "2": "Aerosinusitis. ",
-      "3": "Aerotitis. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      16 / 21 "
-    }
+      "3": "Aerotitis. " }
   },
   "104": {
     "title": "Hyperventilation results from ",
@@ -880,11 +932,19 @@
   },
   "106": {
     "title": "If an individual has gone scuba diving which has not required a controlled ascent and will be flying to cabin pressure altitudes of 8,000 feet or less, the recommended waiting time is at least ",
-    "variants": { "1": "4 hours. ", "2": "12 hours. ", "3": "24 hours. " }
+    "variants": {
+      "1": "4 hours. ",
+      "2": "12 hours. ",
+      "3": "24 hours. "
+    }
   },
   "107": {
     "title": "If an individual has gone scuba diving which has required a controlled ascent and will be flying to cabin pressure altitudes of 8,000 feet or less, the recommended waiting time is at least ",
-    "variants": { "1": "24 hours. ", "2": "4 hours. ", "3": "12 hours. " }
+    "variants": {
+      "1": "24 hours. ",
+      "2": "4 hours. ",
+      "3": "12 hours. "
+    }
   },
   "108": {
     "title": "Dark adaptation is impaired by exposure to ",
@@ -915,11 +975,11 @@
     "variants": {
       "1": "Scan slowly to permit off-center viewing. ",
       "2": "Look only at far away, dim lights. ",
-      "3": "Concentrate directly on each object for a few seconds. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      17 / 21 "
+      "3": "Concentrate directly on each object for a few seconds. "
     }
   },
   "112": {
-    "title": "The most effective technique to use for detecting other aircraft at night is to avoid staring directlyat the point where another aircraft is suspected to be flying. ",
+    "title": "The most effective technique to use for detecting other aircraft at night is to avoid staring directly at the point where another aircraft is suspected to be flying. ",
     "variants": {
       "1": "Turn the head and sweep the eyes rapidly over the entire visible region. ",
       "2": "Avoid scanning the region below the horizon so as to avoid the effect on ground light on ",
@@ -961,7 +1021,11 @@
   },
   "117": {
     "title": "A state of temporary confusion resulting from misleading information being sent to the brain by various sensory organs is defined as ",
-    "variants": { "1": "Spatial disorientation. ", "2": "Hyperventilation. ", "3": "Hypoxia. " }
+    "variants": {
+      "1": "Spatial disorientation. ",
+      "2": "Hyperventilation. ",
+      "3": "Hypoxia. "
+    }
   },
   "118": {
     "title": "Which procedure is recommended to prevent or overcome spatial disorientation? ",
@@ -984,7 +1048,7 @@
     "variants": {
       "1": "Having faith in the instruments rather than taking a chance on the sensory organs. ",
       "2": "Shifting the eyes quickly between the exterior visual field and the instrument panel. ",
-      "3": "Leaning the body in the opposite direction of the motion of the aircraft. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      18 / 21 "
+      "3": "Leaning the body in the opposite direction of the motion of the aircraft. "
     }
   },
   "121": {
@@ -998,11 +1062,19 @@
   },
   "122": {
     "title": "A rapid acceleration can create the illusion of being in a ",
-    "variants": { "1": "Nose up attitude. ", "2": "Left turn. ", "3": "Nose down attitude. " }
+    "variants": {
+      "1": "Nose up attitude. ",
+      "2": "Left turn. ",
+      "3": "Nose down attitude. "
+    }
   },
   "123": {
     "title": "Who is responsible for determining whether a pilot is fit to fly for a particular flight, even though he or she holds a current medical certificate? ",
-    "variants": { "1": "The pilot. ", "2": "The medical examiner. ", "3": "The FA-1. " }
+    "variants": {
+      "1": "The pilot. ",
+      "2": "The medical examiner. ",
+      "3": "The FA-1. "
+    }
   },
   "124": {
     "title": "What is the one common factor which affects most preventable accidents? ",
@@ -1041,11 +1113,11 @@
     "variants": {
       "1": "You have the flight controls. ",
       "2": "I have the aircraft. ",
-      "3": "I have the flight controls. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      19 / 21 "
+      "3": "I have the flight controls. "
     }
   },
   "129": {
-    "title": "Risk management, as a part of aeronautical decision making (AM process, relies on which features to reduce the risk associated with each flight? ",
+    "title": "Risk management, as a part of aeronautical decision making (AM process), relies on which features to reduce the risk associated with each flight? ",
     "variants": {
       "1": "Situational awareness, problem recognition, and good judgment. ",
       "2": "Application of stress management and risk element procedures. ",
@@ -1108,7 +1180,7 @@
       "1": "Heart attack.  ",
       "2": "Hypoxia at higher altitudes. ",
       "3": "Hypothermia. ",
-      "4": "All of the above. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      20 / 21 "
+      "4": "All of the above. "
     }
   },
   "137": {
@@ -1138,7 +1210,11 @@
   },
   "140": {
     "title": "A person may not act as a crewmember of a civil aircraft if alcoholic beverages have been consumed by that person within the preceding ",
-    "variants": { "1": "8 hours. ", "2": "12 hours. ", "3": "24 hours. " }
+    "variants": {
+      "1": "8 hours. ",
+      "2": "12 hours. ",
+      "3": "24 hours. "
+    }
   },
   "141": {
     "title": "An illusion, that an aircraft is at a higher altitude than it actually is, is produced by ",
@@ -1149,8 +1225,13 @@
     }
   },
   "142": {
-    "title": "The three-needle type altimeter used in many light aircraft a. Easy to mis-read. B. Hardly ever mis-read.  C. Accurate and reliable. D. Not very accurate or reliable. ",
-    "variants": { "1": "A) and C). ", "2": "Only  A) ", "3": "Only A) ", "4": "B) and D). " }
+    "title": "The three-needle type altimeter used in many light aircraft \nA. Easy to mis-read. \nB. Hardly ever mis-read.  \nC. Accurate and reliable. \nD. Not very accurate or reliable. ",
+    "variants": {
+      "1": "A) and C). ",
+      "2": "Only A) ",
+      "3": "Only A) ",
+      "4": "B) and D). "
+    }
   },
   "143": {
     "title": "Which of the following are terms generally used to describe a type or types of memory within the subject of Human Performance and Limitations? ",
@@ -1158,7 +1239,7 @@
       "1": "Long-term memory. ",
       "2": "Sensitive memory. ",
       "3": "Felicitous memory.  ",
-      "4": "All of them. PPL (A) – Human performance and limitationsLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      21 / 21 "
+      "4": "All of them. "
     }
   },
   "144": {
@@ -1190,7 +1271,12 @@
   },
   "147": {
     "title": "In which part of the eye is visual acuity at its highest? ",
-    "variants": { "1": "The Fovea. ", "2": "The Retina. ", "3": "The Pupil. ", "4": "The Cornea. " }
+    "variants": {
+      "1": "The Fovea. ",
+      "2": "The Retina. ",
+      "3": "The Pupil. ",
+      "4": "The Cornea. "
+    }
   },
   "148": {
     "title": "In order to see a sharp image of an oncoming aircraft which has been detected by the eye, a pilot should: ",
@@ -1203,7 +1289,12 @@
   },
   "149": {
     "title": "The amount of light entering the eye is controlled by the: ",
-    "variants": { "1": "Iris. ", "2": "Cornea. ", "3": "Lens. ", "4": "Pupil. " }
+    "variants": {
+      "1": "Iris. ",
+      "2": "Cornea. ",
+      "3": "Lens. ",
+      "4": "Pupil. "
+    }
   },
   "150": {
     "title": "The pulse is generated by the contraction of which heart chamber? ",

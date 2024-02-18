@@ -9,7 +9,7 @@
     }
   },
   "2": {
-    "title": "If a pilot judges that his aircraft is in grave and imminent danger, his message should begin with thewords: ",
+    "title": "If a pilot judges that his aircraft is in grave and imminent danger, his message should begin with the words: ",
     "variants": {
       "a": "Mayday Mayday Mayday. ",
       "b": "Pan Pan Pan Pan Pan Pan. ",
@@ -50,7 +50,7 @@
       "a": "500 ft above terrain or the highest obstacles under the flight path. ",
       "b": "1000 ft above terrain or the highest obstacles under the flight path. ",
       "c": "1500 ft above terrain or the highest obstacles under the flight path. ",
-      "d": "2000 ft above terrain or the highest obstacles under the flight path. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      3 / 25"
+      "d": "2000 ft above terrain or the highest obstacles under the flight path. "
     }
   },
   "7": {
@@ -63,7 +63,7 @@
     }
   },
   "8": {
-    "title": "It’s the pilot's responsibility to ensure that the aircraft is properly equipped for the planned flight. If there is any doubt the pilot should consult: ",
+    "title": "It's the pilot's responsibility to ensure that the aircraft is properly equipped for the planned flight. If there is any doubt the pilot should consult: ",
     "variants": {
       "a": " Minimum Equipment List. ",
       "b": "Certificate of Airworthiness. ",
@@ -113,7 +113,7 @@
       "a": "Must be on all the time the engine of an aircraft is running. ",
       "b": "All the time the aircraft is flying. ",
       "c": "Must be switched on after engine start-up and switched off before engine shut-down. ",
-      "d": "Must be switched on shortly before takeoff and switched off when the aircraft vacates the runway. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      4 / 25"
+      "d": "Must be switched on shortly before takeoff and switched off when the aircraft vacates the runway. "
     }
   },
   "14": {
@@ -136,7 +136,12 @@
   },
   "16": {
     "title": "What frequency should be monitored by an aircraft when taking-off from an airfield inside the territory of the Republic of Serbia without published frequency? ",
-    "variants": { "a": "123.5 MHz. ", "b": "123.2 MHz. ", "c": "122.8 MHz. ", "d": "121.5 MHz. " }
+    "variants": { 
+      "a": "123.5 MHz. ", 
+      "b": "123.2 MHz. ", 
+      "c": "122.8 MHz. ", 
+      "d": "121.5 MHz. " 
+    }
   },
   "17": {
     "title": "The pilot of an aircraft taking-off from an airfield where the altimeter setting is not readily available, shall set the aircraft altimeter to : ",
@@ -171,7 +176,7 @@
       "a": "Do nothing, because the ailerons are of the type \"differential\". ",
       "b": "Call the mechanic. ",
       "c": "Consider situation normal as long as the difference in deflections on opposite sides is equal, however you would make a technical remark in the book. ",
-      "d": "Fix uneven deflections by adjusting the regulating screws on the aileron control system. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      5 / 25"
+      "d": "Fix uneven deflections by adjusting the regulating screws on the aileron control system. "
     }
   },
   "21": {
@@ -232,7 +237,7 @@
       "a": "By doing that we avoid self-ignition due to presence of the fuel/air mixture in cylinders. ",
       "b": "Because an engine cannot be shut down by switching the magnetos off. ",
       "c": "By doing that we prevent the engine to be shut down at too high temperature. ",
-      "d": "Because at magnetos switching off the engine stops very rapidly and damage of the main shaft bearings could occur. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      6 / 25"
+      "d": "Because at magnetos switching off the engine stops very rapidly and damage of the main shaft bearings could occur. "
     }
   },
   "28": {
@@ -245,7 +250,7 @@
     }
   },
   "29": {
-    "title": "What is the most reliable practical method of checking the fuel level in the reservoirs of an aircraftwhile on ground? ",
+    "title": "What is the most reliable practical method of checking the fuel level in the reservoirs of an aircraft while on ground? ",
     "variants": {
       "a": "Visual checking the fuel level in the reservoir. ",
       "b": "Reading the fuel gauges with engine running. ",
@@ -301,7 +306,7 @@
       "a": "The low pressure on the top of the wing will cause all the fuel to be siphoned out. ",
       "b": "Rainwater will enter the tank and contaminate the fuel. ",
       "c": "The loose cap will cause damage to control surfaces if it flies off. ",
-      "d": "The aerodynamics flow about the fuel filler neck will disrupt fuel flow. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      7 / 25"
+      "d": "The aerodynamics flow about the fuel filler neck will disrupt fuel flow. "
     }
   },
   "36": {
@@ -332,27 +337,47 @@
   },
   "39": {
     "title": "1 USA gallon of AVGAS 100 LL weights : ",
-    "variants": { "a": "6 lbs. ", "b": "3 lbs. ", "c": "4 lbs. ", "d": "5 lbs. " }
+    "variants": { 
+      "a": "6 lbs. ", 
+      "b": "3 lbs. ", 
+      "c": "4 lbs. ", 
+      "d": "5 lbs. " 
+    }
   },
   "40": {
     "title": "53 liters of AVGAS 100 LL weights : ",
-    "variants": { "a": "38 kg. ", "b": "42 kg. ", "c": "74 kg. ", "d": "80 kg. " }
+    "variants": { 
+      "a": "38 kg. ", 
+      "b": "42 kg. ", 
+      "c": "74 kg. ", 
+      "d": "80 kg. " 
+    }
   },
   "41": {
     "title": "Aviation gasoline 80/87 grade is colored? ",
-    "variants": { "a": "Red. ", "b": "Green. ", "c": "Blue. ", "d": "Violet. " }
+    "variants": { 
+      "a": "Red. ", 
+      "b": "Green. ", 
+      "c": "Blue. ", 
+      "d": "Violet. " 
+    }
   },
   "42": {
     "title": "Aviation gasoline 100/130 grade is colored? ",
-    "variants": { "a": "Green. ", "b": "Red. ", "c": "Blue. ", "d": "Violet. " }
+    "variants": { 
+      "a": "Green. ", 
+      "b": "Red. ", 
+      "c": "Blue. ", 
+      "d": "Violet. " 
+    }
   },
   "43": {
     "title": "Aviation gasoline 100LL is colored : ",
-    "variants": {
-      "a": "Blue. ",
-      "b": "Red ",
-      "c": "Green. ",
-      "d": "Violet. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      8 / 25"
+    "variants": { 
+      "a": "Blue. ", 
+      "b": "Red ", 
+      "c": "Green. ", 
+      "d": "Violet. " 
     }
   },
   "44": {
@@ -360,7 +385,7 @@
     "variants": {
       "a": "The next higher grade of aviation fuel. ",
       "b": "The next lower grade of aviation fuel. ",
-      "c": "Unleaded avtomotive gas of the same grade. ",
+      "c": "Unleaded automotive gas of the same grade. ",
       "d": "Automotive gas SUPER of the same or next higher grade. "
     }
   },
@@ -419,7 +444,7 @@
       "a": "Shut down, if oil pressure is not seen to rise within approximately 30 seconds of start up. ",
       "b": "Shut down immediately if oil pressure does not rise immediately upon start up. ",
       "c": "Shut down, if oil pressure has not reached normal limits by the time the airplane is ready for takeoff. ",
-      "d": "Operated normally, since it may take 10 minutes for oil pressure to rise. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      9 / 25"
+      "d": "Operated normally, since it may take 10 minutes for oil pressure to rise. "
     }
   },
   "52": {
@@ -488,7 +513,7 @@
       "a": "Setting the altimeter to QNH in checking the elevation reading while on ground. ",
       "b": "Low-passing near towers with known height. ",
       "c": "Cross-checking of altimeter readings and radioaltimeter readings. ",
-      "d": "Cross-checking of flight altitudes and altitudes from an aeronautical geographical chart 1:500 000. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      10 / 25"
+      "d": "Cross-checking of flight altitudes and altitudes from an aeronautical geographical chart 1:500 000. "
     }
   },
   "60": {
@@ -545,11 +570,11 @@
   },
   "66": {
     "title": "How should the flight controls be deflected while taxiing a tailwheel aeroplane with a strong tailwind? ",
-    "variants": {
-      "a": "Down. ",
-      "b": "Up. ",
-      "c": "In neutral. ",
-      "d": "Fully up. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      11 / 25"
+    "variants": { 
+      "a": "Down. ", 
+      "b": "Up. ", 
+      "c": "In neutral. ", 
+      "d": "Fully up. " 
     }
   },
   "67": {
@@ -606,7 +631,7 @@
     "variants": {
       "a": "Groundspeed at touchdown, a longer ground roll, and the likelihood of overshooting the desired touchdown point. ",
       "b": "Airspeed at touchdown, a longer ground roll, and better control throughout the landing roll. ",
-      "c": "Groundspeed at touchdown, a shorter ground roll, and the likelihood of undershooting the desired touchdown point. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      12 / 25"
+      "c": "Groundspeed at touchdown, a shorter ground roll, and the likelihood of undershooting the desired touchdown point. "
     }
   },
   "74": {
@@ -619,7 +644,11 @@
   },
   "75": {
     "title": "As an airplane climbs to higher altitudes with the mixture control set in RICH, the fuel/air mixture :",
-    "variants": { "a": "Becomes richer. ", "b": "Does not change. ", "c": "Becomes leaner. " }
+    "variants": { 
+      "a": "Becomes richer. ", 
+      "b": "Does not change. ", 
+      "c": "Becomes leaner. " 
+    }
   },
   "76": {
     "title": "While cruising at 9,500 feet MSL, the fuel/air mixture is properly adjusted. What will occur if a descent to 4,500 feet MSL is made without readjusting the mixture? ",
@@ -660,7 +689,7 @@
     "variants": {
       "a": "Keep turning the engine, but move the mixture control to IDLE CUT-OFF and open the throttle. ",
       "b": "Place the starter switch to OFF. ",
-      "c": "Continue with the normal start. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      13 / 25"
+      "c": "Continue with the normal start. "
     }
   },
   "81": {
@@ -722,7 +751,7 @@
       "a": "Dust and other foreign particles which can cause damage if ingested into engine. ",
       "b": "High temperatures which can cause detonations. ",
       "c": "Rich mixture which can cause fouling of the spark plugs. ",
-      "d": "Overheating of the engine. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      14 / 25"
+      "d": "Overheating of the engine. "
     }
   },
   "88": {
@@ -773,7 +802,7 @@
     "variants": {
       "a": "Zero and stays zero even after the significant electrical consumer is switched on (e.i. The landing light). ",
       "b": "Maximum. ",
-      "c": "Increase significantly after the electrical consumer is switched on. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      15 / 25"
+      "c": "Increase significantly after the electrical consumer is switched on. "
     }
   },
   "94": {
@@ -823,7 +852,7 @@
     "variants": {
       "a": "Developing lift. ",
       "b": "Operating at high airspeeds. ",
-      "c": "Heavily loaded. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      16 / 25"
+      "c": "Heavily loaded. "
     }
   },
   "100": {
@@ -836,7 +865,11 @@
   },
   "101": {
     "title": "What is the most likely cause of the dangerous turbulence behind heavy aircraft? ",
-    "variants": { "a": "Wingtip vortices. ", "b": "Propeller blast. ", "c": "Jet blast. " }
+    "variants": { 
+      "a": "Wingtip vortices. ", 
+      "b": "Propeller blast. ", 
+      "c": "Jet blast. " 
+    }
   },
   "102": {
     "title": "What precautions are required when stopping a light aircraft behind a heavy aircraft that is stopped on the manoeuvring area? ",
@@ -876,7 +909,7 @@
     "variants": {
       "a": "Five minutes or more; ATC permits two or three minutes separation. ",
       "b": "Two minutes. ",
-      "c": "Three minutes. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      17 / 25"
+      "c": "Three minutes. "
     }
   },
   "107": {
@@ -935,7 +968,7 @@
     "variants": {
       "a": "Provide the same amount of lift at a slower airspeed. ",
       "b": "Decrease the angle of descent without increasing the airspeed. ",
-      "c": "Decrease lift, thus enabling a steeper-than-normal approach to be made. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      18 / 25"
+      "c": "Decrease lift, thus enabling a steeper-than-normal approach to be made. "
     }
   },
   "114": {
@@ -983,20 +1016,21 @@
     }
   },
   "119": {
-    "title": "That portion of the runway identified by the letter A may be used for  : (see Figure PPL OP-",
+    "title": "That portion of the runway identified by the letter A may be used for  : ",
+    "image":"op-1.jpg",
     "variants": {
-      "1": "",
       "a": "Taxiing and takeoff. ",
       "b": "Landing. ",
-      "c": "Taxiing and landing. PPL OP-1.jpg "
+      "c": "Taxiing and landing. "
     }
   },
   "120": {
     "title": "According to the airport diagram, which statement is true? (see Figure PPL OP-1) ",
+    "image":"op-1.jpg",
     "variants": {
       "a": "Takeoffs may be started at position A on Runway 12, and the landing portion of this runway begins at position B. ",
       "b": "Runway 30 is equipped at position E with emergency arresting gear to provide means of stopping military aircraft. ",
-      "c": "The takeoff and landing portion of Runway 12 begins at position B. PPL OP-1.jpg PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      19 / 25"
+      "c": "The takeoff and landing portion of Runway 12 begins at position B. "
     }
   },
   "121": {
@@ -1016,35 +1050,39 @@
     }
   },
   "123": {
-    "title": "What is the difference between area A and area B on the airport depicted? : (see Figure PPL OP-1) ",
+    "title": "What is the difference between area A and area B on the airport depicted? : ",
+    "image":"op-1.jpg",
     "variants": {
       "a": "\"A\" may be used for taxi and takeoff; \"E\" may be used only as an overrun. ",
       "b": "\"A\" may be used for all operations except heavy aircraft landing; \"E\" may be used for only as an overrun. ",
-      "c": "\"A\" may be used only for taxiing; \"E\" may be used for all operations except landings. PPL OP-1.jpg "
+      "c": "\"A\" may be used only for taxiing; \"E\" may be used for all operations except landings. "
     }
   },
   "124": {
-    "title": "Area C on the airport depicted is classified as a (see Figure PPL OP-1) ",
+    "title": "Area C on the airport depicted is classified as a ",
+    "image":"op-1.jpg",
     "variants": {
       "a": "Closed runway. ",
       "b": "Stabilized area. ",
-      "c": "Multiple heliport. PPL OP-1.jpg "
+      "c": "Multiple heliport. "
     }
   },
   "125": {
-    "title": "The arrows that appear on the end of the north/south runway indicate that the area  :  (see Figure PPL OP-2) ",
+    "title": "The arrows that appear on the end of the north/south runway indicate that the area  :  ",
+    "image":"op-2.jpg",
     "variants": {
       "a": "Cannot be used for landing, but may be used for taxiing and takeoff. ",
       "b": "May be used only for taxiing. ",
-      "c": "Is usable for taxiing, takeoff, and landing. PPL OP-2.jpg "
+      "c": "Is usable for taxiing, takeoff, and landing. "
     }
   },
   "126": {
-    "title": "The numbers 4 and 22 on a runway indicate that the runway is oriented approximately :  (see Figure PPL OP-2) ",
+    "title": "The numbers 4 and 22 on a runway indicate that the runway is oriented approximately :  ",
+    "image":"op-2.jpg",
     "variants": {
       "a": "040° and 220° (magnetic). ",
       "b": "004° and 022° (true). ",
-      "c": "040° and 220° (true). PPL OP-2.jpg "
+      "c": "040° and 220° (true). "
     }
   },
   "127": {
@@ -1061,7 +1099,7 @@
       "a": "Green unidirectional. ",
       "b": "Red unidirectional. ",
       "c": "Green omni-directional. ",
-      "d": "Red omni-directional. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      20 / 25"
+      "d": "Red omni-directional. "
     }
   },
   "129": {
@@ -1126,7 +1164,7 @@
     "variants": {
       "a": "A green light signal. ",
       "b": "A white light signal. ",
-      "c": "An amber light signal. PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      21 / 25"
+      "c": "An amber light signal. "
     }
   },
   "137": {
@@ -1138,90 +1176,100 @@
     }
   },
   "138": {
-    "title": "Illustration A indicates that the aircraft is (see Figure PPL OP-3) ",
+    "title": "Illustration A indicates that the aircraft is ",
+    "image":"op-3.jpg",
     "variants": {
       "a": "Below the glide slope. ",
       "b": "On the glide slope. ",
-      "c": "Above the glide slope PPL OP-3.jpg "
+      "c": "Above the glide slope "
     }
   },
   "139": {
-    "title": "Illustration C indicates that the aircraft is (see Figure PPL OP-3) ",
+    "title": "Illustration C indicates that the aircraft is ",
+    "image":"op-3.jpg",
     "variants": {
       "a": "Above the glide slope. ",
       "b": "Off course to the left. ",
-      "c": "Below the glide slope. PPL OP-3.jpg "
+      "c": "Below the glide slope. "
     }
   },
   "140": {
-    "title": "Illustration B indicates that the aircraft is (see Figure PPL OP-3) ",
+    "title": "Illustration B indicates that the aircraft is ",
+    "image":"op-3.jpg",
     "variants": {
       "a": "On the glide slope. ",
       "b": "Below the glide slope. ",
-      "c": "Above the glide slope. PPL OP-3.jpg "
+      "c": "Above the glide slope. "
     }
   },
   "141": {
-    "title": "On the controlled airport you noticed a square yellow board bearing a black \"C\", exposed above one of the doors (Picture C). What does that mean? (see Figure PPL OP-4 ",
+    "title": "On the controlled airport you noticed a square yellow board bearing a black \"C\", exposed above one of the doors (Picture C). What does that mean? ",
+    "image":"op-4.jpg",
     "variants": {
       "a": "Air traffic control reporting office. ",
       "b": "Customs office. ",
       "c": "Exit for private aircraft crew. ",
-      "d": "Staff exit. PPL OP-4.jpg "
+      "d": "Staff exit. "
     }
   },
   "142": {
-    "title": "In the signal area of an aerodrome, a red square with a single yellow diagonal strip (Picture B) means: (see Figure PPL OP-4) ",
+    "title": "In the signal area of an aerodrome, a red square with a single yellow diagonal strip (Picture B) means: ",
+    "image":"op-4.jpg",
     "variants": {
       "a": "Take special care when landing because of the poor state of the manoeuvring area. ",
       "b": "Do not land. ",
       "c": "Gliders are operating. ",
-      "d": "Helicopters are operating. PPL OP-4.jpg "
+      "d": "Helicopters are operating. "
     }
   },
   "143": {
-    "title": "What is the meaning of the visual ground signal in a form of a horizontal red square panel with yellow diagonals displayed in an airport signal area (Picture A)? (see Figure PPL OP-4) ",
+    "title": "What is the meaning of the visual ground signal in a form of a horizontal red square panel with yellow diagonals displayed in an airport signal area (Picture A)? ",
+    "image":"op-4.jpg",
     "variants": {
       "a": "Landings are prohibited. ",
       "b": "Area unfit for movement of aircraft. ",
       "c": "Aircraft are required to land, takeoff and taxi on runways and taxiways only. ",
-      "d": "Special precautions must be observed in approaching to land or in landing. PPL OP-4.jpg "
+      "d": "Special precautions must be observed in approaching to land or in landing. "
     }
   },
   "144": {
-    "title": "A white cross, placed horizontally on the beginning of the taxiway (picture G), means: (see Figure PPL OP-4) ",
+    "title": "A white cross, placed horizontally on the beginning of the taxiway (picture G), means: ",
+    "image":"op-4.jpg",
     "variants": {
       "a": "Taxiway unserviceable! ",
       "b": "Caution, you are approaching the intersection with the runway! ",
       "c": "Helicopter landing area! ",
-      "d": "Caution, you are approaching the intersection with other taxiway! PPL OP-4.jpg PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      22 / 25"
+      "d": "Caution, you are approaching the intersection with other taxiway! "
     }
   },
   "145": {
-    "title": "In the signal area of an aerodrome, a double white cross (Picture H) means: (see Figure PPL OP-4) ",
+    "title": "In the signal area of an aerodrome, a double white cross (Picture H) means: ",
+    "image":"op-4.jpg",
     "variants": {
       "a": "Caution, gliders in the air! ",
       "b": "Landing prohibited, the airport is not safe! ",
       "c": "Take special care during approach and landing! ",
-      "d": "Ground taxiing permitted outside runway and taxiways! PPL OP-4.jpg "
+      "d": "Ground taxiing permitted outside runway and taxiways! "
     }
   },
   "146": {
-    "title": "In the signal area of an aerodrome, a white dumb-bell (Picture D) means: (see Figure PPL OP-4) ",
+    "title": "In the signal area of an aerodrome, a white dumb-bell (Picture D) means: ",
+    "image":"op-4.jpg",
     "variants": {
       "a": "Land and taxi on hard surfaces only. ",
       "b": "Landing direction is parallel with the shafts towards the cross-arm. ",
       "c": "Land on hard surfaces only. ",
-      "d": "Do not land. PPL OP-4.jpg "
+      "d": "Do not land. "
     }
   },
   "147": {
-    "title": "In the signal area of an aerodrome, a white dumb-bell with black stripes on each circular portion at right angles to the shaft (Picture E) means: (see Figure PPL OP-4) ",
+    "title": "In the signal area of an aerodrome, a white dumb-bell with black stripes on each circular portion at right angles to the shaft (Picture E) means: ",
+    "image":"op-4.jpg",
     "variants": {
       "a": "Landing, takeoff, and taxiing on runway and taxiways only, other movement on the ground is not confined to hard surfaces. ",
       "b": "Landing prohibited for prolonged period. ",
       "c": "Landing, takeoff, and taxiing confined to runway and taxiways only. ",
-      "d": "Caution, gliders in the air. PPL OP-4.jpg "
+      "d": "Caution, gliders in the air. "
     }
   },
   "148": {
@@ -1234,21 +1282,23 @@
     }
   },
   "149": {
-    "title": "In the signal area of an aerodrome, a sign (Picture I), means: (see Figure PPL OP-4) ",
+    "title": "In the signal area of an aerodrome, a sign (Picture I), means: ",
+    "image":"op-4.jpg",
     "variants": {
       "a": "Right-hand traffic circuit in force. ",
       "b": "After landing vacate the runway by right turn. ",
       "c": "Parking site to the right. ",
-      "d": "Continue to the next airport, the runway is closed.PPL OP-4.jpg "
+      "d": "Continue to the next airport, the runway is closed. "
     }
   },
   "150": {
-    "title": "In the signal area of an aerodrome, a white \"T\" (Picture F) means: (see Figure PPL OP-4) ",
+    "title": "In the signal area of an aerodrome, a white \"T\" (Picture F) means: ",
+    "image":"op-4.jpg",
     "variants": {
       "a": "Landing direction is parallel with the shafts towards the cross-arm. ",
       "b": "Land on hard surfaces only. ",
       "c": "Land and taxi on hard surfaces only. ",
-      "d": "Do not land. PPL OP-4.jpg PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      23 / 25APPENDIX: Fig. PPL OP-1 PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      24 / 25Fig. PPL OP-2 Fig. PPL OP-3 PPL (A) – Operational proceduresLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      25 / 25Fig. PPL OP-4 "
+      "d": "Do not land. "
     }
   }
 }

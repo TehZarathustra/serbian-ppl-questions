@@ -19,7 +19,12 @@
   },
   "3": {
     "title": "If, on a given day, the actual outside air temperature at 4000 ft is 23°C, what is the approximate difference between the actual and ISA temperature? ",
-    "variants": { "a": "16°C. ", "b": "7°C. ", "c": "15°C. ", "d": "8°C. " }
+    "variants": { 
+      "a": "16°C. ", 
+      "b": "7°C. ", 
+      "c": "15°C. ", 
+      "d": "8°C. " 
+    }
   },
   "4": {
     "title": "The presence of water vapour:- ",
@@ -45,7 +50,7 @@
       "a": "Nitrogen 78% Oxygen 21% Argon 0.95%  Carbon Dioxide 0.05% ",
       "b": "Oxygen 78%   Nitrogen 21% Argon 0.95%  Carbon Dioxide 0.05% ",
       "c": "Nitrogen 78% Oxygen 21% Argon 0.95%  Carbon Monoxide 0.05% ",
-      "d": "Oxygen 78%   Nitrogen 21% Argon 0.95%  Carbon Monoxide 0.05% PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      3 / 23"
+      "d": "Oxygen 78%   Nitrogen 21% Argon 0.95%  Carbon Monoxide 0.05% "
     }
   },
   "7": {
@@ -76,7 +81,7 @@
     }
   },
   "10": {
-    "title": "A piston engine aircraft fiies in that layer of the atmosphere called: ",
+    "title": "A piston engine aircraft flies in that layer of the atmosphere called: ",
     "variants": {
       "a": "The Troposphere. ",
       "b": "The Stratosphere. ",
@@ -95,13 +100,18 @@
   },
   "12": {
     "title": "The unit of force is the: ",
-    "variants": { "a": "Newton. ", "b": "Newton-metre. ", "c": "Joule. ", "d": "Mass-kilogram. " }
+    "variants": { 
+      "a": "Newton. ", 
+      "b": "Newton-metre. ", 
+      "c": "Joule. ", 
+      "d": "Mass-kilogram. " 
+    }
   },
   "13": {
     "title": "The dynamic pressure exerted on an aircraft's frontal surface is equal to: ",
     "variants": {
       "a": "Half the density times the true airspeed squared. ",
-      "b": "Density time’s speed squared. ",
+      "b": "Density time's speed squared. ",
       "c": "Half the true airspeed times the density squared. ",
       "d": "Half the density times the indicated airspeed squared. "
     }
@@ -112,12 +122,17 @@
       "a": "Parallel to / Opposite to. ",
       "b": "Perpendicular to / Opposite to. ",
       "c": "Perpendicular to / in the same direction as. ",
-      "d": "Parallel to / in the same direction as. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      4 / 23"
+      "d": "Parallel to / in the same direction as. "
     }
   },
   "15": {
     "title": "The symbol for dynamic pressure is: ",
-    "variants": { "a": "", "Q": "", "b": "", "P": "", "c": "", "R": "", "d": "", "D": "" }
+    "variants": { 
+      "a": "Q ", 
+      "b": "P ", 
+      "c": "R ", 
+      "d": "D " 
+    }
   },
   "16": {
     "title": "The air flow over the wing's upper surface in straight and level flight, when compared with the airflow that is unaffected by the wing, will have: ",
@@ -161,7 +176,7 @@
       "a": "Lower. ",
       "b": "Equal. ",
       "c": "Higher. ",
-      "d": "Equal pressure but travelling faster. "
+      "d": "Equal pressure but traveling faster. "
     }
   },
   "21": {
@@ -170,7 +185,7 @@
       "a": "The mass flow remains constant and the velocity of the airflow increases. ",
       "b": "The velocity of the airflow remains constant and the mass flow increases. ",
       "c": "The mass flow remains constant and the static pressure increases. ",
-      "d": "The velocity of the airflow remains constant and the kinetic energy increases. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      5 / 23"
+      "d": "The velocity of the airflow remains constant and the kinetic energy increases. "
     }
   },
   "22": {
@@ -183,7 +198,7 @@
     }
   },
   "23": {
-    "title": "When considering air: 1 - Air has mass 2 - Air is not compressible 3 - Air is able to flow or change its shape when subject to even small pressures 4 - The viscosity of air is very high 5 - Moving air has kinetic energy The correct combination of all true statements is: ",
+    "title": "When considering air: \n1 - Air has mass \n2 - Air is not compressible \n3 - Air is able to flow or change its shape when subject to even small pressures \n4 - The viscosity of air is very high \n5 - Moving air has kinetic energy \nThe correct combination of all true statements is: ",
     "variants": {
       "a": "1, 3, and 5. ",
       "b": "1, 2. 3 and 5. ",
@@ -201,7 +216,7 @@
     }
   },
   "25": {
-    "title": "An aircraft's mass is a resuit of: ",
+    "title": "An aircraft's mass is a result of: ",
     "variants": {
       "a": "How much matter it contains. ",
       "b": "Its weight ",
@@ -224,7 +239,7 @@
       "a": "The kinetic energy will increase, the dynamic pressure will increase and the static pressure will decrease. ",
       "b": "The dynamic pressure will decrease and the static pressure will increase. ",
       "c": "The static pressure will remain constant and the kinetic energy will increase. ",
-      "d": "The mass flow will stay constant, the dynamic pressure will decrease and the static pressure will increase. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      6 / 23"
+      "d": "The mass flow will stay constant, the dynamic pressure will decrease and the static pressure will increase. "
     }
   },
   "28": {
@@ -237,7 +252,7 @@
     }
   },
   "29": {
-    "title": "What must be the relationship between the forces acting on an aircraft in flight, for that aircraft tobe in a state of equilibrium? ",
+    "title": "What must be the relationship between the forces acting on an aircraft in flight, for that aircraft to be in a state of equilibrium? ",
     "variants": {
       "a": "Lift must equal weight, and thrust must equal drag.",
       "b": "Lift must equal drag, and thrust must equal weight ",
@@ -274,7 +289,12 @@
   },
   "33": {
     "title": "Dynamic Pressure may be expressed by the formula: ",
-    "variants": { "a": "Q=1/2pV2 ", "b": "Q=1/3PV2 ", "c": "Q =P", "V": "", "d": "Q = 2P" }
+    "variants": { 
+      "a": "Q= 1/2 pV^2 ", 
+      "b": "Q= 1/3 PV^2 ", 
+      "c": "Q = pV", 
+      "d": "Q = 2 pV " 
+    }
   },
   "34": {
     "title": "As airspeed increases, induced drag: ",
@@ -282,7 +302,7 @@
       "a": "Decreases. ",
       "b": "Increases. ",
       "c": "Is dependant on the weight of the aircraft? ",
-      "d": "Remains unchanged. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      7 / 23"
+      "d": "Remains unchanged. "
     }
   },
   "35": {
@@ -345,7 +365,7 @@
       "a": "Minus 4 degrees. ",
       "b": "0 degrees. ",
       "c": "4 to 6 degrees. ",
-      "d": "16 degrees. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      8 / 23"
+      "d": "16 degrees. "
     }
   },
   "42": {
@@ -417,7 +437,7 @@
       "a": "The aerodynamic force which acts at 90° to the relative airflow. ",
       "b": "The aerodynamic force which acts perpendicular to the chord line of the aerofoil. ",
       "c": "The aerodynamic force that results from the pressure differentials about an aerofoil. ",
-      "d": "The aerodynamic force which acts perpendicular to the upper surface of the aerofoil. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      9 / 23"
+      "d": "The aerodynamic force which acts perpendicular to the upper surface of the aerofoil. "
     }
   },
   "50": {
@@ -467,7 +487,12 @@
   },
   "55": {
     "title": "A wing which is inclined downwards from root to tip is said to have: ",
-    "variants": { "a": "Anhedral. ", "b": "Washout. ", "c": "Taper. ", "d": "Sweep. " }
+    "variants": { 
+      "a": "Anhedral. ", 
+      "b": "Washout. ", 
+      "c": "Taper. ", 
+      "d": "Sweep. " 
+    }
   },
   "56": {
     "title": "When the C of G is close to the forward limit: ",
@@ -484,7 +509,7 @@
       "a": "Develop simultaneous oscillations in roll and yaw. ",
       "b": "Go into a spiral dive. ",
       "c": "Develop oscillations in pitch. ",
-      "d": "Develop an unchecked roll. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      10 / 23"
+      "d": "Develop an unchecked roll. "
     }
   },
   "58": {
@@ -542,12 +567,12 @@
     }
   },
   "64": {
-    "title": "When an aircraft is disturbed from its established flight path by, for example, turbulence, it is saidto have positive stability if it subsequently: ",
+    "title": "When an aircraft is disturbed from its established flight path by, for example, turbulence, it is said to have positive stability if it subsequently: ",
     "variants": {
       "a": "Re-establishes its original flight path without any input from the pilot. ",
       "b": "Remains on the new flight path. ",
       "c": "Becomes further displaced from its original flight path. ",
-      "d": "Continues to pitch in the disturbed direction until the displacement is resisted by opposing control forces. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      11 / 23"
+      "d": "Continues to pitch in the disturbed direction until the displacement is resisted by opposing control forces. "
     }
   },
   "65": {
@@ -610,7 +635,7 @@
       "a": "The horizontal tailplane. ",
       "b": "The fin. ",
       "c": "The wing dihedral. ",
-      "d": "The ailerons. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      12 / 23"
+      "d": "The ailerons. "
     }
   },
   "72": {
@@ -660,7 +685,12 @@
   },
   "77": {
     "title": "Movement of the aircraft about its normal (vertical) axis is known as:- ",
-    "variants": { "a": "Yawing. ", "b": "Rolling. ", "c": "Pitching. ", "d": "Side slipping. " }
+    "variants": { 
+      "a": "Yawing. ", 
+      "b": "Rolling. ", 
+      "c": "Pitching. ", 
+      "d": "Side slipping. " 
+    }
   },
   "78": {
     "title": "An aircraft wing is constructed with positive dihedral in order to give: ",
@@ -668,7 +698,7 @@
       "a": "Lateral stability about the longitudinal axis. ",
       "b": "Longitudinal stability about the lateral axis. ",
       "c": "Lateral stability about the normal axis. ",
-      "d": "Directional stability about the normal axis. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      13 / 23"
+      "d": "Directional stability about the normal axis. "
     }
   },
   "79": {
@@ -683,10 +713,10 @@
   "80": {
     "title": "When flaps are lowered the stalling angle of attack of the wing: ",
     "variants": {
-      "a": "Decreases, but CLMAX increases. ",
-      "b": "Remains the same, but CLMAX increases. ",
-      "c": "Increases and CLMAX increases. ",
-      "d": "Decreases, but CLMAX remains the same. "
+      "a": "Decreases, but Clmax increases. ",
+      "b": "Remains the same, but Clmax increases. ",
+      "c": "Increases and Clmax increases. ",
+      "d": "Decreases, but Clmax remains the same. "
     }
   },
   "81": {
@@ -731,16 +761,26 @@
       "a": "Increased. ",
       "b": "Reduced. ",
       "c": "The same as for a landing with flaps. ",
-      "d": "The same as for a landing with flaps but with a steeper approach. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      14 / 23"
+      "d": "The same as for a landing with flaps but with a steeper approach. "
     }
   },
   "86": {
     "title": "The maximum speed at which the aircraft can be flown with flaps extended is called: ",
-    "variants": { "a": "V", "F": ". ", "b": "VYSE. ", "c": "V", "N": ". ", "d": "V" }
+    "variants": { 
+      "a": "Vfe. ",
+      "b": "Vyse. ",
+      "c": "Vne. ",
+      "d": "Vno. " 
+    }
   },
   "87": {
     "title": "Yawing is movement around the_____axis. ",
-    "variants": { "a": "Normal. ", "b": "Longitudinal. ", "c": "Lateral. ", "d": "Horizontal. " }
+    "variants": { 
+      "a": "Normal. ", 
+      "b": "Longitudinal. ", 
+      "c": "Lateral. ", 
+      "d": "Horizontal. " 
+    }
   },
   "88": {
     "title": "The lateral axis of an aircraft is a line which: ",
@@ -752,7 +792,7 @@
     }
   },
   "89": {
-    "title": "Lowering the fiaps during a landing approach: ",
+    "title": "Lowering the flaps during a landing approach: ",
     "variants": {
       "a": "Increases the angle of descent without increasing the airspeed. ",
       "b": "Permits approaches at a higher indicated airspeed. ",
@@ -761,7 +801,7 @@
     }
   },
   "90": {
-    "title": "During a manoeuvre, the ailerons are deflected and returned to neutral when the aircraft has attained a small angle of bank. If the aircraft then returns to a wings-level attitude without furthercontrol movement, it is: ",
+    "title": "During a manoeuvre, the ailerons are deflected and returned to neutral when the aircraft has attained a small angle of bank. If the aircraft then returns to a wings-level attitude without further control movement, it is: ",
     "variants": {
       "a": "Statically and dynamically stable. ",
       "b": "Neutrally stable. ",
@@ -784,11 +824,11 @@
       "a": "Oscillatory motion of part or parts of the aircraft relative to the remainder of the structure. ",
       "b": "Rapid oscillatory motion involving only rotation of the control surfaces, associated with the shock waves produced around the control surfaces. ",
       "c": "Rapid movement of the airframe caused by vibration from the engines. ",
-      "d": "Reversal of the ailerons caused by wing torsional flexibility. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      15 / 23"
+      "d": "Reversal of the ailerons caused by wing torsional flexibility. "
     }
   },
   "93": {
-    "title": "An aileron could be balanced aerodynamical I y by: ",
+    "title": "An aileron could be balanced aerodynamically by: ",
     "variants": {
       "a": "Having the control hinge set back behind the control surface leading edge. ",
       "b": "Making the up aileron move through a larger angle than the down aileron. ",
@@ -847,7 +887,7 @@
       "a": "Left yaw and left roll. ",
       "b": "Left yaw and right roll. ",
       "c": "Right yaw and left roll. ",
-      "d": "Right yaw and right roll. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      16 / 23"
+      "d": "Right yaw and right roll. "
     }
   },
   "100": {
@@ -910,7 +950,7 @@
       "a": "Roll and yaw. ",
       "b": "Roll and pitch. ",
       "c": "Pitch and yaw ",
-      "d": "Yaw and roll. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      17 / 23"
+      "d": "Yaw and roll. "
     }
   },
   "107": {
@@ -982,7 +1022,7 @@
       "a": "The left aileron moves up, right aileron moves down, elevator moves down. ",
       "b": "The left aileron moves up, right aileron moves down, elevator moves up. ",
       "c": "The left aileron moves down, right aileron moves up, elevator moves down. ",
-      "d": "The left aileron moves down, right aileron moves up, elevator moves up. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      18 / 23"
+      "d": "The left aileron moves down, right aileron moves up, elevator moves up. "
     }
   },
   "115": {
@@ -995,7 +1035,7 @@
     }
   },
   "116": {
-    "title": "'Differential Ailerons'are a design feature that helps to counteract: ",
+    "title": "'Differential Ailerons' are a design feature that helps to counteract: ",
     "variants": {
       "a": "Adverse yaw. ",
       "b": "Stability about the longitudinal axis. ",
@@ -1027,12 +1067,17 @@
       "a": "The critical angle of attack is exceeded. ",
       "b": "The indicated airspeed is too low. ",
       "c": "The laminar airflow becomes turbulent. ",
-      "d": "It is subjected to unusually high 'G'forces. "
+      "d": "It is subjected to unusually high 'G' forces. "
     }
   },
   "120": {
     "title": "The stalling speed of an aircraft in straight and level flight is 60 kt, IAS. What is its stalling speed in a level 60° banked turn? ",
-    "variants": { "a": "85 kt ", "b": "60 kt ", "c": "43 kt ", "d": "120 kt " }
+    "variants": { 
+      "a": "85 kt ", 
+      "b": "60 kt ", 
+      "c": "43 kt ", 
+      "d": "120 kt " 
+    }
   },
   "121": {
     "title": "When an aircraft is in a steady climb, the aerodynamic lift is_____the weight. ",
@@ -1040,12 +1085,17 @@
       "a": "Less than. ",
       "b": "Balanced by. ",
       "c": "Equal to. ",
-      "d": "Greater than. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      19 / 23"
+      "d": "Greater than. "
     }
   },
   "122": {
     "title": "A typical stalling angle of attack for an aircraft wing is: ",
-    "variants": { "a": "16°  ", "b": "4° ", "c": "30°  ", "d": "45° " }
+    "variants": { 
+      "a": "16°  ", 
+      "b": "4° ", 
+      "c": "30°  ", 
+      "d": "45° " 
+    }
   },
   "123": {
     "title": "The maximum angle of climb of an aeroplane is determined by: ",
@@ -1084,22 +1134,21 @@
     }
   },
   "127": {
-    "title": "The maximum allowable airspeed with flaps extended (V",
+    "title": "TThe maximum allowable airspeed with flaps extended (Vfe) is lower than cruising speed because:",
     "variants": {
-      "F": "the aerodynamic forces would overload the flap and wing structures. ",
-      "a": "At speeds higher than V",
+      "a": "At speeds higher than Vfe the aerodynamic forces would overload the flap and wing structures.",
       "b": "Flaps are used only when preparing to land. ",
       "c": "Too much drag is induced. ",
       "d": "Flaps will stall if they are deployed at too high an airspeed. "
     }
   },
   "128": {
-    "title": "The basic staiiing speed of an aeroplane is 80 knots. In a level turn with 45° angle bank, the stalling speed is: ",
-    "variants": {
-      "a": "95 knots. ",
-      "b": "33 knots. ",
-      "c": "86 knots. ",
-      "d": "113 knots. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      20 / 23"
+    "title": "The basic stalling speed of an aeroplane is 80 knots. In a level turn with 45° angle bank, the stalling speed is: ",
+    "variants": { 
+      "a": "95 knots. ", 
+      "b": "33 knots. ", 
+      "c": "86 knots. ", 
+      "d": "113 knots. " 
     }
   },
   "129": {
@@ -1112,12 +1161,11 @@
     }
   },
   "130": {
-    "title": "V",
+    "title": "Vne is: ",
     "variants": {
-      "N": " is: ",
       "a": "The maximum airspeed at which the aircraft may be flown. ",
       "b": "The airspeed which must not be exceeded except in a dive. ",
-      "c": "The maximum airspeed at which manoeuvres approaching the stall may be carried out. ",
+      "c": "The maximum airspeed at which manoeuvres approaching the stall may be carried out.",
       "d": "The maximum speed, above which flaps should not be extended. "
     }
   },
@@ -1131,9 +1179,8 @@
     }
   },
   "132": {
-    "title": "What is the significance of the speed known as V",
+    "title": "What is the significance of the speed known as Vno? ",
     "variants": {
-      "N": "? ",
       "a": "It signifies the upper limit of the normal operating speed range. ",
       "b": "It is the maximum speed at which abrupt movements of the controls will result in a stall, before the aircraft's positive load limit is exceeded. ",
       "c": "It is the speed beyond which structural failure of the airframe will occur. ",
@@ -1159,12 +1206,12 @@
     }
   },
   "135": {
-    "title": "If an aircraft is flown at its design manoeuvring speed VA: ",
+    "title": "If an aircraft is flown at its design manoeuvring speed Va: ",
     "variants": {
       "a": "It is not possible to exceed the limit load. ",
       "b": "It is possible to subject the aircraft to a load greater than its limit load during high 'g' manoeuvres. ",
       "c": "It is only possible to subject the aircraft to a load greater than its limit load during violent increases in incidence, i.e. when using excessive stick force to pull-out of a dive. ",
-      "d": "It must be immediately slowed down if turbulence is encountered. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      21 / 23"
+      "d": "It must be immediately slowed down if turbulence is encountered. "
     }
   },
   "136": {
@@ -1186,20 +1233,43 @@
     }
   },
   "138": {
-    "title": "The best angle of attack on the wing polar diagram is marked as: (See Fig. PPL PoF-2) ",
-    "variants": { "a": "4. ", "b": "2. ", "c": "5. ", "d": "6. " }
+    "title": "The best angle of attack on the wing polar diagram is marked as: ",
+    "image": "pof-2.jpg",
+    "variants": { 
+      "a": "4. ", 
+      "b": "2. ", 
+      "c": "5. ", 
+      "d": "6. " 
+    }
   },
   "139": {
-    "title": "The critical angle of attack on the wing polar diagram is marked as: (See Fig. PPL PoF-2) ",
-    "variants": { "a": "6. ", "b": "1. ", "c": "4. ", "d": "5. " }
+    "title": "The critical angle of attack on the wing polar diagram is marked as: ",
+    "image": "pof-2.jpg",
+    "variants": { 
+      "a": "6. ", 
+      "b": "1. ", 
+      "c": "4. ", 
+      "d": "5. " 
+    }
   },
   "140": {
-    "title": "The angle of attack for a minimum drag on the wing polar diagram is marked as: (See Fig. PPL PoF-2) ",
-    "variants": { "a": "3. ", "b": "4. ", "c": "5. ", "d": "7. " }
+    "title": "The angle of attack for a minimum drag on the wing polar diagram is marked as: ",
+    "image": "pof-2.jpg",
+    "variants": { 
+      "a": "3. ", 
+      "b": "4. ", 
+      "c": "5. ", 
+      "d": "7. " 
+    }
   },
   "141": {
     "title": "Which wing shape has the greatest induction drag? ",
-    "variants": { "a": "Rectangular. ", "b": "Taper. ", "c": "Elliptical. ", "d": "Double taper. " }
+    "variants": { 
+      "a": "Rectangular. ", 
+      "b": "Taper. ", 
+      "c": "Elliptical. ", 
+      "d": "Double taper. " 
+    }
   },
   "142": {
     "title": "If the velocity of an airstream is doubled the drag coefficient will ",
@@ -1211,46 +1281,80 @@
     }
   },
   "143": {
-    "title": "Approximately for what percent will the stall speed increase if wing loading increases by 15%? ",
-    "variants": {
-      "a": "7%. ",
-      "b": "0%. ",
-      "c": "15%. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      22 / 23",
-      "d": "20%. "
+    "title": "Approximately for what percent will the stall speed increase if wing loading increases by 15%? ",    
+    "variants": { 
+      "a": "7%. ", 
+      "b": "0%. ", 
+      "c": "15%. ", 
+      "d": "20%. " 
     }
   },
   "144": {
     "title": "What is the approximate percentage increase of a minimum speed if an aircraft mass is increased for 20%? ",
-    "variants": { "a": "10%. ", "b": "0%. ", "c": "120%. ", "d": "20%. " }
+    "variants": { 
+      "a": "10%. ", 
+      "b": "0%. ", 
+      "c": "120%. ", 
+      "d": "20%. " 
+    }
   },
   "145": {
-    "title": "If an airplane weights 3,000 pounds, what approximate weight would the airplane structure be required to support during a 20° banked turn while maintaining altitude? (See Fig. PPL PoF-1) ",
-    "variants": { "a": "3,180 lbs ", "b": "4,000 lbs ", "c": "3,350 lbs ", "d": "3,000 lbs " }
+    "title": "If an airplane weights 3,000 pounds, what approximate weight would the airplane structure be required to support during a 20° banked turn while maintaining altitude? ",
+    "image": "pof-1.jpg",
+    "variants": { 
+      "a": "3,180 lbs ", 
+      "b": "4,000 lbs ", 
+      "c": "3,350 lbs ", 
+      "d": "3,000 lbs " 
+    }
   },
   "146": {
-    "title": "If an airplane weights 4,600 pounds, what approximate weight would the airplane structure be required to support during a 50° banked turn while maintaining altitude?  (See Fig. PPL PoF-1) ",
-    "variants": { "a": "7,160 lbs. ", "b": "5,400 lbs. ", "c": "9,200 lbs. ", "d": "8,180 lbs. " }
+    "title": "If an airplane weights 4,600 pounds, what approximate weight would the airplane structure be required to support during a 50° banked turn while maintaining altitude?  ",
+    "image": "pof-1.jpg",
+    "variants": { 
+      "a": "7,160 lbs. ", 
+      "b": "5,400 lbs. ", 
+      "c": "9,200 lbs. ", 
+      "d": "8,180 lbs. " 
+    }
   },
   "147": {
-    "title": "What is the maximum allowed bank angle when flying an aircraft with limiting load factor of +2,5 G? (See Fig. PPL PoF-1) ",
-    "variants": { "a": "66°. ", "b": "55°. ", "c": "60°. ", "d": "50°. " }
+    "title": "What is the maximum allowed bank angle when flying an aircraft with limiting load factor of +2,5 G? ",
+    "image": "pof-1.jpg",
+    "variants": { 
+      "a": "66°. ", 
+      "b": "55°. ", 
+      "c": "60°. ", 
+      "d": "50°. " 
+    }
   },
   "148": {
-    "title": "What is the maximum allowed bank angle when flying an aircraft with limiting load factor of +3,8 G? (See Fig. PPL PoF-1) ",
-    "variants": { "a": "75°. ", "b": "70°. ", "c": "67°. ", "d": "53°. " }
+    "title": "What is the maximum allowed bank angle when flying an aircraft with limiting load factor of +3,8 G? ",
+    "image": "pof-1.jpg",
+    "variants": { 
+      "a": "75°. ", 
+      "b": "70°. ", 
+      "c": "67°. ", 
+      "d": "53°. " 
+    }
   },
   "149": {
-    "title": "What is the load factor in a 60° banked level turn? (See Fig. PPL PoF-1) ",
-    "variants": { "a": "2.0 G ", "b": "1.5 G ", "c": "0.5 G ", "d": "1 G " }
+    "title": "What is the load factor in a 60° banked level turn? ",
+    "image": "pof-1.jpg",
+    "variants": { 
+      "a": "2.0 G ", 
+      "b": "1.5 G ", 
+      "c": "0.5 G ", 
+      "d": "1 G " 
+    }
   },
   "150": {
-    "title": "The airspeed at which a pilot will not yet overstress the airframe of an aicraft by momentarily up-deflecting the elevator is ",
+    "title": "The airspeed at which a pilot will not yet overstress the airframe of an aircraft by momentarily up-deflecting the elevator is ",
     "variants": {
-      "a": "VA. ",
-      "b": "VB. ",
-      "c": "V",
-      "F": ". ",
-      "d": "VS. PPL (A) – Principle of flightLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      23 / 23APPENDIX: Fig. PPL PoF-1. Fig. PPL PoF-2. "
+      "a": "Va. ",
+      "b": "Vb. ",
+      "c": "Vfe. ",
+      "d": "Vs. "
     }
   }
 }

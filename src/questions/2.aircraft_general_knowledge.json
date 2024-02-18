@@ -12,9 +12,9 @@
     "title": "A BCF fire extinguisher: ",
     "variants": {
       "a": "Is quite safe to use in an enclosed cockpit if the cockpit is subsequently ventilated. ",
-      "b": "Gives off highly toxic fumes and should never be used in an enclosed cockpit. ",
+      "b": "Gives off highly toxic fumes and should never be used in an enclosed cockpit ",
       "c": "Is quite safe to use in an enclosed cockpit. ",
-      "d": "Is only suitable for wood or fabric fires and is, therefore, of no use in a cockpit. "
+      "d": "Is only suitable for wood or fabric fires and is, therefore, of no use in a cockpit "
     }
   },
   "3": {
@@ -23,13 +23,13 @@
       "a": "To always select full carburettor heat. ",
       "b": "To select the appropriate amount of carburettor heat depending on the amount of icing suspected. ",
       "c": "To always select full carburettor heat unless the engine starts to run roughly, at which point the carburettor heat should be selected to cold. ",
-      "d": "To open the throttle to make up for the lost power. "
+      "d": "To open the throttle to make up for the lost power."
     }
   },
   "4": {
-    "title": "Aquaplaning speed: ",
+    "title": "Aquaplaning speed:- ",
     "variants": {
-      "a": "Can be calculated, in knots, by multiplying the square root of the tyre pressure by nine ",
+      "a": "Can be calculated, in knots, by multiplying the square root of the tyre pressure by nine. ",
       "b": "Increases as the depth of tread on the tyres reduces. ",
       "c": "Increases as the depth of water on the ground increases. ",
       "d": "Is measured in miles per hour. "
@@ -41,7 +41,7 @@
       "a": "24 volts and 40 ampere-hours capacity. ",
       "b": "12 volts and 80 ampere-hours capacity. ",
       "c": "24 volts and 80 ampere-hours capacity. ",
-      "d": "12 volts and 40 ampere hour’s capacity. "
+      "d": "12 volts and 40 ampere hour's capacity. "
     }
   },
   "6": {
@@ -50,7 +50,7 @@
       "a": "Pressure dependence. ",
       "b": "Temperature dependence. ",
       "c": "Mechanical selection. ",
-      "d": "Hydraulic selection. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      3 / 27 "
+      "d": "Hydraulic selection. "
     }
   },
   "7": {
@@ -77,7 +77,7 @@
       "a": "Select mixture control to Idle Cut off (ICO). ",
       "b": "Deselect carburettor heat. ",
       "c": "Turn the starter switch to \"Off\". ",
-      "d": "AII of the above. "
+      "d": "All of the above. "
     }
   },
   "10": {
@@ -90,12 +90,13 @@
     }
   },
   "11": {
-    "title": "The diagram shows a light aircraft electrical power system.(See Fig.PPL AKG-1) In flight if the loadmeter reading drops to zero, the most probable cause is that the: ",
+    "title": "The diagram shows a light aircraft electrical power system. In flight if the loadmeter reading drops to zero, the most probable cause is that the: ",
+    "image": "akg-1.jpg",
     "variants": {
       "a": "Alternator has failed. ",
       "b": "Battery has been fully charged. ",
       "c": "Battery is flat. ",
-      "d": "Bus-bar is overloaded. PPL AKG-1.jpg "
+      "d": "Bus-bar is overloaded. "
     }
   },
   "12": {
@@ -113,7 +114,7 @@
       "a": "Liquid swirl will increase the magnitude of any turning error. ",
       "b": "Turning errors are greatest closer to the magnetic equator. ",
       "c": "Acceleration errors are always more significant than turning errors. ",
-      "d": "The compass will be lively. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      4 / 27 "
+      "d": "The compass will be lively. "
     }
   },
   "14": {
@@ -167,7 +168,7 @@
       "a": "4 hours. ",
       "b": "25 minutes. ",
       "c": "100 minutes. ",
-      "d": "25 hours. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      5 / 27 "
+      "d": "25 hours. "
     }
   },
   "20": {
@@ -221,7 +222,7 @@
       "a": "The fuel / air mixture burning earlier than it should. ",
       "b": "Caused by a rich mixture in a hot engine. ",
       "c": "The explosive combustion of the fuel-air mixture. ",
-      "d": "Characterised by the ringing nature of the explosion it causes. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      6 / 27 "
+      "d": "Characterised by the ringing nature of the explosion it causes. "
     }
   },
   "26": {
@@ -270,19 +271,20 @@
     }
   },
   "31": {
-    "title": "The component parts of the wing shown in the diagram are: (See Fig.PPL AKG-2) A  / B / C ",
+    "title": "The component parts of the wing shown in the diagram are: \nA  / B / C ",
+    "image": "akg-2.jpg",
     "variants": {
       "a": "Front Spar / Formers / Rear Spar ",
       "b": "Primary Spar / Formers / Stringer ",
       "c": "Front Spar / Secondary Spar / Former ",
-      "d": "Stringers / Secondary Spar / Former PPL AKG-2.jpg "
+      "d": "Stringers / Secondary Spar / Former "
     }
   },
   "32": {
     "title": "Semi-monocoque can be defined as: ",
     "variants": {
       "a": "A stressed skin with supported apertures containing an internal structure framework. ",
-      "b": "A framework of light-gauge steel tubes welded together to form a space frame of triangular shape. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      7 / 27 ",
+      "b": "A framework of light-gauge steel tubes welded together to form a space frame of triangular shape. ",
       "c": "A structure with no apertures at all. ",
       "d": "An apertureless structure with load bearing formers being supported by stringers and longerons over a stressed skin. "
     }
@@ -337,7 +339,7 @@
       "a": "Once. ",
       "b": "Twice. ",
       "c": "During the power stroke. ",
-      "d": "During the induction stroke. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      8 / 27 "
+      "d": "During the induction stroke. "
     }
   },
   "39": {
@@ -364,7 +366,7 @@
       "a": "Because the speed of rotation of the engine, during starting, is too low for the magneto to produce enough energy to ignite the air-fuel mixture. ",
       "b": "Because, at high engine speeds, a fat spark is needed to extract maximum power from the air-fuel mixture. ",
       "c": "In order to overcome the problem of spark-retard during starting. ",
-      "d": "AII of the above. "
+      "d": "All of the above. "
     }
   },
   "42": {
@@ -390,7 +392,7 @@
     "variants": {
       "a": "Decreases Angle of Attack. ",
       "b": "Increases Angle of Attack. ",
-      "c": "Decreases Geometric Pitch. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      9 / 27 ",
+      "c": "Decreases Geometric Pitch. ",
       "d": "Increases Effective Pitch. "
     }
   },
@@ -431,12 +433,13 @@
     }
   },
   "49": {
-    "title": "The diagram shows a light aircraft electrical power system, which employs a centre-zero reading ammeter. (See Fig.PPL AKG-3) In flight with the battery fully charged and the battery switch ON, you would expect the ammeter to be: ",
+    "title": "The diagram shows a light aircraft electrical power system, which employs a centre-zero reading ammeter. In flight with the battery fully charged and the battery switch ON, you would expect the ammeter to be: ",
+    "image": "akg-3.jpg",
     "variants": {
       "a": "In the centre-zero position. ",
       "b": "To the right showing a large positive reading. ",
       "c": "To the left showing a negative reading. ",
-      "d": "Fluctuating, but mainly showing a negative reading.PPL AKG-3.jpg "
+      "d": "Fluctuating, but mainly showing a negative reading. "
     }
   },
   "50": {
@@ -445,7 +448,7 @@
       "a": "Is used to lock the controls on the ground to prevent damage in high wind conditions. ",
       "b": "Will constrain the control column to its design limits so as not to overstress the airframe during normal operations. ",
       "c": "Must always be used when flying in gusty conditions. ",
-      "d": "Is only necessary on the elevators. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      10 / 27 "
+      "d": "Is only necessary on the elevators. "
     }
   },
   "51": {
@@ -476,7 +479,7 @@
     }
   },
   "54": {
-    "title": "When referring to the magnetic compass, piiots must bear in mind that: ",
+    "title": "When referring to the magnetic compass, pilots must bear in mind that: ",
     "variants": {
       "a": "Turning errors are maximum when turning through North and South, and minimum when turning through East and West. ",
       "b": "Turning errors are maximum when turning through East and West, and minimum when turning through North and South. ",
@@ -494,7 +497,7 @@
     }
   },
   "56": {
-    "title": "Tyre creep may be identified by: PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      11 / 27 ",
+    "title": "Tyre creep may be identified by: ",
     "variants": {
       "a": "Alignment marks painted on the tyre sidewall and wheel flange. ",
       "b": "Two yellow diametrically opposed arrows painted on the tyre sidewalls. ",
@@ -530,7 +533,7 @@
     }
   },
   "60": {
-    "title": "Itis important to ensure the priming pump is locked after use because: ",
+    "title": "It is important to ensure the priming pump is locked after use because: ",
     "variants": {
       "a": "It may cause fuel to be sucked from the fuel strainer into the inlet manifold, causing an extremely rich mixture. ",
       "b": "It may cause a fuel leak, resulting in an increased fire risk. ",
@@ -544,7 +547,7 @@
       "a": "The C of A will be rendered invalid until such time as the required maintenance is completed. ",
       "b": "The aircraft owner must apply to the CAA for an exemption from the required maintenance schedule. ",
       "c": "The C of A must be renewed before the aircraft may fly. ",
-      "d": "The validity of the C of A will not be affected. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      12 / 27 "
+      "d": "The validity of the C of A will not be affected. "
     }
   },
   "62": {
@@ -607,11 +610,11 @@
       "a": "Unstable combustion. ",
       "b": "An explosion that occurs before the normal ignition point. ",
       "c": "Usually associated with a rich mixture and high cylinder head temperature. ",
-      "d": "Usually associated with a weak mixture and a low cylinder head temperature. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      13 / 27 "
+      "d": "Usually associated with a weak mixture and a low cylinder head temperature. "
     }
   },
   "69": {
-    "title": "If the power supply to the pitot heater failed during flight in icing conditions and the aircraft subsequently descended, the readings on the Altimeter, the VSI and theASI would, if ice had blocked the pitot (Total Pressure) tube:-  Altimeter  VSI  ASI ",
+    "title": "If the power supply to the pitot heater failed during flight in icing conditions and the aircraft subsequently descended, the readings on the Altimeter, the VSI and the ASI would, if ice had blocked the pitot (Total Pressure) tube:-  \nAltimeter  VSI  ASI ",
     "variants": {
       "a": "Read Correctly / Read Correctly / Under-read ",
       "b": "Read Correctly / Under-read / Over-read ",
@@ -629,7 +632,7 @@
     }
   },
   "71": {
-    "title": "In icing conditions, if a static vent became blocked during level flight and the aircraft subsequently climbed, the readings on the Altimeter, the VSI and theASI would:- Altimeter  VSI  ASI ",
+    "title": "In icing conditions, if a static vent became blocked during level flight and the aircraft subsequently climbed, the readings on the Altimeter, the VSI and the ASI would:- \nAltimeter  VSI  ASI ",
     "variants": {
       "a": "Remain unchanged / Remain unchanged / Under-read ",
       "b": "Remain unchanged / Under-read / Over-read ",
@@ -659,7 +662,7 @@
     "title": "In the aircraft tanks, fuel is most likely to be contaminated by water from: ",
     "variants": {
       "a": "Atmospheric air remaining in the tanks. ",
-      "b": "Poorly fitting fuel caps. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      14 / 27 ",
+      "b": "Poorly fitting fuel caps. ",
       "c": "Contamination during re-fuelling. ",
       "d": "Leaks in the tanks that have let in rain. "
     }
@@ -687,8 +690,8 @@
     "variants": {
       "a": "When the throttle is opened quickly and the demand for fuel cannot be met immediately. ",
       "b": "When the throttle is closed quickly and the engine is starved of fuel. ",
-      "c": "When the throttle is opened quickly and the mixture becomes temporarily too rich, ",
-      "d": "d)j When the throttle is closed and the mixture becomes temporarily too rich. "
+      "c": "When the throttle is opened quickly and the mixture becomes temporarily too rich. ",
+      "d": "When the throttle is closed and the mixture becomes temporarily too rich. "
     }
   },
   "78": {
@@ -696,7 +699,7 @@
     "variants": {
       "a": "-7 to +33°C. ",
       "b": "0°C and below. ",
-      "c": "-20to+10°C. ",
+      "c": "-20 to +10°C. ",
       "d": "At any temperature. "
     }
   },
@@ -715,7 +718,7 @@
       "a": "Oleo pneumatic shock-absorber struts. ",
       "b": "Spring steel struts. ",
       "c": "Spring coil struts. ",
-      "d": "Compressed rubber struts. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      15 / 27 "
+      "d": "Compressed rubber struts. "
     }
   },
   "81": {
@@ -775,14 +778,14 @@
   "87": {
     "title": "As air enters the restriction of a Venturi, velocity_____, static or ambient pressure _____and temperature_____. ",
     "variants": {
-      "a": "Increases Decreases   Decreases ",
-      "b": "Increases Increases   Increases PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      16 / 27 ",
-      "c": "Decreases Increases   Decreases ",
+      "a": "Increases Decreases Decreases ",
+      "b": "Increases Increases Increases ",
+      "c": "Decreases Increases Decreases ",
       "d": "Decreases Decreases Increases "
     }
   },
   "88": {
-    "title": "Which instruments are usually powered by a vacuum pump system? (1) Direction Indicator (2) Turn Coordinator  (3) Attitude Indicator (4) Altimeter (5) Magnetic Compass. ",
+    "title": "Which instruments are usually powered by a vacuum pump system? \n(1) Direction Indicator \n(2) Turn Coordinator  \n(3) Attitude Indicator \n(4) Altimeter \n(5) Magnetic Compass. ",
     "variants": {
       "a": "(1) and (3). ",
       "b": "(1) and (2). ",
@@ -811,7 +814,7 @@
   "91": {
     "title": "A Direction Indicator may be aligned with the magnetic compass:- ",
     "variants": {
-      "a": "By using the caging knob to rotate the Dl azimuth card when the wings are level. ",
+      "a": "By using the caging knob to rotate the DI azimuth card when the wings are level. ",
       "b": "To minimise the effect of magnetic dip. ",
       "c": "Periodically, to offset the affect of acceleration during a turn. ",
       "d": "Because of the effect of liquid swirl. "
@@ -831,7 +834,7 @@
       "a": "Is the sum of the compass heading and compass deviation. ",
       "b": "Is the sum of the compass heading, compass deviation and variation. ",
       "c": "Is not affected by turning errors. ",
-      "d": "Is always referenced to True North. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      17 / 27 "
+      "d": "Is always referenced to True North. "
     }
   },
   "94": {
@@ -884,7 +887,7 @@
     "variants": {
       "a": "The aircraft's heading compass reading is compared with readings from a 'land or datum' compass. ",
       "b": "It can be carried out on any part of the airfield which is dry and flat. ",
-      "c": "It will enable the aircraft's variation to be determined. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      18 / 27 "
+      "c": "It will enable the aircraft's variation to be determined. "
     }
   },
   "100": {
@@ -947,7 +950,7 @@
       "a": "For lubricating and cooling of the engine. ",
       "b": "To increase mixture combustion temperature in the cylinders. ",
       "c": "As additive for proper fuel/air which burns in the cylinders. ",
-      "d": "For quiet engine operating only. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      19 / 27 "
+      "d": "For quiet engine operating only. "
     }
   },
   "107": {
@@ -1009,7 +1012,7 @@
     "variants": {
       "a": "Improved engine performance. ",
       "b": "Balanced cylinder head pressure. ",
-      "c": "Uniform heat distribution. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      20 / 27 "
+      "c": "Uniform heat distribution. "
     }
   },
   "114": {
@@ -1068,7 +1071,7 @@
     "title": "What change occurs in the fuel/air mixture when carburettor heat is applied? ",
     "variants": {
       "a": "The fuel/air mixture becomes richer. ",
-      "b": "A decrease in RPM results from the lean mixture. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      21 / 27 ",
+      "b": "A decrease in RPM results from the lean mixture. ",
       "c": "The fuel/air mixture becomes leaner. "
     }
   },
@@ -1120,7 +1123,7 @@
     "variants": {
       "a": "To avoid detonation and resulting destruction of the engine. ",
       "b": "To develop more power. ",
-      "c": "To prevent carburettor icing at high speeds. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      22 / 27 ",
+      "c": "To prevent carburettor icing at high speeds. ",
       "d": "To avoid pre-ignition and resulting destruction of the engine. "
     }
   },
@@ -1169,12 +1172,16 @@
   },
   "132": {
     "title": "Which adverse effect, caused by a gyroscopic effect, will a pilot experience during the takeoff roll while lifting a tail off the ground? ",
-    "variants": { "a": "Banking tendency. ", "b": "Pitching. ", "c": "Yawing. " }
+    "variants": {
+      "a": "Banking tendency. ",
+      "b": "Pitching. ",
+      "c": "Yawing. "
+    }
   },
   "133": {
     "title": "What is the function of a shimmy dumper on an aircraft undercarriage? ",
     "variants": {
-      "a": "To prevent nose wheel vibrations. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      23 / 27 ",
+      "a": "To prevent nose wheel vibrations. ",
       "b": "To dumpen bouncing. ",
       "c": "To decrease main leg piston travel. ",
       "d": "To decrease shocks on direction pedals. "
@@ -1204,7 +1211,7 @@
       "a": "The forward wind component. ",
       "b": "Pitot error caused by flow losses in the pitot tube. ",
       "c": "Yaw error caused by the yawing movement in cruise flight. ",
-      "d": "Variations in temperature and air density. (see Figure 8) "
+      "d": "Variations in temperature and air density. "
     }
   },
   "137": {
@@ -1231,7 +1238,7 @@
       "a": "Normal operating speed range. ",
       "b": "Dangerous area. ",
       "c": "The landing gear and flaps operating speed range. ",
-      "d": "Maximum allowed speed. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      24 / 27 "
+      "d": "Maximum allowed speed. "
     }
   },
   "140": {
@@ -1293,7 +1300,7 @@
     "variants": {
       "a": "The airport heigh above the pressure plane 1013.2 hPa. ",
       "b": "Zero. ",
-      "c": "The airport elevation. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      25 / 27 ",
+      "c": "The airport elevation. ",
       "d": "The indication is not usable. "
     }
   },
@@ -1324,7 +1331,7 @@
     "variants": {
       "a": "decreases. ",
       "b": "increases. ",
-      "c": "stays unchanged. PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      26 / 27 APPENDEX: Slika PPL AKG-1 Slika PPL AKG-2 PPL (A) – Aircraft general knowledgeLatest information about the exam can be found atwww.cad.gov.rs/osoblje.php      27 / 27 Slika PPL AKG-3 "
+      "c": "stays unchanged. "
     }
   }
 }
