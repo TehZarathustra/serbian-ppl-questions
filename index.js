@@ -10,11 +10,20 @@ const checkIfTrash = item => {
 	const cad_regex = /www.cad.gov/;
 	// 2 / 27
 	const page_regex = /[0-9] \/ [0-9]/;
+	// PPL FPP-8e.jpg
+	const image_regex = /PPL FPP-8e.jpg/;
+	// see Figure PPL Nav-1
+	const see_figure_regex = /see Figure PPL Nav-1/;
+	// Latest informa
+	const latest_info_regex_2 = /Latest informa/;
 	const TRASH = [
 		ppla_regex,
 		latest_info_regex,
+		latest_info_regex_2,
 		cad_regex,
-		page_regex
+		page_regex,
+		image_regex,
+		see_figure_regex
 	];
 
 	return TRASH.some(regex => regex.test(item));
@@ -22,7 +31,11 @@ const checkIfTrash = item => {
 
 const onReady = filename => pdfData => {
 	const questions = {};
+	// 470 fpm.  4 - an example of an item with trailing question
+	// update regex below
+
 	const questionRegex = /^([0-9]|[1-9][0-9]|[1-9][0-9][0-9])(\)|\.)$/;
+
 	const variantRegex = /(^[1-4]\)|(^[A-d].$))/;
 	const formatQuestion = question => question.replace('.', '').replace(')', '');
 	let prev = 'finished';
@@ -89,7 +102,6 @@ const onReady = filename => pdfData => {
 	// debug each page
 	// pdfData.Pages[1].Texts.forEach(item => parseItem(decodeURIComponent(item.R[0].T)))
 	// console.log(questions)
-
 	// return;
 
 	return fsPromises.writeFile(`./parsed/${filename}.json`, JSON.stringify(questions))
@@ -112,7 +124,7 @@ const PDFS = {
 	flight_planning_and_monitoring: '3.Flight planning and monitoring.pdf', // broken
 	human_performance: '4.Human performance.pdf',
 	meteorology: '5.Meteorology.pdf',
-	navigation: '6.Navigation.pdf', // broken
+	navigation: '6.Navigation_ed.pdf', // broken
 	procedures: '7.Operational procedures.pdf',
 	principles_of_flight: '8.Principles of flight.pdf',
 	communications: '9.Communications.pdf',
