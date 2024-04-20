@@ -1,18 +1,12 @@
+import {ResultItem} from './ResultItem'
+
 export const Results = ({data}) => {
 	return (
-		<div style={{marginTop: '-10%'}}>
+		<div style={{marginBottom: '40px'}}>
 			<h3>Results</h3>
-			{
-				data.map(({id, answer, correct, correctAnswer, question, theme}) => (
-					<div key={id}>
-						<div>{question} <i>{id}</i></div>
-						<ul>
-							<li>{answer} {correct ? '✅' : '❌'}</li>
-							{!correct && <li>{correctAnswer}</li>}
-						</ul>
-					</div>
-				))
-			}
+			<div style={{display: 'flex', flexDirection: 'column', gap: '20px'}}>
+				{data.map(props => (<ResultItem key={props.id} {...props} />))}
+			</div>
 		</div>
 	)
 }

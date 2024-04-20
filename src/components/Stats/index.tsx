@@ -1,12 +1,12 @@
 import {useEffect, useState} from 'react'
+import {getParsedQuestionsFromLocalStorage} from '@storage'
 
 export const Stats = ({rawQuestions, currentQuestion}) => {
 	const [questions, setQuestions] = useState(rawQuestions)
 	const [theme, setTheme] = useState('')
-	console.log('stats >>>', rawQuestions)
 
 	const checkStorage = () => {
-		const questions = JSON.parse(window?.localStorage.getItem('__serb-ppl-questions'))
+		const questions = getParsedQuestionsFromLocalStorage()
 		if (questions) setQuestions(questions)
 	}
 
@@ -34,7 +34,7 @@ export const Stats = ({rawQuestions, currentQuestion}) => {
 	const getDebug = (questions) => Object.entries(questions).map(([key, val]) => {
 		return (
 			<div key={key} style={{
-				background: theme === key ? 'red' : 'transparent',
+				background: theme === key ? 'crimson' : 'transparent',
 				transition: 'background .2s ease-in-out',
 				padding: '10px',
 				boxSizing: 'border-box',
@@ -57,7 +57,15 @@ export const Stats = ({rawQuestions, currentQuestion}) => {
 	});
 
 	return (
-		<div style={{display: 'grid', gap: '20px', gridTemplateColumns: '1fr 1fr', padding: '10px'}}>
+		<div style={{
+			display: 'grid',
+			gap: '20px',
+			gridTemplateColumns: '1fr 1fr',
+			padding: '10px',
+			position: 'sticky',
+			top: '10px',
+			height: '100%',
+		}}>
 			{getDebug(questions)}
 		</div>
 	)

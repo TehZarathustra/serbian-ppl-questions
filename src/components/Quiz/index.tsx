@@ -11,7 +11,15 @@ export const Quiz: FC<QuizProps> = ({questions, shuffle, highlight, onLog}) => {
 	const handleFinish = (result: ResultItem) => {
 		answers.current.push(result)
 
-		if (currentQuestion + 1 >= questions.length) return setIsFinished(true)
+		if (currentQuestion + 1 >= questions.length) {
+			setIsFinished(true)
+
+			// remove highlight
+			const event = new CustomEvent('__serb-ppl-theme', {detail: ''})
+			window.dispatchEvent(event)
+
+			return
+		}
 
 		setCurrentQuestion(currentQuestion + 1)
 	}
@@ -23,7 +31,6 @@ export const Quiz: FC<QuizProps> = ({questions, shuffle, highlight, onLog}) => {
 			{isFinished
 				? <Results data={answers.current} />
 				: <div>
-					<div>{currentQuestion + 1} of {questions.length}</div>
 					{/* <MobileStepper
 						variant="progress"
 						steps={questions.length}
@@ -34,6 +41,7 @@ export const Quiz: FC<QuizProps> = ({questions, shuffle, highlight, onLog}) => {
 					/> */}
 					<Question
 						question={questions[currentQuestion]}
+						progressMessage={`${currentQuestion + 1} of ${questions.length}`}
 						onFinish={handleFinish}
 						shuffle={shuffle}
 						highlight={highlight}

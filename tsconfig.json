@@ -21,6 +21,7 @@
     "noFallthroughCasesInSwitch": true,
     "paths": {
       "@utils": ["./src/utils.ts"],
+      "@storage": ["./src/storage.ts"],
     }
   },
   "include": ["src"],

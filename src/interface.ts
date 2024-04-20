@@ -11,6 +11,7 @@ export interface QuestionItem {
 	id: string
 	title: string
 	theme: string
+	image?: string
 	seen: number
 	variants: Record<string, string>
 	correctAnswer: string

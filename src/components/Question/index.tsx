@@ -6,13 +6,13 @@ import {
 	FormControl,
 	FormLabel,
 	FormControlLabel,
-	FormHelperText,
 	RadioGroup,
 	Radio,
 	Typography
 } from '@mui/material'
 import {QuestionItem, ResultItem} from '../../interface'
 import {fisherShuffle} from '@utils'
+import {getQuestionFromLocalStorage} from '@storage'
 
 interface QuestionProps {
 	question: QuestionItem
@@ -23,18 +23,21 @@ interface QuestionProps {
 
 const promisify = fn => (...args: unknown[]) => new Promise(resolve => resolve(fn(...args)))
 
-const getQuestionFromLocalStorage = (id: string) => {
-	const questions = JSON.parse(window.localStorage.getItem('__serb-ppl-questions'))
-
-	return Object.values(questions).flat().find(q => q.id === id)
-}
-
-export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFinish, onLog}) => {
+export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFinish, onLog, progressMessage}) => {
 	const {id, title, variants, theme, correctAnswer} = question
 
 	const [radioValue, setRadioValue] = useState('')
 	const [highlighted, setHighlighted] = useState(false)
 	const [processedVariants, setProcessedVariants] = useState<Record<string, string>>(variants)
+	const [image, setImage] = useState('')
+
+	useEffect(() => {
+		if (question.image) {
+			import(`../../../edited/${question.image}`)
+				.then(image => setImage(image.default))
+				.catch(console.error)
+		}
+	}, [question])
 
 	useEffect(() => {
 		const event = new CustomEvent('__serb-ppl-theme', {detail: question?.theme});
@@ -71,6 +74,7 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 	const generateOutput = (answer: string) => promisify((correct: boolean) => ({
 		id,
 		question: title,
+		image,
 		theme,
 		answer,
 		correct,
@@ -161,10 +165,11 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 	console.log('variants >>>', variants)
 
 	return (
-		<Card sx={{maxWidth: 680, mt: 10, minWidth: '100%'}}>
+		<Card sx={{maxWidth: 700, mt: 10, minWidth: '100%'}}>
 			<CardContent>
-			<Typography sx={{fontSize: 14}} color="text.secondary" gutterBottom>
-				{themeParser(theme)}
+			<Typography sx={{fontSize: 14, display: 'flex', justifyContent: 'space-between'}} color="text.secondary" gutterBottom>
+				<div>{themeParser(theme)}</div>
+				<div>{progressMessage}</div>
 			</Typography>
 			<form onSubmit={onSelect}>
 				<FormControl sx={{m: 3}} variant="standard">
@@ -174,6 +179,7 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 					>
 						{title}
 					</FormLabel>
+					<img src={image} style={{width: '100%'}} alt="" />
 					<RadioGroup
 						aria-labelledby="error-radios"
 						name="question"
