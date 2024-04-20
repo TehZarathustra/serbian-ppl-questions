@@ -27,20 +27,8 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 	const [radioValue, setRadioValue] = useState('')
 	const [highlighted, setHighlighted] = useState(false)
 	const [processedVariants, setProcessedVariants] = useState<Record<string, string>>(variants)
-	const [image, setImage] = useState('')
 
-	useEffect(() => {
-		if (question.image) {
-			// @TODO check if viable at all
-			import(`../../../edited/${question.image}`)
-				.then(image => setImage(image.default))
-				.catch(console.error)
-
-			return
-		}
-
-		setImage('')
-	}, [imgSrc])
+	const image = new URL(`../../../edited/${imgSrc}`, import.meta.url).href
 
 	useEffect(() => {
 		const event = new CustomEvent('__serb-ppl-theme', {detail: question?.theme});
