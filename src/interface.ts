@@ -11,7 +11,10 @@ export interface QuestionItem {
 	id: string
 	title: string
 	theme: string
+	seen: number
 	variants: Record<string, string>
+	correctAnswer: string
+	correctAnswers: number
 }
 
 export interface QuizProps {

@@ -3,21 +3,20 @@ import {Question} from '../Question'
 import {Results} from '../Results'
 import {ResultItem, QuizProps} from '../../interface'
 
-export const Quiz: FC<QuizProps> = ({data}) => {
-	const [questions] = useState(data)
+export const Quiz: FC<QuizProps> = ({questions, shuffle, highlight, onLog}) => {
 	const [currentQuestion, setCurrentQuestion] = useState(0)
 	const [isFinished, setIsFinished] = useState(false)
 	const answers = useRef<ResultItem[]>([])
 
 	const handleFinish = (result: ResultItem) => {
-		answers.current.push(result);
+		answers.current.push(result)
 
-		if (currentQuestion + 1 >= questions.length) {
-			return setIsFinished(true);
-		}
+		if (currentQuestion + 1 >= questions.length) return setIsFinished(true)
 
-		setCurrentQuestion(currentQuestion + 1);
+		setCurrentQuestion(currentQuestion + 1)
 	}
+
+	if (!questions) return null
 
 	return (
 		<>
@@ -25,9 +24,20 @@ export const Quiz: FC<QuizProps> = ({data}) => {
 				? <Results data={answers.current} />
 				: <div>
 					<div>{currentQuestion + 1} of {questions.length}</div>
+					{/* <MobileStepper
+						variant="progress"
+						steps={questions.length}
+						position="static"
+						activeStep={currentQuestion}
+						backButton={null}
+						nextButton={null}
+					/> */}
 					<Question
 						question={questions[currentQuestion]}
 						onFinish={handleFinish}
+						shuffle={shuffle}
+						highlight={highlight}
+						onLog={onLog}
 					/>
 				</div>
 			}
