@@ -168,7 +168,7 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 	console.log('variants >>>', variants)
 
 	return (
-		<Card sx={{maxWidth: 700, mt: 10, minWidth: '100%'}}>
+		<Card sx={{maxWidth: 700, mt: 10, width: '100%'}}>
 			<CardContent>
 			<Typography sx={{fontSize: 14, display: 'flex', justifyContent: 'space-between'}} color="text.secondary" gutterBottom>
 				<div>{themeParser(theme)}</div>

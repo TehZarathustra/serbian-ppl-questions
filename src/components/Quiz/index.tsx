@@ -30,24 +30,14 @@ export const Quiz: FC<QuizProps> = ({questions, shuffle, highlight, onLog}) => {
 		<>
 			{isFinished
 				? <Results data={answers.current} />
-				: <div>
-					{/* <MobileStepper
-						variant="progress"
-						steps={questions.length}
-						position="static"
-						activeStep={currentQuestion}
-						backButton={null}
-						nextButton={null}
-					/> */}
-					<Question
-						question={questions[currentQuestion]}
-						progressMessage={`${currentQuestion + 1} of ${questions.length}`}
-						onFinish={handleFinish}
-						shuffle={shuffle}
-						highlight={highlight}
-						onLog={onLog}
-					/>
-				</div>
+				: <Question
+					question={questions[currentQuestion]}
+					progressMessage={`${currentQuestion + 1} of ${questions.length}`}
+					onFinish={handleFinish}
+					shuffle={shuffle}
+					highlight={highlight}
+					onLog={onLog}
+				/>
 			}
 		</>
 	);
