@@ -25,7 +25,7 @@ export const getParsedQuestionsFromLocalStorage = () => {
 }
 
 export const getQuestionFromLocalStorage = (id: string) => {
-	return Object.values(getParsedQuestionsFromLocalStorage()).flat().find(q => q.id === id)
+	return Object.values(getParsedQuestionsFromLocalStorage()).flat().find(q => q.id === id) || {}
 }
 
 export const saveQuestionToLocalStorage = (question: Question) => {

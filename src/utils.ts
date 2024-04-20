@@ -16,6 +16,9 @@ export const generateQuestions = ([theme, json]: GenerateProps) => Object.entrie
 		incorrectAnswers: 0,
 	}))
 
+export const promisify = fn =>
+	(...args: unknown[]) => new Promise(resolve => resolve(fn(...args)))
+
 export const fisherShuffle = (arr: unknown[]) => {
 	for (let i = arr.length - 1; i > 0; i--) {
 		const j = Math.floor(Math.random() * (i + 1));

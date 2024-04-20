@@ -11,7 +11,7 @@ import {
 	Typography
 } from '@mui/material'
 import {QuestionItem, ResultItem} from '../../interface'
-import {fisherShuffle} from '@utils'
+import {fisherShuffle, promisify} from '@utils'
 import {getQuestionFromLocalStorage} from '@storage'
 
 interface QuestionProps {
@@ -21,10 +21,8 @@ interface QuestionProps {
 	onFinish: (result: ResultItem) => void
 }
 
-const promisify = fn => (...args: unknown[]) => new Promise(resolve => resolve(fn(...args)))
-
 export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFinish, onLog, progressMessage}) => {
-	const {id, title, variants, theme, correctAnswer} = question
+	const {id, title, variants, theme, correctAnswer, image: imgSrc} = question
 
 	const [radioValue, setRadioValue] = useState('')
 	const [highlighted, setHighlighted] = useState(false)
@@ -33,11 +31,16 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 
 	useEffect(() => {
 		if (question.image) {
+			// @TODO check if viable at all
 			import(`../../../edited/${question.image}`)
 				.then(image => setImage(image.default))
 				.catch(console.error)
+
+			return
 		}
-	}, [question])
+
+		setImage('')
+	}, [imgSrc])
 
 	useEffect(() => {
 		const event = new CustomEvent('__serb-ppl-theme', {detail: question?.theme});

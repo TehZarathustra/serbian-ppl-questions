@@ -32,7 +32,6 @@ const shuffleAndLimitQuestions = (questions: Questions, limit: number) =>
 
 // if i'd ever need to filter questions with images
 // const mergeQuestions = (questions: ReturnType<typeof shuffleQuestions>) => questions.flat().filter(q => q.image)
-
 const mergeQuestions = (questions: ReturnType<typeof shuffleQuestions>) => questions.flat()
 
 const getAllQuestions = () => {
