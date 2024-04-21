@@ -2,7 +2,7 @@ import {getParsedQuestionsFromLocalStorage} from '@storage';
 
 export const ResultItem = ({id, answer, correct, correctAnswer, image, question, theme}) => {
 	const questions = getParsedQuestionsFromLocalStorage();
-	const isSeen = questions[theme].find(q => q.id === id).seen > 1;
+	const isSeen = questions[theme].find(q => q.id === id).seen > 3;
 
 	return(<div key={id} style={{
 		background: correct ? 'lightgreen' : 'lightsalmon',
