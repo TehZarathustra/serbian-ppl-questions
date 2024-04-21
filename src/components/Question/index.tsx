@@ -28,10 +28,10 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 	const [highlighted, setHighlighted] = useState(false)
 	const [processedVariants, setProcessedVariants] = useState<Record<string, string>>(variants)
 
-	const image = new URL(`../../../edited/${imgSrc}`, import.meta.url).href
+	const image = imgSrc && new URL(`../../questions/${imgSrc}`, import.meta.url).href
 
 	useEffect(() => {
-		const event = new CustomEvent('__serb-ppl-theme', {detail: question?.theme});
+		const event = new CustomEvent('__serb-ppl-theme', {detail: question?.theme})
 
 		window.dispatchEvent(event)
 	}, [question])
@@ -53,8 +53,6 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 				...getQuestionFromLocalStorage(question.id),
 				seen: question.seen + 1
 			}
-
-			console.log('updatedQuestion >>>', updatedQuestion)
 
 			onLog(updatedQuestion)
 		}
@@ -152,9 +150,6 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 			.catch(console.error)
 	}
 
-	console.log('radioValue >>>', radioValue)
-	console.log('variants >>>', variants)
-
 	return (
 		<Card sx={{maxWidth: 700, mt: 10, width: '100%'}}>
 			<CardContent>
@@ -163,7 +158,7 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 				<div>{progressMessage}</div>
 			</Typography>
 			<form onSubmit={onSelect}>
-				<FormControl sx={{m: 3}} variant="standard">
+				<FormControl sx={{m: 3, width: '100%', padding: '24px', boxSizing: 'border-box', margin: 0}} variant="standard">
 					<FormLabel
 						sx={{fontSize: 20, fontWeight: 500, mb: 2}}
 						focused={false}
@@ -193,7 +188,6 @@ export const Question: FC<QuestionProps> = ({question, shuffle, highlight, onFin
 							/>
 						))}
 					</RadioGroup>
-					{/* <FormHelperText>helperText</FormHelperText> */}
 					<Button sx={{mt: 1, mr: 1}} type="submit" variant="outlined">
 						Next
 					</Button>

@@ -22,6 +22,7 @@ import {
 	Question,
 	Questions
 } from './types'
+import './App.css'
 
 const params = (obj: Record<string, JSONType>) => Object.entries(obj)[0]
 
@@ -80,8 +81,8 @@ export const App = () => {
 	}
 
 	return (
-		<div style={{display: 'flex', gap: '40px'}}>
-			<div style={{width: '60vw', justifyContent: 'center', display: 'flex', alignItems: 'center'}}>
+		<div className='app'>
+			<div className='app__content'>
 				{!isStarted && <Configuration
 					onSubmit={onConfigurationSubmit}
 					onReset={onReset}

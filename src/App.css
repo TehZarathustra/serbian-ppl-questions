@@ -1,6 +1,11 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+.app {
+	display: flex;
+	gap: 40px;
+}
+
+.app__content {
+	width: 60vw;
+	justify-content: center;
+	display: flex;
+	align-items: center;
 }
