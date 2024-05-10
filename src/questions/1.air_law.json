@@ -1227,12 +1227,11 @@
     }
   },
   "141": {
-    "title": "The responsibility for ensuring that maintenance personnel make the appropriate entriesin the aircraft maintenance records indicating the aircraft has been approved for return to service ",
+    "title": "The responsibility for ensuring that maintenance personnel make the appropriate entriesin the aircraft maintenance records indicating the aircraft has been approved for return to service lies with the",
     "variants": {
-      "a": "Lies with the ",
-      "b": "Mechanic, who performed the work. ",
-      "c": "Owner or operator. ",
-      "d": "Pilot in command. "
+      "a": "Mechanic, who performed the work. ",
+      "b": "Owner or operator. ",
+      "c": "Pilot in command. "
     }
   },
   "142": {
