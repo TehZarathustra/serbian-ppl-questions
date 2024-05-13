@@ -1003,12 +1003,11 @@
     }
   },
   "115": {
-    "title": "Which technique should a pilot use to scan for traffic to the right and left during ",
+    "title": "Which technique should a pilot use to scan for traffic to the right and left during Straight-and-level flight?",
     "variants": {
-      "1": "Straight-and-level flight? ",
-      "2": "Systematically focus on different segments of the sky for short intervals. ",
-      "3": "Continuous sweeping of the windshield from right to left. ",
-      "4": "Concentrate on relative movement detected in the peripheral vision area. "
+      "1": "Systematically focus on different segments of the sky for short intervals. ",
+      "2": "Continuous sweeping of the windshield from right to left. ",
+      "3": "Concentrate on relative movement detected in the peripheral vision area. "
     }
   },
   "116": {
